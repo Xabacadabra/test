@@ -1,5 +1,4 @@
 ---
-
 title: "Perché non mi piacciono più anime e manga?"
 modified: 2016-10-30
 categories: [2014]
@@ -8,10 +7,9 @@ tags:
    - animazione
    - fumetti
    - xabologia
-image: 
-  feature: non-mi-piacciono-anime-manga.jpg
-  teaser: teaser-anime-manga.jpg
-  thumb: null
+header:  
+  image:  images/non-mi-piacciono-anime-manga.jpg
+  teaser: images/teaser-anime-manga.jpg
 published: true
 comments: true
 ---

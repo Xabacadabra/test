@@ -7,8 +7,8 @@ excerpt: "Non dovrei scrivere queste cose, ma l'occasione è ghiotta, la bile è
 tags: 
    - animazione
    - fumetti
-image: 
-  feature: narutocagata.jpg
+header:  
+  image:  narutocagata.jpg
   teaser: TeaserNaruto.jpg
   thumb: null
 published: true

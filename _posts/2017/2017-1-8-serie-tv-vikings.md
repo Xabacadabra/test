@@ -6,8 +6,8 @@ categories: [2017]
 excerpt: "Nessuno Spoiler, tranquilli: solo qualche generica osservazione sparsa nel pieno della quarta stagione."
 tags:
   - serie-tv
-image: 
-  feature: vikings.jpg
+header:  
+  image:  vikings.jpg
   teaser: teaser-vikings.jpg
   thumb: 
 published: true

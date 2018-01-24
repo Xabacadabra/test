@@ -7,8 +7,8 @@ excerpt: "Piccolo aggiornamento tecnico, che sono cose che dovrei fare più spes
 tags:
   - cyberspazio
   - xabologia
-image: 
-  feature: null
+header:  
+  image:  null
   teaser: teaser-default.jpg
   thumb: null
 published: true

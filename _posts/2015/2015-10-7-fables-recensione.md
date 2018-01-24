@@ -7,8 +7,8 @@ excerpt: "Prima di tutto Fables è di gran lunga uno dei più bei fumetti che io
 tags: 
    - recensioni
    - fumetti
-image: 
-  feature: fables.jpg
+header:  
+  image:  fables.jpg
   teaser: teaserfables.jpg
   thumb: null
 published: true

@@ -6,8 +6,8 @@ categories: [2015]
 excerpt: "Lo vidi la prima volta che era il 2003, Coppa Intercontinetale Boca Juniors - Milan, lui ovviamente con gli xeneizes (i genovesi), poi vincitori."
 tags: [sport, xabologia]
 comments: true
-image: 
-  feature: tevez.jpg
+header:  
+  image:  tevez.jpg
   teaser:  teaser-tevez.jpg
 ---
 

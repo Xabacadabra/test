@@ -7,8 +7,8 @@ excerpt: "Come chi ha avuto l'ardire di seguire questo blog saprà, spesso ho sc
 tags:
   - politica
   - xabologia
-image: 
-  feature: politicanausea.jpg
+header:  
+  image:  politicanausea.jpg
   teaser: teaserpoliticanausea.jpg
   thumb: null
 published: true

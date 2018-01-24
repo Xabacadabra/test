@@ -8,8 +8,8 @@ Vediamo se riesco a farvi cambiare idea: pronti ?..."
 tags:
   - cyberspazio
   - spettacolo
-image: 
-  feature: jessicanigri.jpg
+header:  
+  image:  jessicanigri.jpg
   teaser: teaserjessicanigri.jpg
   thumb: null
 published: true

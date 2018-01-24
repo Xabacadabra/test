@@ -5,8 +5,8 @@ modified: null
 categories: [2015]
 excerpt: "Quest'anno fino all'ultimo ero proprio convinto che non ce la si faceva, e già a malincuore programmavo un post gramo e rosicone, ma invece..."
 tags: [fumetti, spettacolo]
-image: 
-  feature: lucca-2015.jpg
+header:  
+  image:  lucca-2015.jpg
   teaser:  teaser-lucca-2015.jpg
   thumb: 
 published: true

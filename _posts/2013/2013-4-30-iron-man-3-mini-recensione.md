@@ -5,8 +5,8 @@ modified: null
 categories: [2013]
 excerpt: "Niente pipponi mentali, solo due amabili e pregni elenchi di PRO e CONTRO, vediamo assieme quanto c'è di bello (e di brutto) in Iron Man 3:"
 tags: [recensioni, cinema]
-image: 
-  feature: ironman3.jpg
+header:  
+  image:  ironman3.jpg
   teaser:  teaserironman3.jpg
   thumb: 
 published: true

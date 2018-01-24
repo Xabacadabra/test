@@ -6,8 +6,8 @@ categories: [2014]
 excerpt: "Se vent'anni fa aveste domandato agli adolescenti quale fosse il triangolo amoroso per eccellenza probabilmente vi avrebbero snocciolato il celeberrimo Brenda - Dylan - Kelly...ma, interpellando i più *pischelli, la risposta sarebbe stata una sola: Sabrina - Johnny - Tinetta (o, canonicamente parlando, Madoka - Kyusuke - Hikaru).."
 tags: 
    - animazione
-image: 
-  feature: orange-road-e-quasi-magia-johnny.jpg
+header:  
+  image:  orange-road-e-quasi-magia-johnny.jpg
   teaser: teaser-orange-road-e-quasi-magia-johnny.jpg
   thumb: null
 published: true

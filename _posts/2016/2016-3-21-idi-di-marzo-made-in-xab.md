@@ -5,8 +5,8 @@ modified: null
 categories: [2016]
 excerpt: "Ultimamente sono un po' scomparso da questi lidi per un bel po' di motivi diversi..."
 tags: [xabologia]
-image: 
-  feature: xabacadabra4.jpg
+header:  
+  image:  xabacadabra4.jpg
   teaser:  teaserxabacadabra4.jpg
   thumb: 
 published: true

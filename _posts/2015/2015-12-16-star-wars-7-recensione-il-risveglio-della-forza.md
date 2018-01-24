@@ -5,8 +5,8 @@ modified: null
 categories: [2015]
 excerpt: "Comincerò in modo brutale: Il Risveglio della Forza è la più..."
 tags: [recensioni, cinema]
-image: 
-  feature: StarWars7RecensioneIlRisveglioDellaForza.jpg
+header:  
+  image:  StarWars7RecensioneIlRisveglioDellaForza.jpg
   teaser: TeaserReceStarWars7.jpg
   thumb: 
 published: true

@@ -6,8 +6,8 @@ categories: [2016]
 excerpt: "Cosa ci può trovare un giovane nella prima serie di Gundam?"
 tags:
   - animazione
-image: 
-  feature: gundam.jpg
+header:  
+  image:  gundam.jpg
   teaser: teaser-gundam.jpg
   thumb: null
 published: true

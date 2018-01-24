@@ -1,5 +1,4 @@
 ---
-
 title: "Intervista a Kazuko Shibuya [Parte 4]"
 modified: null
 categories: [2018]
@@ -7,10 +6,9 @@ excerpt: "Quarta parte dell'intervista alla storica Designer della Serie: Romanc
 tags:
   - videogiochi
   - interviste
-image: 
-  feature: intervista-kazuko-shibuya.jpg
-  teaser: teaser-intervista-kazuko-shibuya.jpg
-  thumb: 
+header: 
+  image:  images/intervista-kazuko-shibuya.jpg
+  teaser: images/teaser-intervista-kazuko-shibuya.jpg 
 published: false
 comments: true
 ---

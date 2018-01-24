@@ -5,8 +5,8 @@ modified: null
 categories: [2015]
 excerpt: "Fantasy neilgaimaniano, quindi per qualche motivo squisitamente digeribile e dal gusto amabilmente britannico:"
 tags: [recensioni, cinema]
-image: 
-  feature: stardust.jpg
+header:  
+  image:  stardust.jpg
   teaser:  teaserstardust.jpg
   thumb: 
 published: true

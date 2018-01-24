@@ -7,8 +7,8 @@ excerpt: "O come le chiamo io (tra i tanti modi) le gnappone strappone (boh si, 
 tags:
   - spettacolo
   - xabologia
-image: 
-  feature: sexycosplayer.jpg
+header:  
+  image:  sexycosplayer.jpg
   teaser: teasersexycosplayer.jpg
   thumb: null
 published: true

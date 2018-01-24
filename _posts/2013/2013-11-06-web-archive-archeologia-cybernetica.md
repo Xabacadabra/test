@@ -6,8 +6,8 @@ categories: [2013]
 excerpt: "Chi vive internet, o meglio chi ha vissuto un certo tipo di internet, penso sia senza ombra di dubbio invecchiato precocemente..."
 tags:
   - cyberspazio
-image: 
-  feature: webarchive.jpg
+header:  
+  image:  webarchive.jpg
   teaser: teaserwebarchive.jpg
   thumb: null
 published: true

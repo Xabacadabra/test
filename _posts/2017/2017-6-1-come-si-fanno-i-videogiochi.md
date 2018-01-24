@@ -7,8 +7,8 @@ excerpt: "Se sveli i tuoi trucchi, sei un mago del cazzo: Mi pare dicesse più o
 tags:
   - videogiochi
   - cyberspazio
-image: 
-  feature: come-si-fanno-i-videogiochi.jpg
+header:  
+  image:  come-si-fanno-i-videogiochi.jpg
   teaser: teaser-come-si-fanno-i-videogiochi.jpg
   thumb: 
 published: true

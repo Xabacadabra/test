@@ -5,8 +5,8 @@ modified: null
 categories: [2013]
 excerpt: "Prima di tutto specifico che qui si va a parare direttamente nella Serie A del..."
 tags: [recensioni, videogiochi]
-image: 
-  feature: ChronoTriggerRecensione.jpg
+header:  
+  image:  ChronoTriggerRecensione.jpg
   teaser:  TeaserChronoTrigger.jpg
   thumb: 
 published: true

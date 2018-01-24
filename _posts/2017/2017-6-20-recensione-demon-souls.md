@@ -7,8 +7,8 @@ excerpt: ""
 tags:
   - videogiochi
   - recensioni
-image: 
-  feature: demon-souls.jpg
+header:  
+  image:  demon-souls.jpg
   teaser: teaser-demon-souls.jpg
   thumb: 
 published: false

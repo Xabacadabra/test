@@ -9,8 +9,8 @@ tags:
      - videogiochi
 comments: true
 published: true
-image: 
-  feature: distant-worlds.jpg
+header:  
+  image:  distant-worlds.jpg
   teaser:  teaser-distant-worlds.jpg
 ---
 

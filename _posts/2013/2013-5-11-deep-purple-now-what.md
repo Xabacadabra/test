@@ -6,8 +6,8 @@ categories: [2013]
 excerpt: "E mo cosa ?! Ci dicono Ian Gillan e soci, anticipando la lecita domanda di mezzo mondo alla notizia di un nuovo album dei Deep Purple..."
 tags: [musica, recensioni]
 comments: true
-image: 
-  feature: deepurplenowhat.jpg
+header:  
+  image:  deepurplenowhat.jpg
   teaser:  teaserdeepurplenowhat.jpg
 ---
 

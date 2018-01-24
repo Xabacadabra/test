@@ -6,8 +6,8 @@ categories: [2015]
 excerpt: "Come avrete visto nel titolo e dovrebbe essere ovvio, questo post è totalmente spoiler..."
 tags:
   - cinema
-image: 
-  feature: Ilsignificatodelfinaledibirdman.jpg
+header:  
+  image:  Ilsignificatodelfinaledibirdman.jpg
   teaser: TeaserFinaleBirdman.jpg
   thumb: null
 published: true

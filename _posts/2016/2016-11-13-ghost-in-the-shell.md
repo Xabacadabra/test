@@ -8,8 +8,8 @@ tags:
   - animazione
   - cinema
   - fumetti
-image:
-  feature: ghost-in-the-shell.jpg
+header: 
+  image:  ghost-in-the-shell.jpg
   teaser: teaser-gits.jpg
   thumb: null
 published: true

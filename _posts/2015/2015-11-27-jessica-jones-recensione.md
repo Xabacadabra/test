@@ -8,8 +8,8 @@ Un tributo ad un certo stile telefilmico anni '90, ma privo di censure e fillera
 tags:
   - serie-tv
   - recensioni
-image: 
-  feature: jessicajones.jpg
+header:  
+  image:  jessicajones.jpg
   teaser: teaserjessicajones.jpg
   thumb: null
 published: true

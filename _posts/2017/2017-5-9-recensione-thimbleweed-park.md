@@ -7,8 +7,8 @@ excerpt: "Subito al sodo: Thimbleweed Park™ è una splendida Avventura Grafica
 tags:
   - videogiochi
   - recensioni
-image: 
-  feature: thimbleweed-park.jpg
+header:  
+  image:  thimbleweed-park.jpg
   teaser: teaser-thimbleweed-park.jpg
   thumb: 
 published: true

@@ -6,8 +6,8 @@ categories: [2017]
 excerpt: "Oggi avevo una gran voglia di postare qualcosa qui. IL CHE è TERRIBILE...."
 tags:
   - xabologia
-image: 
-  feature: null
+header:  
+  image:  null
   teaser: teaser-default.jpg
   thumb: null
 published: true

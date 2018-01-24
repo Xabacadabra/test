@@ -7,8 +7,8 @@ excerpt: "Hello, America. So che suona strano, ma siamo nel 2017, e l'era digita
 tags:
   - cinema
   - animazione
-image: 
-  feature: death-note-netflix.jpg
+header:  
+  image:  death-note-netflix.jpg
   teaser: teaser-death-note-netflix.jpg
   thumb: null
 ads: false

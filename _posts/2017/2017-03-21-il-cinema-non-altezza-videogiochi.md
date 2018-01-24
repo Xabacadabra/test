@@ -7,8 +7,8 @@ excerpt: "Storicamente il Cinema è stato tutelato più o meno da tutta l'intell
 tags:
   - cinema
   - videogiochi
-image: 
-  feature: cinema-videogiochi.jpg
+header:  
+  image:  cinema-videogiochi.jpg
   teaser: teaser-cinema-videogiochi.jpg
   thumb: null
 published: true

@@ -7,8 +7,8 @@ excerpt: "Io non amo quelli che rigirano la frittata per ore prima di cacciare n
 tags:
   - cinema
   - recensioni
-image:
-  feature: ghost-in-the-shell-film-2017.jpg
+header: 
+  image:  ghost-in-the-shell-film-2017.jpg
   teaser: teaser-ghost-in-the-shell-film-2017.jpg
   thumb: null
 published: true

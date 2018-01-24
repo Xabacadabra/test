@@ -8,8 +8,8 @@ tags:
      - musica
 comments: true
 published: true
-image: 
-  feature: chris-cornell.jpg
+header:  
+  image:  chris-cornell.jpg
   teaser:  teaser-chris-cornell.jpg
 ---
 

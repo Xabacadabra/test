@@ -7,8 +7,8 @@ excerpt: "Con la prosa di George Martin possiedo un rapporto d'amore-odio, lo ri
 tags: 
     - libri
     - recensioni
-image:
-  feature: il-cavaliere-dei-sette-regni.jpg
+header: 
+  image:  il-cavaliere-dei-sette-regni.jpg
   teaser:  teaser-il-cavaliere-dei-sette-regni.jpg
   thumb:
 published: true

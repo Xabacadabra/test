@@ -5,8 +5,8 @@ modified: null
 categories: [2016]
 excerpt: "Iniziamo il nostro viaggio in David Cage Begins"
 tags: [recensioni, videogiochi]
-image:
-  feature: omikron-recensione.jpg
+header: 
+  image:  omikron-recensione.jpg
   teaser:  teaser-omikron.jpg
   thumb:
 published: false

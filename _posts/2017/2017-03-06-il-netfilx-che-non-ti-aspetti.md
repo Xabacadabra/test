@@ -8,8 +8,8 @@ tags:
   - recensioni
   - cinema
   - serie-tv
-image: 
-  feature: netflix.jpg
+header:  
+  image:  netflix.jpg
   teaser: teaser-netflix.jpg
   thumb: null
 published: true

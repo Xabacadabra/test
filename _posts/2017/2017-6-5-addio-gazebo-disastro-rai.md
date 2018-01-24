@@ -8,8 +8,8 @@ tags:
   - politica
   - xabologia
   - spettacolo
-image: 
-  feature: gazebo.jpg
+header:  
+  image:  gazebo.jpg
   teaser: teasergazebo.jpg
   thumb: null
 published: true

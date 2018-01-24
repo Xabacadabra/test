@@ -7,8 +7,8 @@ excerpt: "Sapevate che la pixel art di molti classici Final Fantasy si deve al l
 tags:
   - videogiochi
   - interviste
-image: 
-  feature: intervista-kazuko-shibuya.jpg
+header:  
+  image:  intervista-kazuko-shibuya.jpg
   teaser: teaser-intervista-kazuko-shibuya.jpg
   thumb: 
 published: true

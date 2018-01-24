@@ -7,8 +7,8 @@ excerpt: "Creare videogiochi di tutto rispetto grazie allo splendido engine di P
 tags:
   - videogiochi
   - cyberspazio
-image: 
-  feature: renpy.jpg
+header:  
+  image:  renpy.jpg
   teaser: teaser-renpy.jpg
   thumb: null
 published: true

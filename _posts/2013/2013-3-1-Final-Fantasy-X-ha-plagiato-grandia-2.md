@@ -6,8 +6,8 @@ categories: [2013]
 excerpt: "Il tema principale, i concetti di fondo (principalmente la questione teologica e come viene vissuta dalle rispettive protagoniste femminili) ..."
 tags: 
   - videogiochi
-image: 
-  feature: finalfantasyxgrandia2plagio.jpg
+header:  
+  image:  finalfantasyxgrandia2plagio.jpg
   teaser: teaserfinalfantasyxgrandia2plagio.jpg
   thumb: null
 published: true

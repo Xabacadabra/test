@@ -7,8 +7,8 @@ excerpt: "Prima di tutto enuncerò alcuni punti chiave: l'ho letto tutto d'un fi
 tags: 
     - libri
     - recensioni
-image:
-  feature: harry-potter-e-la-maledizione-dell-erede-recensione.jpg
+header: 
+  image:  harry-potter-e-la-maledizione-dell-erede-recensione.jpg
   teaser:  teaser-harry-potter-e-la-maledizione-dell-erede-recensione.jpg
   thumb:
 published: true

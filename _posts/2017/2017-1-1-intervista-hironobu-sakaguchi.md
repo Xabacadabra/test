@@ -7,8 +7,8 @@ excerpt: "A proposito di Final Fantasy XV, Remake, il rapporto con Akira Toriyam
 tags:
   - videogiochi
   - interviste
-image: 
-  feature: intervista-sakaguchi.jpg
+header:  
+  image:  intervista-sakaguchi.jpg
   teaser: teaser-intervista-sakaguchi.jpg
   thumb: 
 published: true

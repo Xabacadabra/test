@@ -7,8 +7,8 @@ excerpt: "Della mia stima per Zoro (Diego Bianchi) e del suo Gazebo televisivo h
 tags:
   - recensioni
   - cinema
-image: 
-  feature: arancemartello.jpg
+header:  
+  image:  arancemartello.jpg
   teaser: teaserarancemartello.jpg
   thumb: null
 published: true

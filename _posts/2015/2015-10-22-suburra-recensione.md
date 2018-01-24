@@ -7,8 +7,8 @@ excerpt: "l'estetica di Sollima è uno spettacolo meraviglioso, complice la brav
 tags:
   - recensioni
   - cinema
-image: 
-  feature: suburra.jpg
+header:  
+  image:  suburra.jpg
   teaser: teasersuburra.jpg
   thumb: null
 published: true

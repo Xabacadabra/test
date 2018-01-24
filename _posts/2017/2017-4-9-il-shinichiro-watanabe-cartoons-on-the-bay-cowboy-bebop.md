@@ -8,8 +8,8 @@ tags:
     - animazione
     - spettacolo
     - interviste
-image:
-  feature: shinichiro-watanabe-cartoons-on-the-bay.jpg
+header: 
+  image:  shinichiro-watanabe-cartoons-on-the-bay.jpg
   teaser:  teaser-shinichiro-watanabe-cartoons-on-the-bay.jpg
   thumb:
 published: true

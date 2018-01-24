@@ -5,8 +5,8 @@ modified: null
 categories: [2015]
 excerpt: "Visto ? Tanto lo so che l'avrete già visto per forza, nel bene o nel male c'ha fatto andare il sabato sera di traverso a tutti..."
 tags: [videogiochi]
-image: 
-  feature: ff7remake1.jpg
+header:  
+  image:  ff7remake1.jpg
   teaser:  teaserff7remake1.jpg
   thumb: 
 published: true

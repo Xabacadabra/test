@@ -5,8 +5,8 @@ modified: null
 categories: [2014]
 excerpt: "Peccato essere troppo povero e non poterci stare di più! è la stessa frase mentale che mi ripeto anche quest'anno (vedi 2013), perché Lucca da brava..."
 tags: [fumetti, spettacolo]
-image: 
-  feature: lucca-2014.jpg
+header:  
+  image:  lucca-2014.jpg
   teaser:  teaser-lucca-2014.jpg
   thumb: 
 published: true

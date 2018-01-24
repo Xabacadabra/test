@@ -7,8 +7,8 @@ excerpt: "Togliamoci subito il dente avvelenato. Deadpool è un film costruito p
 tags:
   - cinema
   - recensioni
-image: 
-  feature: deadpool.jpg
+header:  
+  image:  deadpool.jpg
   teaser: teaser-deadpool.jpg
   thumb: null
 published: true

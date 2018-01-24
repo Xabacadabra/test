@@ -8,8 +8,8 @@ excerpt: "Immaginatevi un cowboy.
 Uno di quelli verso la fine della conquista della frontiera..."
 tags:
   - cyberspazio
-image: 
-  feature: sundance.jpg
+header:  
+  image:  sundance.jpg
   teaser: teaser-sundance.jpg
   thumb: null
 published: true

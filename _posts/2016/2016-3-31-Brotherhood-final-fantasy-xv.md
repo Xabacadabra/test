@@ -5,8 +5,8 @@ modified: null
 categories: [2016]
 excerpt: "Qualche considerazione sparsa su #UncoveredFFXV e in particolar modo su Brotherhood Final Fantasy XV"
 tags: [videogiochi, animazione]
-image: 
-  feature: brotherhood-final-fantasy-xv.jpg
+header:  
+  image:  brotherhood-final-fantasy-xv.jpg
   teaser:  teaser-brotherhood-final-fantasy-xv.jpg
   thumb: 
 published: true

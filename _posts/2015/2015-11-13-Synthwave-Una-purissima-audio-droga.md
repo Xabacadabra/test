@@ -6,8 +6,8 @@ categories: [2015]
 excerpt: "Ieri il buon vecchio Diccì, mio amorevole figlioccio di cetramoddiana memoria, se ne è uscito tutto baldanzoso parlandoci della Synthwave"
 tags: [musica]
 comments: true
-image: 
-  feature: synthwave.jpg
+header:  
+  image:  synthwave.jpg
   teaser:  teaser-synthwave.jpg
 ---
 

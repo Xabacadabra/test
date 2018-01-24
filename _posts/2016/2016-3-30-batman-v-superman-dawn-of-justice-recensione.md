@@ -7,8 +7,8 @@ excerpt: "Checché ne dica Marvel Studios, la vera Civil War s'è scatenata tra 
 tags:
   - cinema
   - recensioni
-image: 
-  feature: batman-v-superman.jpg
+header:  
+  image:  batman-v-superman.jpg
   teaser: teaser-batman-v-superman.jpg
   thumb: null
 published: true

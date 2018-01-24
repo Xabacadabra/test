@@ -6,8 +6,8 @@ categories: [2016]
 excerpt: "Tra un'accozzaglia, una scrofa ferita e via degenerando, passando per Trump e tutti i catastrofismi del caso..."
 tags:
   - politica
-image:
-  feature: the-propaganda-game.jpg
+header: 
+  image:  the-propaganda-game.jpg
   teaser: teaser-the-propaganda-game.jpg
   thumb:
 published: true

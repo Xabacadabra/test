@@ -7,8 +7,8 @@ excerpt: "Final Fantasy Tactics è uno spin-off della celeberrima serie, dato al
 tags: 
   - recensioni
   - videogiochi
-image: 
-  feature: finalfantasytacticsrecensione.jpg
+header:  
+  image:  finalfantasytacticsrecensione.jpg
   teaser:  teaserfft.jpg
   thumb: null
 published: true

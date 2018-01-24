@@ -5,8 +5,8 @@ modified: 2016-11-06
 categories: [progetti]
 excerpt: "Late Messiah è una serie di racconti pensati per la community di Cetramod, iniziata nel 2009 e terminata nel 2015"
 tags: null
-image: 
-  feature: late-messiah.jpg
+header:  
+  image:  late-messiah.jpg
   teaser: teaser-late-messiah.jpg
   thumb: 
 published: true

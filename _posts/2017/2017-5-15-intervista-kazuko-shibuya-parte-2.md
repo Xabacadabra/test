@@ -7,8 +7,8 @@ excerpt: "Seconda parte dell'intervista alla storica Designer della Serie: lo sv
 tags:
   - videogiochi
   - interviste
-image: 
-  feature: intervista-kazuko-shibuya.jpg
+header:  
+  image:  intervista-kazuko-shibuya.jpg
   teaser: teaser-intervista-kazuko-shibuya.jpg
   thumb: 
 published: true

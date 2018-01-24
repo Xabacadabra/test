@@ -7,8 +7,8 @@ excerpt: "Ovviamente, nessuno spoiler. E attenzione: questa è una di quelle lun
 tags:
   - cinema
   - recensioni
-image: 
-  feature: revenant.jpg
+header:  
+  image:  revenant.jpg
   teaser: teaser-revenant.jpg
   thumb: null
 published: true

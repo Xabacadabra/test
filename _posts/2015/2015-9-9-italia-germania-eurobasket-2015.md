@@ -6,8 +6,8 @@ categories: [2015]
 excerpt: "La meraviglia. Le lacrime. Gli infarti"
 tags: [sport]
 comments: true
-image: 
-  feature: eurobasket-2015.jpg
+header:  
+  image:  eurobasket-2015.jpg
   teaser:  teaser-eurobasket-2015.jpg
 ---
 La meraviglia.

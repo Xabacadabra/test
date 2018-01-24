@@ -9,8 +9,8 @@ tags:
      - recensioni
 comments: true
 ads: false
-image: 
-  feature: celeb-car-crash.jpg
+header:  
+  image:  celeb-car-crash.jpg
   teaser:  teaser-celeb-car-crash.jpg
 ---
 

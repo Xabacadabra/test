@@ -7,8 +7,8 @@ excerpt: "Sintetizzandola in breve, potrei dire da subito che Ni no Kuni è la t
 tags: 
   - recensioni
   - videogiochi
-image: 
-  feature: ninokunirecensione.jpg
+header:  
+  image:  ninokunirecensione.jpg
   teaser: teaserninokuni.jpg
   thumb: null
 published: true

@@ -7,8 +7,8 @@ excerpt: "Che dire? Non posso affermare che si tratti di un gioco che tradisce l
 tags: 
    - videogiochi
    - recensioni
-image: 
-  feature: suits.jpg
+header:  
+  image:  suits.jpg
   teaser: teasersuits.jpg
   thumb: 
 published: true

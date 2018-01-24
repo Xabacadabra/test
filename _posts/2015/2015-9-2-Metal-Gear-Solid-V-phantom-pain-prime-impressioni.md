@@ -5,8 +5,8 @@ modified: null
 categories: [2015]
 excerpt: "Mi sono fermato dopo la quarta missione, ho preso ad esplorare, reclutare tizi / cose / animali..."
 tags: [videogiochi]
-image: 
-  feature: mgsv1.jpg
+header:  
+  image:  mgsv1.jpg
   teaser:  teasermgsv1.jpg
   thumb: 
 published: true

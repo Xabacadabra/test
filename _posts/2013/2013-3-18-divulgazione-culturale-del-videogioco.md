@@ -5,8 +5,8 @@ modified: null
 categories: [2013]
 excerpt: "Videogiochi, arte, cultura e potenziale formativo"
 tags: [xabologia, videogiochi]
-image: 
-  feature: divulgazionevideogioco.jpg
+header:  
+  image:  divulgazionevideogioco.jpg
   teaser:  teaserdivulgazionevideogioco.jpg
   thumb: 
 published: true

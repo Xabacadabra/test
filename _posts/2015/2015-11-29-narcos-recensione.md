@@ -7,8 +7,8 @@ excerpt: "Una delle Serie TV / Crime Movie / Biografie più solide, intense e be
 tags:
   - serie-tv
   - recensioni
-image: 
-  feature: narcos.jpg
+header:  
+  image:  narcos.jpg
   teaser: teasernarcos.jpg
   thumb: null
 published: true

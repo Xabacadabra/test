@@ -5,8 +5,8 @@ modified: null
 categories: [2016]
 excerpt: "."
 tags: [musica, cinema]
-image:
-  feature: final-fantasy-vii-advent-children.jpg
+header: 
+  image:  final-fantasy-vii-advent-children.jpg
   teaser:  teaser-final-fantasy-vii-advent-children.jpg
   thumb:
 published: false

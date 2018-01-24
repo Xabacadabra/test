@@ -7,8 +7,8 @@ excerpt: "Dopo una solida manciata di ore passate testando OpenMW che ha portato
 tags: 
    - videogiochi
    - cyberspazio
-image: 
-  feature: daggerfall.jpg
+header:  
+  image:  daggerfall.jpg
   teaser: teaser-daggerfall.jpg
   thumb: null
 published: true

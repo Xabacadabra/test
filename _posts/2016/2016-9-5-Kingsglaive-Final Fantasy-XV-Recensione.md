@@ -8,8 +8,8 @@ tags:
   - cinema
   - recensioni
   - videogiochi
-image: 
-  feature: kingsglaive.jpg
+header:  
+  image:  kingsglaive.jpg
   teaser: teaser-kingsglaive.jpg
   thumb: null
 published: true

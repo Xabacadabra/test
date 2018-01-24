@@ -6,8 +6,8 @@ categories: [2013]
 excerpt: "Esiste un'ancestrale domanda che ci si pone sin dalla fine di Non è la Rai..."
 tags: 
   - animazione
-image: 
-  feature: dragonballitalia.jpg
+header:  
+  image:  dragonballitalia.jpg
   teaser: teaserdragonball.jpg
   thumb: null
 published: true

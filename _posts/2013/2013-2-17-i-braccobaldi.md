@@ -1,15 +1,13 @@
 ---
-
 title: "I Braccobaldi"
 modified: null
 categories: [2013]
 excerpt: "Questi sconosciuti. (Correva l'anno 2008, se le mie idiozie erano ancora più..."
 tags:
   - xabologia
-image: 
-  feature: braccobaldi.jpg
-  teaser: teaserbraccobaldi.jpg
-  thumb: null
+header:  
+  image: images/braccobaldi.jpg
+  teaser: images/teaserbraccobaldi.jpg
 published: true
 comments: true
 ---

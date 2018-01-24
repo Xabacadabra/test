@@ -5,8 +5,8 @@ modified: null
 categories: [2016]
 excerpt: "non recensione perché beh, ci ho giocato giusto per un'oretta e quindi è più una panoramica veloce veloce"
 tags: [recensioni, videogiochi]
-image:
-  feature: Until-I-Have-You.jpg
+header: 
+  image:  Until-I-Have-You.jpg
   teaser:  teaser-Until-I-Have-You.jpg
   thumb:
 published: true

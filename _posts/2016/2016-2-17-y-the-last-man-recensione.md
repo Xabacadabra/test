@@ -7,8 +7,8 @@ excerpt: "Quel recensione nel titolo serve più che altro per avere una buona sc
 tags: 
    - recensioni
    - fumetti
-image: 
-  feature: y-the-last-man.jpg
+header:  
+  image:  y-the-last-man.jpg
   teaser: teaser-y-the-last-man.jpg
   thumb: null
 published: true

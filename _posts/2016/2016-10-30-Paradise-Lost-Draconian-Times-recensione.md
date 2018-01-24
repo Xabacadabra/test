@@ -8,8 +8,8 @@ tags:
      - musica
      - recensioni
 comments: true
-image: 
-  feature: paradise-lost-draconian-times.jpg
+header:  
+  image:  paradise-lost-draconian-times.jpg
   teaser:  teaser-draconian-times.jpg
 ---
 

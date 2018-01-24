@@ -7,8 +7,8 @@ excerpt: "Altrimenti detto Saint Seiya: Legend of the Sanctuary. Ossia Malessere
 "
 tags: 
    - animazione
-image: 
-  feature: legend-of-the-sanctuary.jpg
+header:  
+  image:  legend-of-the-sanctuary.jpg
   teaser: Teaser-legend-of-the-sanctuary.jpg
   thumb: null
 published: true

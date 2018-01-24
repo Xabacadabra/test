@@ -6,8 +6,8 @@ categories: [2016]
 excerpt: "Partiamo subito con le cose importanti. Senza girarci troppo attorno, Animali Fantastici è un film splendido...."
 tags: 
   - cinema
-image: 
-  feature: animali-fantastici.jpg
+header:  
+  image:  animali-fantastici.jpg
   teaser: teaser-animali-fantastici.jpg
   thumb: null
 published: true

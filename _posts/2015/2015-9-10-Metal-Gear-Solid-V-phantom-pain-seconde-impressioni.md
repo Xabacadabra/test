@@ -5,8 +5,8 @@ modified: null
 categories: [2015]
 excerpt: "Otto giorni fa eravamo rimasti così. Oggi, 40 ore e rotte di gioco giocatissimo dopo, posso dirmi..."
 tags: [videogiochi]
-image: 
-  feature: mgsv2.jpg
+header:  
+  image:  mgsv2.jpg
   teaser:  teasermgsv2.jpg
   thumb: 
 published: true

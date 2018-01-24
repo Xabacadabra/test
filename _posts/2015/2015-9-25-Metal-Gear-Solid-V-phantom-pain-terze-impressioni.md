@@ -5,8 +5,8 @@ modified: null
 categories: [2015]
 excerpt: "Sono più 60 ore. Che ho smesso di contare le ore. Devo ancora raggiungere il vero finale, per cui preciso che la recensione..."
 tags: [videogiochi]
-image: 
-  feature: mgsv3.jpg
+header:  
+  image:  mgsv3.jpg
   teaser:  teasermgsv3.jpg
   thumb: 
 published: true

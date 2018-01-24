@@ -6,8 +6,8 @@ categories: [2013]
 excerpt: "Vecchia riflessione sparata un annetto fa riguardo la sindrome dell'epoca d'oro nel senso musicale (e da me che ne sono pure affettissimo !)..."
 tags: [musica]
 comments: true
-image: 
-  feature: musicaoggi.jpg
+header:  
+  image:  musicaoggi.jpg
   teaser:  teasermusicaoggi.jpg
 ---
 

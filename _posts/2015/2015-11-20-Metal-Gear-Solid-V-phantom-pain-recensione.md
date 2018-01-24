@@ -5,8 +5,8 @@ modified: null
 categories: [2015]
 excerpt: "Lo dico subito ? Lo dico subito: The Phantom Pain è ..."
 tags: [videogiochi, recensioni]
-image: 
-  feature: mgsvrecensione.jpg
+header:  
+  image:  mgsvrecensione.jpg
   teaser:  teasermgsvrecensione.jpg
   thumb: 
 published: true

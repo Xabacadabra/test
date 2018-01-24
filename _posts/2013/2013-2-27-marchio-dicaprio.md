@@ -7,8 +7,8 @@ excerpt: "Quando Leonardo DiCaprio si appresta a raggiungere la sua scrivania co
 tags: 
    - cinema
    - xabologia
-image: 
-  feature: marchio-di-caprio.jpg
+header:  
+  image:  marchio-di-caprio.jpg
   teaser:  marchio-di-caprio.jpg
   thumb: 
 published: true

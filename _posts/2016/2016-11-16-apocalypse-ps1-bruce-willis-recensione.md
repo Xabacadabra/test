@@ -5,8 +5,8 @@ modified: null
 categories: [2016]
 excerpt: "C'è stato un tempo in cui la scienza era la mia religione, ora la religione è diventata la mia scienza e la mia SPADA!"
 tags: [videogiochi, recensioni]
-image:
-  feature: apocalypse.jpg
+header: 
+  image:  apocalypse.jpg
   teaser:  teaser-apocalypse.jpg
   thumb:
 published: true

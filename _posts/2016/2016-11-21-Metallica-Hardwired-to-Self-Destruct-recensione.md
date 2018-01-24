@@ -7,8 +7,8 @@ excerpt: "Recensione personale, senza conservanti (ma un po' d'olio di palma) de
 tags: 
    - musica
    - recensioni
-image: 
-  feature: hardwired.jpg
+header:  
+  image:  hardwired.jpg
   teaser: teaser-hardwired.jpg
   thumb: null
 published: true

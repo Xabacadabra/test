@@ -5,8 +5,8 @@ modified: null
 categories: [2016]
 excerpt: "Ci siamo ritrovati a recepire la strage di Bruxelles con una certa rassegnazione poco emotiva?..."
 tags: [xabologia, politica]
-image: 
-  feature: voto-16-anni.jpg
+header:  
+  image:  voto-16-anni.jpg
   teaser:  teaser-voto-16-anni.jpg
   thumb: 
 published: false

@@ -7,8 +7,8 @@ excerpt: "Oggi è un giorno molto importante, nei risvolti mediatici ancor più 
 tags:
   - xabologia
   - politica
-image: 
-  feature: 5-novembre.jpg
+header:  
+  image:  5-novembre.jpg
   teaser: teaser-5-novembre.jpg
   thumb: null
 published: true

@@ -7,8 +7,8 @@ excerpt: "Ci sono delle cose splendide in quest'album, delle piccole gemme di ri
 tags: [musica, recensioni]
 comments: true
 ads: false
-image: 
-  feature: redeemer-of-souls.jpg
+header:  
+  image:  redeemer-of-souls.jpg
   teaser:  teaser-redeemer-of-souls.jpg
 ---
 

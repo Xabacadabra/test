@@ -8,8 +8,8 @@ tags:
   - politica
   - xabologia
   - spettacolo
-image: 
-  feature: movimento-arturo.jpg
+header:  
+  image:  movimento-arturo.jpg
   teaser: teaser-movimento-arturo.jpg
   thumb: null
 published: true

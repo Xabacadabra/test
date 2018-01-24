@@ -5,8 +5,8 @@ modified: null
 categories: [2016]
 excerpt: "E vabbè, son quei 10 euro che mi ritornano in tasca grazie al rimborso Steam..."
 tags: [videogiochi]
-image: 
-  feature: dragon-ball-xenoverse.jpg
+header:  
+  image:  dragon-ball-xenoverse.jpg
   teaser:  teaser-dragon-ball-xenoverse.jpg
   thumb: 
 published: true

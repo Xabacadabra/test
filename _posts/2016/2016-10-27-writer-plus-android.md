@@ -6,8 +6,8 @@ categories: [2016]
 excerpt: "First things first: The End of the World non è un gioco"
 tags: 
    - cyberspazio
-image: 
-  feature: the-end-of-the-world.jpg
+header:  
+  image:  the-end-of-the-world.jpg
   teaser: teaser-the-end-of-the-world.jpg
   thumb: null
 published: false

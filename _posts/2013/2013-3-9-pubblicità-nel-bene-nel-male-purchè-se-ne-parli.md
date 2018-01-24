@@ -6,8 +6,8 @@ categories: [2013]
 excerpt: "Nel bene o nel male, purché se ne parli"
 tags:
   - xabologia
-image: 
-  feature: pubblicità.jpg
+header:  
+  image:  pubblicità.jpg
   teaser: teaserpubblicità.jpg
   thumb: null
 published: true

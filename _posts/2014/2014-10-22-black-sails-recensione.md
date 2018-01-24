@@ -1,5 +1,4 @@
 ---
-
 title: "Black Sails [Recensione]"
 modified: 2016-01-22
 categories: [2014]
@@ -7,10 +6,9 @@ excerpt: "Black Sails è una di quelle serie che scopri in sordina, che non ha s
 tags:
   - serie-tv
   - recensioni
-image: 
-  feature: black-sails.jpg
-  teaser: teaser-black-sails.jpg
-  thumb: null
+header:  
+  image:  images/black-sails.jpg
+  teaser: images/teaser-black-sails.jpg
 published: true
 comments: true
 ---

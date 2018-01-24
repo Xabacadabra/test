@@ -7,8 +7,8 @@ excerpt: "Essendo un retrogamer, ci penso spesso. Avendo un rapporto conflittual
 tags:
    - videogiochi
    - xabologia
-image: 
-  feature: nobuo.jpg
+header:  
+  image:  nobuo.jpg
   teaser:  teaser-nobuo.jpg
   thumb: 
 published: true

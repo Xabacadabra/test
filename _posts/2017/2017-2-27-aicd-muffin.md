@@ -9,8 +9,8 @@ tags:
      - recensioni
 comments: true
 ads: false
-image: 
-  feature: acid-muffin.jpg
+header:  
+  image:  acid-muffin.jpg
   teaser:  teaser-acid-muffin.jpg
 ---
 

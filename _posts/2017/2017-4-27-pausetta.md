@@ -6,8 +6,8 @@ categories: [2017]
 excerpt: "Considerando che da queste parti scrivo sempre a cadenza squisitamente casuale (praticamente quando ho tempo/voglia di buttar giù due righe) un post del genere non dovrebbe avere chissà quale senso, però..."
 tags:
   - xabologia
-image: 
-  feature: null
+header:  
+  image:  null
   teaser: teaser-default.jpg
   thumb: null
 published: true

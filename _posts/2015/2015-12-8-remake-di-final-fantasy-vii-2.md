@@ -5,8 +5,8 @@ modified: null
 categories: [2015]
 excerpt: "Lo so: questo blog rischia di diventare seriamente monotematico, ma se mi seguite da un po' dovreste sapere come la mia sia..."
 tags: [videogiochi]
-image: 
-  feature: ff7remake2.jpg
+header:  
+  image:  ff7remake2.jpg
   teaser:  teaserff7remake2.jpg
   thumb: 
 published: true

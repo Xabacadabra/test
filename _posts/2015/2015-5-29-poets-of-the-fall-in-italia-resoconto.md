@@ -6,8 +6,8 @@ categories: [2015]
 excerpt: "L'acustica forse forse non delle migliori, il pubblico poco (ma buono, diciamocelo da soli: di quelli che sanno farsi sentire)..."
 tags: [musica]
 comments: true
-image: 
-  feature: poetsofthefallitalia.jpg
+header:  
+  image:  poetsofthefallitalia.jpg
   teaser:  teaserpoetsofthefallitalia.jpg
 ---
 

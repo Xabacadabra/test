@@ -5,8 +5,8 @@ modified: 2016-22-11
 categories: [2015]
 excerpt: "Scrivo qui per comodità, perché so già che 140 caratteri non mi bastano, però includo un po' di miei tweet sul tema:"
 tags: [politica]
-image: 
-  feature: null
+header:  
+  image:  null
   teaser:  teaser-default.jpg
   thumb: 
 published: true

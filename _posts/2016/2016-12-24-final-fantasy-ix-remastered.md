@@ -5,8 +5,8 @@ modified: null
 categories: [2016]
 excerpt: "Molto spesso mi ritrovo a fare un discorso che suona più o meno così: I Final Fantasy dell'era Playstation..."
 tags: [videogiochi, xabologia]
-image:
-  feature: esplorando-final-fantasy-ix.jpg
+header: 
+  image:  esplorando-final-fantasy-ix.jpg
   teaser:  teaser-esplorando-final-fantasy-ix.jpg
   thumb:
 published: true

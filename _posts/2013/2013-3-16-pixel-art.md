@@ -7,8 +7,8 @@ excerpt: "Essere retrogamer vuol dire moltissime cose. Prima di tutto provare un
 tags: 
   - videogiochi
   - cyberspazio
-image: 
-  feature: pixelart.jpg
+header:  
+  image:  pixelart.jpg
   teaser: teaserpixelart.jpg
   thumb: null
 published: true

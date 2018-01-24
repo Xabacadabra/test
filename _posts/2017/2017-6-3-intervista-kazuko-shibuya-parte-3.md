@@ -7,8 +7,8 @@ excerpt: "Terza parte dell'intervista alla storica Designer della Serie: Romanci
 tags:
   - videogiochi
   - interviste
-image: 
-  feature: intervista-kazuko-shibuya.jpg
+header:  
+  image:  intervista-kazuko-shibuya.jpg
   teaser: teaser-intervista-kazuko-shibuya.jpg
   thumb: 
 published: true

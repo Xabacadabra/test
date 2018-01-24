@@ -1,15 +1,13 @@
 ---
-
 title: "La Web Ossessione per la Privacy"
 modified: null
 categories: [2013]
 excerpt: "Nel fantastico mondo di Internet il diritto alla Privacy ha assunto un peso ed un'importanza che hanno del surreale**: ..."
 tags:
   - cyberspazio
-image: 
-  feature: webprivacy.jpg
-  teaser: teaserwebprivacy.jpg
-  thumb: null
+header:  
+  image:  images/webprivacy.jpg
+  teaser: images/teaserwebprivacy.jpg
 published: true
 comments: true
 ---

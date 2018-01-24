@@ -6,8 +6,8 @@ categories: [2015]
 excerpt: "Questo post rende esplicito un profondissimo debito: quello nei confronti del Giappone, inteso soprattutto con la relativa pop culture animata e videogiocosa..."
 tags: 
    - animazione
-image: 
-  feature: lupin-3-cowboy-bebop.jpg
+header:  
+  image:  lupin-3-cowboy-bebop.jpg
   teaser: Teaser-lupin-3-cowboy-bebop.jpg
   thumb: null
 ads: false

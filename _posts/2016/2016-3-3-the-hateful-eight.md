@@ -7,8 +7,8 @@ excerpt: "The Hateful Eight è riuscito a farmi rinnamorare del cinema di Tarant
 tags:
   - recensioni
   - cinema
-image: 
-  feature: the-hateful-eight.jpg
+header:  
+  image:  the-hateful-eight.jpg
   teaser: teaser-the-hateful-eight.jpg
   thumb: null
 published: true

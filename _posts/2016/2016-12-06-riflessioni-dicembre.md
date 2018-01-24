@@ -6,8 +6,8 @@ categories: [2016]
 excerpt: "Come ogni tanto succede, sfrutto Xaba Cadabra per quello che era all'origine: un blog!"
 tags:
   - xabologia
-image: 
-  feature: null
+header:  
+  image:  null
   teaser: teaser-default.jpg
   thumb: null
 published: true

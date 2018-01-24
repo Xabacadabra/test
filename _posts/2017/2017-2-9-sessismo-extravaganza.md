@@ -7,8 +7,8 @@ excerpt: "Leggendo sessismo starete già pensando a qualche predica morale o amo
 tags:
   - politica
   - xabologia
-image: 
-  feature: sessismo-extravaganza.jpg
+header:  
+  image:  sessismo-extravaganza.jpg
   teaser: teaser-sessismo-extravaganza.jpg
   thumb: null
 published: true

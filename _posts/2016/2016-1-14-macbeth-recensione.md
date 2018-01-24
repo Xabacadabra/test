@@ -7,8 +7,8 @@ excerpt: "Commento lapidario ma onesto? Che palle. Commento un minimo più artic
 tags:
   - recensioni
   - cinema
-image: 
-  feature: macbeth.jpg
+header:  
+  image:  macbeth.jpg
   teaser: teasermacbeth.jpg
   thumb: null
 published: true

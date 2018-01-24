@@ -1,15 +1,13 @@
 ---
-
 title: "Questioni di Lingua"
 modified: null
 categories: [2013]
 excerpt: "Tempo fa (13 Settembre 2009 a detta della memoria storica del web) mi ritrovai in una..."
 tags:
   - xabologia
-image: 
-  feature: questionilingua.jpg
-  teaser: teaserquestionilingua.jpg
-  thumb: null
+header: 
+  image:  images/questionilingua.jpg
+  teaser: images/teaserquestionilingua.jpg
 published: true
 comments: true
 ---

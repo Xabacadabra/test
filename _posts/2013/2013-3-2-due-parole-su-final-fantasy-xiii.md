@@ -6,8 +6,8 @@ categories: [2013]
 excerpt: "Dopo averci giocato in prima persona per la maggior parte della sua durata (10 capitoli su 13) l'ho abbandonato..."
 tags: 
   - videogiochi
-image: 
-  feature: finalfantasyxiii.jpg
+header:  
+  image:  finalfantasyxiii.jpg
   teaser: teaserfinalfantasyxiii.jpg
   thumb: null
 published: true

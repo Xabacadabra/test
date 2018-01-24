@@ -6,8 +6,8 @@ categories: [2017]
 excerpt: "Voi vi ricordate come siete capitati su Internet per la prima volta ?"
 tags:
   - cyberspazio
-image: 
-  feature: prima-volta-internet.jpg
+header:  
+  image:  prima-volta-internet.jpg
   teaser: teaser-prima-volta-internet.jpg
   thumb: 
 published: true

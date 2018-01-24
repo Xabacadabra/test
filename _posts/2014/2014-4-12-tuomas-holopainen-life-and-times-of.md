@@ -6,8 +6,8 @@ categories: [2014]
 excerpt: "Tuomas Holopainen è noto principalmente per essere un figo pazzesco (in ogni senso della parola, stando al gentil sesso), il tastierista / leader/ compositore/ anima / corepulsante dei Nightwish..."
 tags: [musica, recensioni]
 comments: true
-image: 
-  feature: the-life-and-times-of-scrooge.jpg
+header:  
+  image:  the-life-and-times-of-scrooge.jpg
   teaser:  teaserthe-life-and-times-of-scrooge.jpg
 ---
 

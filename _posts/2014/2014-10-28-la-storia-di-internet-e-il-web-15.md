@@ -6,8 +6,8 @@ categories: [2014]
 excerpt: "Ovunque esistono i pionieri. Quelli che sono arrivati per primi, hanno edificato qualcosa in una landa inesplorata e vi hanno messo radici..."
 tags:
   - cyberspazio
-image: 
-  feature: storiainternet.jpg
+header:  
+  image:  storiainternet.jpg
   teaser: teaserstoriainternet.jpg
   thumb: null
 published: true

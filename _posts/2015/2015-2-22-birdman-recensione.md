@@ -7,8 +7,8 @@ excerpt: "Ho sentito quel qualcosa che mi facevano sentire i film di Kubrick."
 tags:
   - recensioni
   - cinema
-image: 
-  feature: birdmanrecensione.jpg
+header:  
+  image:  birdmanrecensione.jpg
   teaser: teaserbirdmanrecensione.jpg
   thumb: null
 published: true

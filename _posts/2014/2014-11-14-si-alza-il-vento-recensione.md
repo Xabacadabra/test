@@ -6,8 +6,8 @@ categories: [2014]
 excerpt: "Quanto l'ho aspettato, il ritorno/addio del Maestro a quei toni più cupi, bellici, all'apparenza meno sereni e amorevoli ma forse proprio per questo tanto straordinari...."
 tags: 
    - animazione
-image: 
-  feature: si-alza-il-vento.jpg
+header:  
+  image:  si-alza-il-vento.jpg
   teaser: teaser-si-alza-il-vento.jpg
   thumb: null
 published: true

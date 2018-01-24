@@ -6,8 +6,8 @@ categories: [2015]
 excerpt: "Nicholas Brown e Worick Arcangelo sono dei faccendieri di una città dal nomen-omen ridicolo (Ergastulum. Eh. Son giapponesi, capiteli), città che in effetti è più che altro una perfetta sintesi delle peggio periferie italiane..."
 tags: 
    - animazione
-image: 
-  feature: gangsta.jpg
+header:  
+  image:  gangsta.jpg
   teaser: teaser-gangsta.jpg
   thumb: null
 published: true

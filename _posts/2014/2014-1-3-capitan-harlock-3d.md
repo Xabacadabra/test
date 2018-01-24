@@ -7,8 +7,8 @@ excerpt: "Leggendario è uno di quei tanti aggettivi andati svalutandosi nel cor
 tags: 
   - animazione
   - cinema
-image: 
-  feature: capitan-harlock-3d.jpg
+header:  
+  image:  capitan-harlock-3d.jpg
   teaser: teaser-capitan-harlock-3d.jpg
   thumb: null
 published: true

@@ -6,8 +6,8 @@ categories: [2016]
 excerpt: "Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sembra sempre di scoprire qualcosa di nuovo non lo dico tanto per dire..."
 tags: 
    - videogiochi
-image: 
-  feature: loveless.jpg
+header:  
+  image:  loveless.jpg
   teaser: teaserloveless.jpg
   thumb: 
 published: true

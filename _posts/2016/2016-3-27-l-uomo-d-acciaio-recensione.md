@@ -7,8 +7,8 @@ excerpt: "Considerando che Batman V Superman m'ispira poco ma m'incuriosisce tan
 tags:
   - cinema
   - recensioni
-image: 
-  feature: man-of-steel.jpg
+header:  
+  image:  man-of-steel.jpg
   teaser: teaser-man-of-steel.jpg
   thumb: null
 published: true

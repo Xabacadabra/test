@@ -7,8 +7,8 @@ excerpt: "Polarizzare le opinioni su due punti opposti, vivere la discussione se
 tags:
   - cyberspazio
   - xabologia
-image: 
-  feature: estremismo-internet.jpg
+header:  
+  image:  estremismo-internet.jpg
   teaser: teaser-estremismo-internet.jpg
   thumb: null
 published: true

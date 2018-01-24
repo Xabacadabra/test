@@ -1,14 +1,13 @@
 ---
-
 title: "Pearl Jam – Lightning Bolt [Recensione]"
 modified:
 categories: [2013]
 excerpt: "Eddie Vedder inizia ad andare per la cinquantina, e questo mi porta a sentire l'infanzia più remota e lontana..."
 tags: [musica, recensioni]
 comments: true
-image: 
-  feature: pearljam.jpg
-  teaser:  teaserpearljam.jpg
+header:  
+  image:  images/pearljam.jpg
+  teaser:  images/teaserpearljam.jpg
 ---
 
 **Eddie Vedder** inizia ad andare per la cinquantina, e questo mi porta a sentire l'infanzia più remota e lontana

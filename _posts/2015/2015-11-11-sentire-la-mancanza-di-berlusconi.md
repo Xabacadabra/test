@@ -5,8 +5,8 @@ modified: null
 categories: [2015]
 excerpt: "Non che se ne sia andato eh, intendiamoci, l'altro giorno s'è pure fatto vedere! Ma beh...."
 tags: [xabologia, politica]
-image: 
-  feature: mancanza-berlusconi.jpg
+header:  
+  image:  mancanza-berlusconi.jpg
   teaser:  teaser-mancanza-berlusconi.jpg
   thumb: 
 published: true

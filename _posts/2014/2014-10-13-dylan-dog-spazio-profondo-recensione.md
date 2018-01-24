@@ -7,8 +7,8 @@ excerpt: "Di sicuro s'è fatta attendere, questa pensione. Per Bloch, giusto que
 tags: 
    - recensioni
    - fumetti
-image: 
-  feature: dylan-dog-337.jpg
+header:  
+  image:  dylan-dog-337.jpg
   teaser: teaser-dylan-dog-337.jpg
   thumb: null
 published: true

@@ -6,8 +6,8 @@ categories: [2017]
 excerpt: "Mamma mia. Sul serio, così tanti ? È a tratti un po' deprimente, devo dire la verità..."
 tags:
   - xabologia
-image: 
-  feature: 4-anni.jpg
+header:  
+  image:  4-anni.jpg
   teaser: teaser-4-anni.jpg
   thumb: null
 published: true

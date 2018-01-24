@@ -7,8 +7,8 @@ excerpt: "Mater Morbi è una moderna storia cult di Dylan Dog, scritta da Robert
 tags: 
    - recensioni
    - fumetti
-image: 
-  feature: matermorbi.jpg
+header:  
+  image:  matermorbi.jpg
   teaser: teasermatermorbi.jpg
   thumb: null
 published: true

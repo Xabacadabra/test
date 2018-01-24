@@ -7,8 +7,8 @@ excerpt: "Logan è un bel film. Soprattutto, è un Film e non l'episodio della g
 tags:
   - cinema
   - recensioni
-image: 
-  feature: logan-the-wolverine.jpg
+header:  
+  image:  logan-the-wolverine.jpg
   teaser: teaser-logan-the-wolverine.jpg
   thumb: null
 ads: false

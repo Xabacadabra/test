@@ -5,8 +5,8 @@ modified: 11-22-2016
 categories: [2016]
 excerpt: "Prova-prova...siete ben sintonizzati con i vostri schermi ? Mi leggete ?"
 tags: [xabologia]
-image: 
-  feature: xabacadabra4.jpg
+header:  
+  image:  xabacadabra4.jpg
   teaser:  teaserxabacadabra4.jpg
   thumb: 
 published: true

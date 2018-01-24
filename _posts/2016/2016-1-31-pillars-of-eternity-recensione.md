@@ -7,8 +7,8 @@ excerpt: "Bene. è stato lungo è faticoso, ma finalmente ho terminato Pillars o
 tags:
   - videogiochi
   - recensioni
-image: 
-  feature: pillars-of-eternity.jpg
+header:  
+  image:  pillars-of-eternity.jpg
   teaser: teaser-pillars-of-eternity.jpg
   thumb: null
 published: true

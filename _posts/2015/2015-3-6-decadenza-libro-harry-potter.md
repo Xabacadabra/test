@@ -6,8 +6,8 @@ categories: [2015]
 excerpt: "Tutti i miei coscritti (la classe '89) e le generazioni a noi più prossime abbiano avuto due elementi comuni a condizionare le rispettive infanzie: La Playstation ed Harry Potter"
 tags: 
     - libri
-image:
-  feature: decadenza-finale-harry-potter.jpg
+header: 
+  image:  decadenza-finale-harry-potter.jpg
   teaser:  teaser-decadenza-finale-harry-potter.jpg
   thumb:
 published: true

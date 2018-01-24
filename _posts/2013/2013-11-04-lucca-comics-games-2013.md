@@ -5,8 +5,8 @@ modified: null
 categories: [2013]
 excerpt: "In breve perché ahimè la mia è stata una toccata & fuga (e nonostante questo abbastanza salata) e mi sono dedicato principalmente al lato comics..."
 tags: [fumetti, spettacolo]
-image: 
-  feature: lucca-2013.jpg
+header:  
+  image:  lucca-2013.jpg
   teaser:  teaser-lucca-2013.jpg
   thumb: 
 published: true

@@ -5,8 +5,8 @@ modified: null
 categories: [2016]
 excerpt: "Sulla questione Charlie Hebdo e le vignette con il recente terremoto del 24 agosto come soggetto non dirò..."
 tags: [xabologia]
-image: 
-  feature: charlie-hebdo.jpg
+header:  
+  image:  charlie-hebdo.jpg
   teaser:  teaser-charlie-hebdo.jpg
   thumb: 
 published: true

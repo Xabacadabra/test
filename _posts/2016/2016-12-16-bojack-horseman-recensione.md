@@ -9,8 +9,8 @@ tags:
   - serie-tv
   - animazione
   - recensioni
-image: 
-  feature: bojack-horseman-recensione.jpg
+header:  
+  image:  bojack-horseman-recensione.jpg
   teaser: teaser-bojack-horseman-recensione.jpg
   thumb: null
 published: true

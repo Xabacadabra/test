@@ -8,8 +8,8 @@ tags:
    - videogiochi
    - fumetti
    - animazione
-image: 
-  feature: akira-ff7.jpg
+header:  
+  image:  akira-ff7.jpg
   teaser: teaser-akira-ff7.jpg
   thumb: 
 published: true

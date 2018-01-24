@@ -7,8 +7,8 @@ excerpt: "E se esistessero rappresenterebbero i videogiocatori originali, tipo i
 tags:
   - xabologia
   - videogiochi
-image: 
-  feature: casualgamers.jpg
+header:  
+  image:  casualgamers.jpg
   teaser: teaser-casualgamers.jpg
   thumb: null
 published: true

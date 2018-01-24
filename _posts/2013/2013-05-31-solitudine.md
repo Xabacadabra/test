@@ -6,8 +6,8 @@ categories: [2013]
 excerpt: "Non leggete questo post. Sul serio, restate sintonizzati su Xabacadabra, ma questo lasciatelo perdere, andate a vedere le altre sue mirabolanti avventure..."
 tags:
   - xabologia
-image: 
-  feature: solitudine.jpg
+header:  
+  image:  solitudine.jpg
   teaser: teaser-solitudine.jpg
   thumb: null
 published: true

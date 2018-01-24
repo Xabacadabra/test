@@ -1,5 +1,4 @@
 ---
-
 title: "Perché DuckTales 2017 è bello ma il nostro Topolino è 1000 volte meglio"
 modified: null
 categories: [2018]
@@ -7,10 +6,9 @@ excerpt: ""
 tags:
   - fumetti
   - animazione
-image: 
-  feature: ducktales.jpg
-  teaser: teaser-ducktales.jpg
-  thumb: 
+header: 
+  image:  images/ducktales.jpg
+  teaser: images/teaser-ducktales.jpg 
 published: false
 comments: true
 ---

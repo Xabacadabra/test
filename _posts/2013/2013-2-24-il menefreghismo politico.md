@@ -1,5 +1,4 @@
 ---
-
 title: "Il Menefreghismo Politico"
 modified: null
 categories: [2013]
@@ -7,10 +6,9 @@ excerpt: "Come chi ha avuto l'ardire di seguire questo blog saprà, spesso ho sc
 tags:
   - politica
   - xabologia
-image: 
-  feature: menefreghismopolitico.jpg
-  teaser: teasermenefreghismopolitico.jpg
-  thumb: null
+header:  
+  image:  images/menefreghismopolitico.jpg
+  teaser: images/teasermenefreghismopolitico.jpg
 published: true
 comments: true
 ---

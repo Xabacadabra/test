@@ -5,8 +5,8 @@ modified: null
 categories: [2016]
 excerpt: "Come posso postare su un blog con una certa costanza ? Boh! Intanto vi spiego come faccio io, che magari vi torna utile"
 tags: [cyberspazio]
-image: 
-  feature: postare-tanto.jpg
+header:  
+  image:  postare-tanto.jpg
   teaser:  teaser-postare-tanto.jpg
   thumb: 
 published: false

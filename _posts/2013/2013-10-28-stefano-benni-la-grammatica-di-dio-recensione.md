@@ -5,8 +5,8 @@ modified: 2017-03-30
 categories: [2013]
 excerpt: "Catherine è un gioco che fondamentalmente o si ama o si odia, e molto difficilmente può essere digerito per il verso giusto da tutti i palati"
 tags: [recensioni, libri]
-image: 
-  feature: la-grammatica-di-dio.jpg
+header:  
+  image:  la-grammatica-di-dio.jpg
   teaser: teaser-la-grammatica-di-dio.jpg
   thumb: null
 published: true

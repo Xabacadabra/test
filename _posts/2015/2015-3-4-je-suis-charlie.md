@@ -5,8 +5,8 @@ modified: null
 categories: [2015]
 excerpt: "Siamo umani. Esseri meschini, per natura."
 tags: [xabologia]
-image: 
-  feature: charlie-hebdo.jpg
+header:  
+  image:  charlie-hebdo.jpg
   teaser:  teaser-charlie-hebdo.jpg
   thumb: 
 published: true

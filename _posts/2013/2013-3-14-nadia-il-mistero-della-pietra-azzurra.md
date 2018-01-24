@@ -7,8 +7,8 @@ excerpt: "Fushigi no umi no Nadia, altrimenti detto The Secret of Blue Water ma 
 tags:
   - recensioni 
   - animazione
-image: 
-  feature: nadia.jpg
+header:  
+  image:  nadia.jpg
   teaser: teasernadia.jpg
   thumb: null
 published: true

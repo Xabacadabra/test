@@ -7,8 +7,8 @@ excerpt: "Altrimenti detto se questi fumetti li disegnava un uomo finiva crocifi
 tags: 
    - recensioni
    - fumetti
-image: 
-  feature: renza.jpg
+header:  
+  image:  renza.jpg
   teaser: teaserrenza.jpg
   thumb: null
 published: true

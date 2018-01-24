@@ -6,8 +6,8 @@ categories: [2015]
 excerpt: "Da qualche tempo mi è capitato di notare come, soprattutto tra le Pagine di Facebook, risulti di moda farsi fighi..."
 tags:
   - cyberspazio
-image: 
-  feature: faccine.jpg
+header:  
+  image:  faccine.jpg
   teaser: teaserfaccine.jpg
   thumb: null
 published: true

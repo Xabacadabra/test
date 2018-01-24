@@ -6,8 +6,8 @@ categories: [2014]
 excerpt: "Un manga classe '68 che possiede tutte quelle caratteristiche che tanto mi hanno affascinato nei vecchi classici prodotti d'animazione/fumettistici del..."
 tags: 
   - fumetti
-image: 
-  feature: rocky-joe.jpg
+header:  
+  image:  rocky-joe.jpg
   teaser: teaser-rocky-joe.jpg
   thumb: null
 published: true

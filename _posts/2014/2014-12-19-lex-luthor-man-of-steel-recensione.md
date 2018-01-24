@@ -7,8 +7,8 @@ excerpt: "E se vi dicessi che il più bel fumetto di Superman ha come protagonis
 tags: 
    - recensioni
    - fumetti
-image: 
-  feature: lex-luthor.jpg
+header:  
+  image:  lex-luthor.jpg
   teaser: teaser-lex-luthor.jpg
   thumb: null
 published: true

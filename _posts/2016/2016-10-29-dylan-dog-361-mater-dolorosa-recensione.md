@@ -7,8 +7,8 @@ excerpt: "Trent'anni e sentirseli"
 tags: 
    - recensioni
    - fumetti
-image: 
-  feature: mater-dolorosa.jpg
+header:  
+  image:  mater-dolorosa.jpg
   teaser: teaser-mater-dolorosa.jpg
   thumb: null
 published: true

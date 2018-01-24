@@ -1,15 +1,13 @@
 ---
-
 title: "Sanremo Duemilatredici"
 modified: null
 categories: [2013]
 excerpt: "Perché si, si, LO SO che è uno spreco di soldi, che gli intrallazzi politico-televisivi palesi o nascosti..."
 tags:
   - spettacolo
-image: 
-  feature: sanremo2013.jpg
-  teaser: teasersanremo2013.jpg
-  thumb: null
+header: 
+  image:  images/sanremo2013.jpg
+  teaser: images/teasersanremo2013.jpg
 published: true
 comments: true
 ---

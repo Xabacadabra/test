@@ -7,8 +7,8 @@ excerpt: "First things first: The End of the World non è un gioco"
 tags: 
    - videogiochi
    - recensioni
-image: 
-  feature: the-end-of-the-world.jpg
+header:  
+  image:  the-end-of-the-world.jpg
   teaser: teaser-the-end-of-the-world.jpg
   thumb: null
 published: true

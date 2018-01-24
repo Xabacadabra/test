@@ -7,8 +7,8 @@ excerpt: "Sono un po' scosso.
 Sembra che questo blog stia diventando una sorta di enorme necrologio..."
 tags: [musica]
 comments: true
-image: 
-  feature: davidbowie.jpg
+header:  
+  image:  davidbowie.jpg
   teaser:  teaserdavidbowie.jpg
 ---
 

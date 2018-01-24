@@ -1,5 +1,4 @@
 ---
-
 title: Drizzit [Recensione]
 modified: null
 categories: [2013]
@@ -7,10 +6,9 @@ excerpt: "Venite a scoprire le deliranti e sagaci avventure dell'elfo oscuro pi√
 tags: 
    - recensioni
    - fumetti
-image: 
-  feature: drizzit.jpg
-  teaser: teaserdrizzit.jpg
-  thumb: null
+header:  
+  image:  images/drizzit.jpg
+  teaser: images/teaserdrizzit.jpg
 published: true
 ads: false
 comments: true

@@ -5,8 +5,8 @@ modified: null
 categories: [2015]
 excerpt: "Quella che segue è un'elaborazione più estesa di un commento spiccio a caldo, un commento che m'è uscito mentre condividevo su facebook...."
 tags: [cinema]
-image: 
-  feature: ilcorvo.jpg
+header:  
+  image:  ilcorvo.jpg
   teaser:  teaserilcorvo.jpg
   thumb: 
 published: true

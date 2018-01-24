@@ -5,8 +5,8 @@ modified: null
 categories: [2014]
 excerpt: "Immagina un alieno, mi aveva detto una volta Fox, che arrivi sulla Terra per identificare la forma intelligente dominate sul pianeta"
 tags: [recensioni, libri]
-image: 
-  feature: lanottechebruciammochrome.jpg
+header:  
+  image:  lanottechebruciammochrome.jpg
   teaser: teaserlanottechebruciammochrome.jpg
   thumb: 
 published: true

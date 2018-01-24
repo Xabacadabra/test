@@ -7,8 +7,8 @@ excerpt: "La modalità My Career concepita dai 2k per me è sempre stata uno di 
 tags: 
    - videogiochi
    - sport
-image: 
-  feature: nba-2k16.jpg
+header:  
+  image:  nba-2k16.jpg
   teaser: teaser-nba-2k16.jpg
   thumb: 
 published: true

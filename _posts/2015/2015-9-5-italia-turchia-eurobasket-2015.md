@@ -6,8 +6,8 @@ categories: [2015]
 excerpt: "Intanto da un lato è stata un po' Gallinari - Turchia."
 tags: [sport]
 comments: true
-image: 
-  feature: eurobasket-2015.jpg
+header:  
+  image:  eurobasket-2015.jpg
   teaser:  teaser-eurobasket-2015.jpg
 ---
 
