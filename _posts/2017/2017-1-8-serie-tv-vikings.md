@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "La Lezione di Vikings"
 modified: null
 categories: [2017]

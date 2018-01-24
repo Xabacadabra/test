@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "George R. R. Martin - Il Cavaliere dei Sette Regni [Recensione]"
 modified: 2016-11-15
 categories: [2015]

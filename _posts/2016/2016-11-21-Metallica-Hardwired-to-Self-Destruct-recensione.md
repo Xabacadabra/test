@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Metallica - Hardwired... to Self-Destruct [Recensione]"
 modified: null
 categories: [2016]

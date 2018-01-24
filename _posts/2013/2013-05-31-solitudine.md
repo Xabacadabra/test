@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Solitudine"
 modified: 2016-11-02
 categories: [2013]

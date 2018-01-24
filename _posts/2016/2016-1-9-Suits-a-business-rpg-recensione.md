@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Suits - A Business RPG [Mini-Recensione]"
 modified: null
 categories: [2016]

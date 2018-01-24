@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "8 suggerimenti per il Videogioco di Ruolo ideale"
 modified: null
 categories: [2015]

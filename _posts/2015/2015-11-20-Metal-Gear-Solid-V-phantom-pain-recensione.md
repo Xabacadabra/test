@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Metal Gear Solid V: The Phantom Pain [Recensione]"
 modified: null
 categories: [2015]

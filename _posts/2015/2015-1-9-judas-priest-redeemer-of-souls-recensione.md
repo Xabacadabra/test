@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Judas Priest - Redeemer of Souls [Recensione]"
 modified:
 categories: [2015]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Black Sails [Recensione]"
 modified: 2016-01-22
 categories: [2014]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Charlie Hebdo ed il Clickbait provocatorio"
 modified: null
 categories: [2016]

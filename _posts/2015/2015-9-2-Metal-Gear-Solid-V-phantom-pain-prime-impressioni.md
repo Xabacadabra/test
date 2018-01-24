@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Metal Gear Solid V: The Phantom Pain [Prime Impressioni a caldo]"
 modified: null
 categories: [2015]

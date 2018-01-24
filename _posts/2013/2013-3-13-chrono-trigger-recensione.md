@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Chrono Trigger [Recensione]"
 modified: null
 categories: [2013]

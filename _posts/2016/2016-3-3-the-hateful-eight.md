@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "The Hateful Eight [Recensione]"
 modified: null
 categories: [2016]

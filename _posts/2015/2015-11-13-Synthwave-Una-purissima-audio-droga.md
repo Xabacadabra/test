@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Synthwave - Una purissima audio droga"
 modified:
 categories: [2015]

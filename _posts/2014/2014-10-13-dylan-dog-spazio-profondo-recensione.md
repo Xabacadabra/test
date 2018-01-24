@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: Dylan Dog 337 - Spazio Profondo [Recensione]
 modified: 2016-11-2
 categories: [2014]

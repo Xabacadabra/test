@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "#JeSuisCharlie: l'impossibilità di dissentire dal dissenso"
 modified: null
 categories: [2015]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Poets of the Fall in Italia [Resoconto]"
 modified:
 categories: [2015]

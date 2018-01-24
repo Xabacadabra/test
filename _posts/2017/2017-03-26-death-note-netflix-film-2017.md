@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "[Netflix] Death Note - Il film, e le imbarazzanti premesse"
 modified: null
 categories: [2017]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Iron Man 3 [Mini-Recensione]"
 modified: null
 categories: [2013]

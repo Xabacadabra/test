@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Lucca Comics & Games 2013"
 modified: null
 categories: [2013]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Macbeth (2015) [Recensione]"
 modified: null
 categories: [2016]

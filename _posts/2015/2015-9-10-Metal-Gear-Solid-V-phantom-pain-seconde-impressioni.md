@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Metal Gear Solid V: The Phantom Pain [Seconde Impressioni a tiepido (?!)]"
 modified: null
 categories: [2015]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "La Saga di Deus Ex"
 modified: null
 categories: [2016]

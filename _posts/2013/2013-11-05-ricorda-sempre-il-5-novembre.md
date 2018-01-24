@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Ricorda per sempre il 5 novembre"
 modified: 2016-11-05
 categories: [2013]

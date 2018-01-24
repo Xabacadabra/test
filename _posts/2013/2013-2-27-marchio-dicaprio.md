@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Marchio DiCaprio"
 modified: null
 categories: [2013]

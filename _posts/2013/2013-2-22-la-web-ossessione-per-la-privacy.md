@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "La Web Ossessione per la Privacy"
 modified: null
 categories: [2013]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Italia - Lituania 85 - 95 [Eurobasket 2015]"
 modified:
 categories: [2015]

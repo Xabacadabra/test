@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "La dolce decadenza dell'ultimo libro di Harry Potter"
 modified: 2017-3-24
 categories: [2015]

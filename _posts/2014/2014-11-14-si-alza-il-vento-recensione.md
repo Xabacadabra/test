@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Si alza il vento [Recensione]"
 modified: 2017-23-03
 categories: [2014]

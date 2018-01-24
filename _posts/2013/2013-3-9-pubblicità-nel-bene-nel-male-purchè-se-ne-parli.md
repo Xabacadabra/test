@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Pubblicità Negativa Gratuita"
 modified: null
 categories: [2013]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Paradise Lost - Draconian Times [Recensione]"
 modified:
 categories: [2016]

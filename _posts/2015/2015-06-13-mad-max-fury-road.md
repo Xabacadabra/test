@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "L'importanza di chiamarsi Mad Max"
 modified: null
 categories: [2015]

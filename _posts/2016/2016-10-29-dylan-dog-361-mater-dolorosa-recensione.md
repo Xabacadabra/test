@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Dylan Dog 361 - Mater Dolorosa [Recensione]"
 modified: null
 categories: [2016]

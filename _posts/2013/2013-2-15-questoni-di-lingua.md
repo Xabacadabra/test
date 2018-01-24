@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Questioni di Lingua"
 modified: null
 categories: [2013]

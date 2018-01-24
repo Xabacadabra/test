@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Batman V Superman [Recensione]"
 modified: null
 categories: [2016]

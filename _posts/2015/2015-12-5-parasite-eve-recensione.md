@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Parasite Eve [Recensione]"
 modified: null
 categories: [2015]

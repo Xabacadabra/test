@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Sentire la mancanza di Berlusconi"
 modified: null
 categories: [2015]

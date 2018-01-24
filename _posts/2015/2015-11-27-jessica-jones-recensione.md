@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Marvel's Jessica Jones [Recensione S1]"
 modified: null
 categories: [2015]

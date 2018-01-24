@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "David Bowie"
 modified:
 categories: [2016]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Italia - Germania 89 - 82 [Eurobasket 2015]"
 modified:
 categories: [2015]

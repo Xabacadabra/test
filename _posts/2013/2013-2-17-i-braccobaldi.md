@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "I Braccobaldi"
 modified: null
 categories: [2013]

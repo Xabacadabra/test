@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: Dylan Dog 280 - Mater Morbi [Recensione]
 modified: null
 categories: [2013]

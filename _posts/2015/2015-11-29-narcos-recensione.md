@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Narcos [Recensione S1]"
 modified: null
 categories: [2015]

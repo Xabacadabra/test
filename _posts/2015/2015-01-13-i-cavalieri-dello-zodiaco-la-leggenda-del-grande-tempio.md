@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "I Cavalieri dello Zodiaco: La Leggenda del Grande Tempio [Recensione]"
 modified: 2016-11-6
 categories: [2015]

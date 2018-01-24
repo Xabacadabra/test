@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Riflessioni di Dicembre"
 modified: null
 categories: [2016]

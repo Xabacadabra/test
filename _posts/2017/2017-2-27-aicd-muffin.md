@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Acid Muffin - Bloop [Recensione]"
 modified:
 categories: [2017]

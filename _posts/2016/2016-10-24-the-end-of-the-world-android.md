@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "[Android] The End of the World [Recensione]"
 modified: null
 categories: [2016]

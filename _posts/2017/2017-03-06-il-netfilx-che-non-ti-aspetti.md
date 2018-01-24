@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Il Netflix che non ti aspetti #1"
 modified: null
 categories: [2017]

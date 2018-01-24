@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Beyond: Due Anime [Recensione]"
 modified: null
 categories: [2013]

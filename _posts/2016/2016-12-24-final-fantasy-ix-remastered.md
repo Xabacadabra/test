@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Esplorando Final Fantasy IX Remastered"
 modified: null
 categories: [2016]

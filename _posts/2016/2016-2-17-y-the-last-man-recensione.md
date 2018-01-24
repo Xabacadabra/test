@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: Y - L'ultimo uomo sulla Terra [Recensione]
 modified: null
 categories: [2016]

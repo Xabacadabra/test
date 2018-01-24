@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "I Casual Gamers non esistono"
 modified: null
 categories: [2016]

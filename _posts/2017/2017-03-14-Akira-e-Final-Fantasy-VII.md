@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Akira e Final Fantasy VII"
 modified: null
 categories: [2017]

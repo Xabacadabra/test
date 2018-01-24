@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Until I Have You [NON-RECENSIONE]"
 modified: null
 categories: [2016]

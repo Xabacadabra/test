@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Le Sexy Cosplayer"
 modified: null
 categories: [2014]

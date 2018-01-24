@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: Provando MrHyde
 modified: null
 categories: [2016]

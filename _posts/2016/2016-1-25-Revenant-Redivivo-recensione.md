@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Revenant - Redivivo [Recensione]"
 modified: null
 categories: [2016]

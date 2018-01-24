@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "The Elder Scrolls II Daggerfall nel 2016"
 modified: null
 categories: [2016]

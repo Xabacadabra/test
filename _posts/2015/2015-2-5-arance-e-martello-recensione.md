@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Arance & Martello [Recensione]"
 modified: null
 categories: [2015]

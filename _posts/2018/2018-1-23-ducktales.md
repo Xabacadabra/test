@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Perché DuckTales 2017 è bello ma il nostro Topolino è 1000 volte meglio"
 modified: null
 categories: [2018]

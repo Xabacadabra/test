@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "La Musica Oggi"
 modified:
 categories: [2013]

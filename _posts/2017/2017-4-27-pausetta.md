@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Pausetta ?"
 modified: null
 categories: [2017]

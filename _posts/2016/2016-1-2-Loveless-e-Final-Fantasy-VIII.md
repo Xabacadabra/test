@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Loveless e Final Fantasy VIII"
 modified: null
 categories: [2016]

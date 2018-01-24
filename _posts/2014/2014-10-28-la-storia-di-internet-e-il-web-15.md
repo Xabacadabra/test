@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "La Storia di Internet e il Web 1.5"
 modified: null
 categories: [2014]

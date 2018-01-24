@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Harry Potter e la maledizione dell'erede [Recensione]"
 modified: null
 categories: [2017]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "4 Anni di Xaba Cadabra !"
 modified: null
 categories: [2017]

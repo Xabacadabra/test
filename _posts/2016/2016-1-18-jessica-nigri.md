@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Il Successo di Jessica Nigri"
 modified: null
 categories: [2016]

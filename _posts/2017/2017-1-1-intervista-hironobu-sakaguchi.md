@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Intervista a Hironobu Sakaguchi [Tradotto da Glixel]"
 modified: null
 categories: [2017]

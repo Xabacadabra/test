@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Animali Fantastici e dove trovarli [Recensione]"
 modified:
 categories: [2016]

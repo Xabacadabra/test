@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Il Movimento Arturo di Gazebo: una riflessione seria"
 modified: null
 categories: [2017]

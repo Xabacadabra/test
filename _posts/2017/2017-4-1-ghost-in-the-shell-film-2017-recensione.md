@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Ghost in the Shell - Il film (2017) [Recensione]"
 modified: 2017-4-3
 categories: [2017]

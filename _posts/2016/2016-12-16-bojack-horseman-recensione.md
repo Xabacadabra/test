@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "[Netflix] Bojack Horseman [Recensione]"
 modified: null
 categories: [2016]

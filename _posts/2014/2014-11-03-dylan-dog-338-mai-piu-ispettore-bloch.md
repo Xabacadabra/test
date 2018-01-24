@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: Dylan Dog 338 - Mai più, ispettore Bloch [Recensione]
 modified: 2016-10-31
 categories: [2014]

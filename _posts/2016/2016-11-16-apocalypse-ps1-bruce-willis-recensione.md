@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Apocalypse [PS1] [Recensione]"
 modified: null
 categories: [2016]

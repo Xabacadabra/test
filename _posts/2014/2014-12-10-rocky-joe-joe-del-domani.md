@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Rocky Joe - Joe del Domani"
 modified: 2017-3-29
 categories: [2014]

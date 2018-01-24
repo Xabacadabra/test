@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Linkin Park - A Thousand Suns [Recensione]"
 modified: null
 categories: [2013]

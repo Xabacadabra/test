@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Il Menefreghismo Politico"
 modified: null
 categories: [2013]

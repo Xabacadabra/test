@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Forum e Facebook - Come Sundance Kid"
 modified: null
 categories: [2015]

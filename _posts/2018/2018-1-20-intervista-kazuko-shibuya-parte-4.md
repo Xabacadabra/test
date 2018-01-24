@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Intervista a Kazuko Shibuya [Parte 4]"
 modified: null
 categories: [2018]

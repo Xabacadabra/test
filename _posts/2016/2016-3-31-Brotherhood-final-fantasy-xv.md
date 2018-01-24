@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Brotherhood Final Fantasy XV [Episodio 1]"
 modified: null
 categories: [2016]

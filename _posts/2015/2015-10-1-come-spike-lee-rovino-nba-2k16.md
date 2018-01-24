@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Come Spike Lee rovinò NBA 2k16"
 modified: null
 categories: [2015]

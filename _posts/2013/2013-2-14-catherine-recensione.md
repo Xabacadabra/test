@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Catherine [Recensione]"
 modified: null
 categories: [2013]

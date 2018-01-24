@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "La Discriminazione delle Faccine / Emoticon"
 modified: null
 categories: [2015]

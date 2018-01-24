@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Saint Seiya - Lost Canvas"
 modified: 2016-11-1
 categories: [2015]

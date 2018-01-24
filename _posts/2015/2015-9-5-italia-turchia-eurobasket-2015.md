@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Italia - Turchia 87 - 89 [Eurobasket 2015]"
 modified:
 categories: [2015]

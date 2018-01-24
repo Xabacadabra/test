@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Ghost in the Shell"
 modified: null
 categories: [2016]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Sanremo Duemilatredici"
 modified: null
 categories: [2013]

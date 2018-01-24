@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "L'Uomo d'Acciaio [Recensione]"
 modified: null
 categories: [2016]

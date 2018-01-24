@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Final Fantasy X e Grandia 2: il Plagio?"
 modified: 2015-12-22T00:00:00.000Z
 categories: [2013]

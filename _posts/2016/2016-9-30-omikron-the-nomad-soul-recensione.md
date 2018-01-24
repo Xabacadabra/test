@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Omikron: The Nomad Soul [Recensione Parte I]"
 modified: null
 categories: [2016]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: Sandman [NON-Recensione]
 modified: null
 categories: [2015]

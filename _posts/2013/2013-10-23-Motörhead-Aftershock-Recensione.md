@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Motörhead - Aftershock [Mini-Recensione]"
 modified:
 categories: [2013]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Xabacadabrando"
 modified: null
 categories: [2016]

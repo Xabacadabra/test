@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Distant Worlds - Milano [Resoconto]"
 modified:
 categories: [2017]

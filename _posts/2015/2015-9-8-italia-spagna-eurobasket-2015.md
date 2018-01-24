@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Italia - Spagna 105 - 98 [Eurobasket 2015]"
 modified:
 categories: [2015]

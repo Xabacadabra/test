@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "10 suggerimenti per scrivere Blog nel 2017"
 modified: null
 categories: [2016]

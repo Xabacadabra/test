@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "The Propaganda Game [Netflix]: di Corea, bufale e gomblotti"
 modified: null
 categories: [2016]

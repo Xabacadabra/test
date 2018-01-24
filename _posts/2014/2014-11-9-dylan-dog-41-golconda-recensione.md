@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Dylan Dog 41 - Golconda! [Mini-Recensione]"
 modified: 2017-03-23
 categories: [2014]

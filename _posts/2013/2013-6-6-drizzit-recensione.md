@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: Drizzit [Recensione]
 modified: null
 categories: [2013]

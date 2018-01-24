@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Demon Souls [Recensione]"
 modified: null
 categories: [2017]

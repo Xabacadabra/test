@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "La Creazione di un Personaggio nei Videogiochi"
 modified: 2017-01-09
 categories: [2013]

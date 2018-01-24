@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "La grammatica di Dio - Stefano Benni [Recensione]"
 modified: 2017-03-30
 categories: [2013]

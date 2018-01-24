@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "L'Estremismo di Internet"
 modified: null
 categories: [2016]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Tuomas Holopainen - The Life and Times of Scrooge [Mini-Recensione]"
 modified:
 categories: [2014]

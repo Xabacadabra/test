@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "La prima volta su Internet"
 modified: null
 categories: [2017]

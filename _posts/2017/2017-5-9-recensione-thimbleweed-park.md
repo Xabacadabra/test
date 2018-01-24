@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Thimbleweed Park [Recensione]"
 modified: null
 categories: [2017]

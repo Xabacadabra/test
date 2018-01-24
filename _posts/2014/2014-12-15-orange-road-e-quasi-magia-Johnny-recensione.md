@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Capricciosa Orange Road - È quasi magia Johnny"
 modified: 2017-03-9
 categories: [2014]

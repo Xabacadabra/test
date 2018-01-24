@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Pillars of Eternity [Recensione]"
 modified: null
 categories: [2016]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Come si fanno i videogiochi: è un male saperlo ?"
 modified: null
 categories: [2017]

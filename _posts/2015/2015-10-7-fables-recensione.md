@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: Fables [Recensione]
 modified: null
 categories: [2015]

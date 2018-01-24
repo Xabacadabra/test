@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "keith richards"
 modified: null
 categories: [2016]

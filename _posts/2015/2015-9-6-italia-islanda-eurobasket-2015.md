@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Italia - Islanda 71 - 64 [Eurobasket 2015]"
 modified:
 categories: [2015]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "[Saldi Steam] Dragon Ball Xenoverse è una delusione"
 modified: null
 categories: [2016]

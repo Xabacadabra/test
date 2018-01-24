@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Suburra [Recensione]"
 modified: null
 categories: [2015]

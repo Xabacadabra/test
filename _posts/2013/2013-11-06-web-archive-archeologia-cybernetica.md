@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Web Archive: Archeologia Cybernetica e il Tempo di Internet"
 modified: null
 categories: [2013]

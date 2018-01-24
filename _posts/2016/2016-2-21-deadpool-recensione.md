@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Deadpool [Recensione]"
 modified: null
 categories: [2016]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "La notte che bruciammo Chrome - William Gibson [Recensione]"
 modified: null
 categories: [2014]

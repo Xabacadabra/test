@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Capitan Harlock 3d [Recensione]"
 modified: 2016-11-19
 categories: [2014]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Deep Purple - Now What ?! [Mini-Recensione]"
 modified:
 categories: [2013]

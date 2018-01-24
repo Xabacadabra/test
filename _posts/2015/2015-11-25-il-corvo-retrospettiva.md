@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Il Corvo - Una retrospettiva sul film"
 modified: null
 categories: [2015]

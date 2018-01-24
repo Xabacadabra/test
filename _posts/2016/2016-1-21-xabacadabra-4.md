@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Xaba Cadabra 4"
 modified: 11-22-2016
 categories: [2016]

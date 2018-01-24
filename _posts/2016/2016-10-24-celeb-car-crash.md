@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Celeb Car Crash - People Are The Best Show [Recensione]"
 modified:
 categories: [2016]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Birdman [Recensione]"
 modified: null
 categories: [2015]

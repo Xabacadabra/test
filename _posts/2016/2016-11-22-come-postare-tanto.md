@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "[Blog] Come postare tanto e spesso"
 modified: null
 categories: [2016]

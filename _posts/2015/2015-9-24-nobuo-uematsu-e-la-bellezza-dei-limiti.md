@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Nobuo Uematsu e la bellezza dei limiti"
 modified: 2016-10-24
 categories: [2015]

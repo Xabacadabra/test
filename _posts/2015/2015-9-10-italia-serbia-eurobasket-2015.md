@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Italia - Serbia 82 - 101 [Eurobasket 2015]"
 modified:
 categories: [2015]

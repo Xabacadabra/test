@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Remake di Final Fantasy VII [News e Commento #2]"
 modified: null
 categories: [2015]

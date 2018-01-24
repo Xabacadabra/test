@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Pixel Art is Awesome!"
 modified: 2015-12-22T00:00:00.000Z
 categories: [2013]

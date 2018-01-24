@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Addio Chris Cornell"
 modified:
 categories: [2017]

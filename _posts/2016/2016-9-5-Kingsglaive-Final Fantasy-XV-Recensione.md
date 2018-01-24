@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Kingsglaive: Final Fantasy XV [Recensione]"
 modified: null
 categories: [2016]

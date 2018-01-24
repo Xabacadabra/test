@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Xenogears [Recensione]"
 modified: null
 categories: [2016]

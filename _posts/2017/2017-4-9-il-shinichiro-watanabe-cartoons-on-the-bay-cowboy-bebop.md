@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Incontro con Shin'ichirō Watanabe [Cartoons on the Bay - Torino 2017]"
 modified: null
 categories: [2017]

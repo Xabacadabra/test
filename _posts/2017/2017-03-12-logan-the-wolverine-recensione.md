@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Logan - The Wolverine [Recensione]"
 modified: null
 categories: [2017]

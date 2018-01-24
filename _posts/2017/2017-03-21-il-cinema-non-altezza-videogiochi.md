@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Il Cinema non è all'altezza dei Videogiochi"
 modified: null
 categories: [2017]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "L'hashtag #IoNonLeggoRepubblica è una stronzata"
 modified: 2016-22-11
 categories: [2015]

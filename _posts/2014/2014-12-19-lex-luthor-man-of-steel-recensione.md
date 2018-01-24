@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Lex Luthor - Man of Steel [Recensione]"
 modified: null
 categories: [2014]

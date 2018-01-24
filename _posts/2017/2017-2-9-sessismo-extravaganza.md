@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Sessismo Extravaganza"
 modified: null
 categories: [2017]

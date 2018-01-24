@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Gangsta. [Recensione]"
 modified: 2017-23-03
 categories: [2015]

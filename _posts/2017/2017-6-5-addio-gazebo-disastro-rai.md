@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Addio Gazebo: un disastro per la RAI"
 modified: null
 categories: [2017]

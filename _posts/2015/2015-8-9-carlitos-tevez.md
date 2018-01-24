@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "L'Apache Calritos Tévez - Xab e il Calcio"
 modified:
 categories: [2015]

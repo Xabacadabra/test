@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Vampire The Masquerade - Bloodlines [Recensione]"
 modified: 2016-11-17
 categories: [2013]

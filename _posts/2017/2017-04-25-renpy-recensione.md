@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Ren'Py: Visual Novel Engine gratis per tutti"
 modified: null
 categories: [2017]

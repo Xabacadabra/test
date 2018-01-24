@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Sognando Gundam - 1979 [Netflix]"
 modified: null
 categories: [2016]

@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Perché guardare Sanremo"
 modified: null
 categories: [2016]

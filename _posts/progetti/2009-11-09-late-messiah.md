@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Late Messiah"
 modified: 2016-11-06
 categories: [progetti]

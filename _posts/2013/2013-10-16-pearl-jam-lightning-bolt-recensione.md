@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Pearl Jam – Lightning Bolt [Recensione]"
 modified:
 categories: [2013]

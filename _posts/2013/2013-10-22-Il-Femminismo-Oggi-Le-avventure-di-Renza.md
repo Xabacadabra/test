@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: Il Femminismo Oggi Le avventure di Renza & Co
 modified: null
 categories: [2013]

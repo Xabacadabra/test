@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Il significato del finale di Birdman [SPOILER]"
 modified: null
 categories: [2015]

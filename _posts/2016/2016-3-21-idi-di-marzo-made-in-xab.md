@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Idi di Marzo made in Xab"
 modified: null
 categories: [2016]

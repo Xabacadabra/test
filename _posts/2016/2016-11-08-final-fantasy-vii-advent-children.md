@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Final Fantasy VII - Advent Children"
 modified: null
 categories: [2016]

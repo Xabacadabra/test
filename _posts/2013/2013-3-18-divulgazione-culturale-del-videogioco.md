@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Divulgazione Culturale del Videogioco"
 modified: null
 categories: [2013]

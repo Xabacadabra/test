@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Lupin III e Cowboy Bebop"
 modified: 2017-03-9
 categories: [2015]

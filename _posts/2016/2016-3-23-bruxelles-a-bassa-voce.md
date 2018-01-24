@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Bruxelles a bassa voce"
 modified: null
 categories: [2016]

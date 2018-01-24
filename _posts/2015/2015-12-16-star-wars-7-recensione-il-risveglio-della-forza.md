@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "Star Wars 7 - Il Risveglio della Forza [Recensione NO SPOILER]"
 modified: null
 categories: [2015]

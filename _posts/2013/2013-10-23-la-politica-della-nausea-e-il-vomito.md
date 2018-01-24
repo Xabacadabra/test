@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: "La Politica della Nausea e il Vomito Catartico"
 modified: null
 categories: [2013]
