@@ -8,6 +8,7 @@ excerpt: "Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, va
 tags:
   - videogiochi
   - recensioni
+toc: true
 ---
 
 Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, vale a dire riterminando, dopo tanti anni, la celeberrima saga di _Baldur's Gate_, approfittando nella sua ultima incarnazione: 
