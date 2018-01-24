@@ -9,7 +9,7 @@ excerpt: 'Recensioni e speculazioni caustiche riguardo Videogiochi, Serie TV, Fu
 ---
 
 {% for post in paginator.posts %}
-  {% include archive-single.html %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
 
 {% include paginator.html %}
