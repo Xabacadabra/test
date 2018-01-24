@@ -1,5 +1,5 @@
 ---
 layout: home
 header:
-  image:  images/gardenight.gif
+  overlay_header:  images/gardenight.gif
 ---
