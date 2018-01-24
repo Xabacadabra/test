@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /images/gardenight.gif
   cta_label: "<i class='fas fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
   caption:
@@ -36,6 +36,8 @@ intro:
   - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter} [<i class="fab fa-paypal"></i> Tip Me](https://www.paypal.me/mmistakes){: .btn .btn--primary}'
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
 
-{% include feature_row %}
+{% include paginator.html %}
