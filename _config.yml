@@ -4,5 +4,16 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 title: "Xaba Cadabra"
 description: "Xaba Cadabra è un blog colmo di recensioni e speculazioni caustiche riguardo Videogiochi, Serie TV, Fumetti e tutte quelle robe nerd."
 locale: it
+timezone: Europe/Rome
 
 breadcrumbs: true
+search: true
+
+twitter:
+  username: "xabaras89"
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
+  
