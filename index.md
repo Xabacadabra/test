@@ -2,5 +2,5 @@
 layout: spalsh
 permalink: /
 header:
-  overlay_image: /assets/images/gardenight.gif
+  overlay_image: /images/gardenight.gif
 ---
