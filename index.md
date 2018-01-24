@@ -1,7 +1,6 @@
 ---
-layout: splash
+layout: spalsh
 permalink: /
 header:
-  overlay_image:
-  /images/gardenight.gif
+  overlay_image: /assets/images/gardenight.gif
 ---
