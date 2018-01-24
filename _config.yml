@@ -88,7 +88,7 @@ analytics:
 author:
   name             : *name
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "A web world citizen."
   location         : "Genoa, Italy"
   email            :
   uri              :
@@ -250,7 +250,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
