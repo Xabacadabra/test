@@ -1,6 +1,5 @@
 ---
 title: "La Morale di Baldur's Gate"
-modified: null
 categories: [2018]
 excerpt: "Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, vale a dire riterminando, dopo tanti anni, la celeberrima saga di Baldur's Gate, approfittando nella sua ultima incarnazione..."
 tags:
@@ -8,7 +7,6 @@ tags:
   - recensioni
 header: 
   teaser: baldur.jpg
-published: true
 ---
 
 Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, vale a dire riterminando, dopo tanti anni, la celeberrima saga di _Baldur's Gate_, approfittando nella sua ultima incarnazione: 
