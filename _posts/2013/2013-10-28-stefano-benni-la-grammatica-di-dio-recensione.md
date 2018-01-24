@@ -1,17 +1,14 @@
 ---
-
 title: "La grammatica di Dio - Stefano Benni [Recensione]"
 modified: 2017-03-30
 categories: [2013]
 excerpt: "Catherine è un gioco che fondamentalmente o si ama o si odia, e molto difficilmente può essere digerito per il verso giusto da tutti i palati"
 tags: [recensioni, libri]
 header:  
-  image:  la-grammatica-di-dio.jpg
-  teaser: teaser-la-grammatica-di-dio.jpg
-  thumb: null
+  image:  images/la-grammatica-di-dio.jpg
+  teaser: images/teaser-la-grammatica-di-dio.jpg
 published: true
 comments: true
-ads: false
 ---
 
 Prima di tutto ringrazio il buon **Cyano**, mio sommo mentore/divinità protettrice, per il suggerimento letterario ✊️

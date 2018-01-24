@@ -1,5 +1,4 @@
 ---
-
 title: "Web Archive: Archeologia Cybernetica e il Tempo di Internet"
 modified: null
 categories: [2013]
@@ -7,9 +6,8 @@ excerpt: "Chi vive internet, o meglio chi ha vissuto un certo tipo di interne
 tags:
   - cyberspazio
 header:  
-  image:  webarchive.jpg
-  teaser: teaserwebarchive.jpg
-  thumb: null
+  image:  images/webarchive.jpg
+  teaser: images/teaserwebarchive.jpg
 published: true
 comments: true
 ---

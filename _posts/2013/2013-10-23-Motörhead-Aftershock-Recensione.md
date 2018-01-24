@@ -1,5 +1,4 @@
 ---
-
 title: "Motörhead - Aftershock [Mini-Recensione]"
 modified:
 categories: [2013]
@@ -7,8 +6,8 @@ excerpt: "Dicevo, parlando dei Pearl Jam nella mia ultima recensione musicale, c
 tags: [musica, recensioni]
 comments: true
 header:  
-  image:  motorheadaftershock.jpg
-  teaser:  teasermotorheadaftershock.jpg
+  image:  images/motorheadaftershock.jpg
+  teaser:  images/teasermotorheadaftershock.jpg
 ---
 
 Dicevo, parlando dei Pearl Jam nella mia ultima recensione musicale, che mi pareva di notare una certa perdita di smalto, qualche compromesso (musicale & non) di troppo dettato forse dall'età, forse da una grinta lasciata in pensione 

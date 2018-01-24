@@ -1,5 +1,4 @@
 ---
-
 title: "La Politica della Nausea e il Vomito Catartico"
 modified: null
 categories: [2013]
@@ -8,9 +7,8 @@ tags:
   - politica
   - xabologia
 header:  
-  image:  politicanausea.jpg
-  teaser: teaserpoliticanausea.jpg
-  thumb: null
+  image: images/politicanausea.jpg
+  teaser: images/teaserpoliticanausea.jpg
 published: true
 comments: true
 ---

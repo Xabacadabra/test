@@ -1,5 +1,4 @@
 ---
-
 title: Il Femminismo Oggi Le avventure di Renza & Co
 modified: null
 categories: [2013]
@@ -8,9 +7,8 @@ tags:
    - recensioni
    - fumetti
 header:  
-  image:  renza.jpg
-  teaser: teaserrenza.jpg
-  thumb: null
+  image:  images/renza.jpg
+  teaser: images/teaserrenza.jpg
 published: true
 comments: true
 ---

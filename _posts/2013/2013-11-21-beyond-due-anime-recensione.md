@@ -1,14 +1,12 @@
 ---
-
 title: "Beyond: Due Anime [Recensione]"
 modified: null
 categories: [2013]
 excerpt: "Altrimenti detto David Cage Begins"
 tags: [recensioni, videogiochi]
 header: 
-  image:  beyond-due-anime.jpg
-  teaser:  teaser-beyond.jpg
-  thumb:
+  image:  images/beyond-due-anime.jpg
+  teaser:  images/teaser-beyond.jpg
 published: true
 comments: true
 ---

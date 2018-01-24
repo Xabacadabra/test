@@ -1,5 +1,4 @@
 ---
-
 title: "Ricorda per sempre il 5 novembre"
 modified: 2016-11-05
 categories: [2013]
@@ -8,9 +7,8 @@ tags:
   - xabologia
   - politica
 header:  
-  image:  5-novembre.jpg
-  teaser: teaser-5-novembre.jpg
-  thumb: null
+  image:  images/5-novembre.jpg
+  teaser: images/teaser-5-novembre.jpg
 published: true
 comments: true
 ---

@@ -1,14 +1,12 @@
 ---
-
 title: "Vampire The Masquerade - Bloodlines [Recensione]"
 modified: 2016-11-17
 categories: [2013]
 excerpt: "Vampiri la masquerade è uno dei più celebri giochi di ruolo cartacei di sempre, probabilmente secondo soltanto alla pietra miliare D&D..."
 tags: [recensioni, videogiochi]
 header: 
-  image:  vampire-the-masquerade-bloodlines.jpg
-  teaser: teaser-vampire-the-masquerade-bloodlines.jpg
-  thumb:
+  image:  images/vampire-the-masquerade-bloodlines.jpg
+  teaser: images/teaser-vampire-the-masquerade-bloodlines.jpg
 published: true
 comments: true
 ---

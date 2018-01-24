@@ -1,5 +1,4 @@
 ---
-
 title: Dylan Dog 280 - Mater Morbi [Recensione]
 modified: null
 categories: [2013]
@@ -8,9 +7,8 @@ tags:
    - recensioni
    - fumetti
 header:  
-  image:  matermorbi.jpg
-  teaser: teasermatermorbi.jpg
-  thumb: null
+  image:  images/matermorbi.jpg
+  teaser: images/teasermatermorbi.jpg
 published: true
 comments: true
 ---
