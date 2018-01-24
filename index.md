@@ -1,6 +1,6 @@
 ---
-layout: spalsh
+layout: home
 permalink: /
 header:
-  overlay_image: gardenight.gif
+  overlay_image: images/gardenight.gif
 ---
