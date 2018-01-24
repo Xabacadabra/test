@@ -23,8 +23,7 @@ defaults:
       comments: true
       share: true
       related: true
-      categories: foo
-
+      
 defaults:
   # _pages
   - scope:
