@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "La Morale di Baldur's Gate"
 header:
   image: baldur.jpg 
