@@ -4,12 +4,44 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 title: "Xaba Cadabra"
 description: "Xaba Cadabra è un blog colmo di recensioni e speculazioni caustiche riguardo Videogiochi, Serie TV, Fumetti e tutte quelle robe nerd."
 locale: it
+name: "Xab"
 timezone: Europe/Rome
 
 search: true
 
 twitter:
   username: "xabaras89"
+
+# Site Author
+author:
+  name             : *name
+  avatar           : 
+  bio              : 
+  location         : "Genoa, Italy"
+  email            :
+  uri              : "https://xabacadabra.com"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : *facebook
+  foursquare       :
+  github           : "xabacadabra"
+  google_plus      :
+  keybase          :
+  instagram        : "xabacadabra"
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : *twitter
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :  
 
 defaults:
   # _posts
