@@ -12,6 +12,19 @@ search: true
 twitter:
   username: "xabaras89"
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true  
+
 compress_html:
   clippings: all
   ignore:
