@@ -42,3 +42,5 @@ gallery:
     image_path: /images/xabologia.jpg
     alt: "xabologia"                
 ---
+
+{% include gallery %}
