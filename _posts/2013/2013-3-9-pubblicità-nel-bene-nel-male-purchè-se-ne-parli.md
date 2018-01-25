@@ -1,5 +1,4 @@
 ---
-
 title: "Pubblicità Negativa Gratuita"
 modified: null
 categories: [2013]
@@ -7,9 +6,8 @@ excerpt: "Nel bene o nel male, purché se ne parli"
 tags:
   - xabologia
 header:  
-  image:  pubblicità.jpg
-  teaser: teaserpubblicità.jpg
-  thumb: null
+  image:  images/pubblicità.jpg
+  teaser: images/teaserpubblicità.jpg
 published: true
 comments: true
 ---

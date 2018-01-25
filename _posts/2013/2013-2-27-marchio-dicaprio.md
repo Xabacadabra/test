@@ -1,5 +1,4 @@
 ---
-
 title: "Marchio DiCaprio"
 modified: null
 categories: [2013]
@@ -8,9 +7,8 @@ tags:
    - cinema
    - xabologia
 header:  
-  image:  marchio-di-caprio.jpg
-  teaser:  marchio-di-caprio.jpg
-  thumb: 
+  image:  images/marchio-di-caprio.jpg
+  teaser:  images/marchio-di-caprio.jpg
 published: true
 comments: true
 ---

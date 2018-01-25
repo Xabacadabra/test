@@ -1,5 +1,4 @@
 ---
-
 title: "Ni no Kuni [Recensione]"
 modified: 2015-12-22T00:00:00.000Z
 categories: [2013]
@@ -8,9 +7,8 @@ tags:
   - recensioni
   - videogiochi
 header:  
-  image:  ninokunirecensione.jpg
-  teaser: teaserninokuni.jpg
-  thumb: null
+  image:  images/ninokunirecensione.jpg
+  teaser: images/teaserninokuni.jpg
 published: true
 comments: true
 ---

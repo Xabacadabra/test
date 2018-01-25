@@ -1,5 +1,4 @@
 ---
-
 title: "Dragon Ball in Italia"
 modified: 2015-12-22T00:00:00.000Z
 categories: [2013]
@@ -7,9 +6,8 @@ excerpt: "Esiste un'ancestrale domanda che ci si pone sin dalla fine di Non è l
 tags: 
   - animazione
 header:  
-  image:  dragonballitalia.jpg
-  teaser: teaserdragonball.jpg
-  thumb: null
+  image:  images/dragonballitalia.jpg
+  teaser: images/teaserdragonball.jpg
 published: true
 comments: true
 ---

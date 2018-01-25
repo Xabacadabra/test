@@ -1,5 +1,4 @@
 ---
-
 title: "La Musica Oggi"
 modified:
 categories: [2013]
@@ -7,8 +6,8 @@ excerpt: "Vecchia riflessione sparata un annetto fa riguardo la sindrome dell'ep
 tags: [musica]
 comments: true
 header:  
-  image:  musicaoggi.jpg
-  teaser:  teasermusicaoggi.jpg
+  image:  images/musicaoggi.jpg
+  teaser:  images/teasermusicaoggi.jpg
 ---
 
 Vecchia riflessione sparata un annetto fa [^annetto] riguardo la "sindrome dell'epoca d'oro" nel senso musicale (da me che ne sono pure affettissimo !)

@@ -1,5 +1,4 @@
 ---
-
 title: "Nadia - Il Mistero della Pietra Azzurra [Recensione]"
 modified: 2015-12-22T00:00:00.000Z
 categories: [2013]
@@ -8,9 +7,8 @@ tags:
   - recensioni 
   - animazione
 header:  
-  image:  nadia.jpg
-  teaser: teasernadia.jpg
-  thumb: null
+  image:  images/nadia.jpg
+  teaser: images/teasernadia.jpg
 published: true
 comments: true
 ---

@@ -1,5 +1,4 @@
 ---
-
 title: "Final Fantasy X e Grandia 2: il Plagio?"
 modified: 2015-12-22T00:00:00.000Z
 categories: [2013]
@@ -7,9 +6,8 @@ excerpt: "Il tema principale, i concetti di fondo (principalmente la questione t
 tags: 
   - videogiochi
 header:  
-  image:  finalfantasyxgrandia2plagio.jpg
-  teaser: teaserfinalfantasyxgrandia2plagio.jpg
-  thumb: null
+  image:  images/finalfantasyxgrandia2plagio.jpg
+  teaser: images/teaserfinalfantasyxgrandia2plagio.jpg
 published: true
 comments: true
 ---

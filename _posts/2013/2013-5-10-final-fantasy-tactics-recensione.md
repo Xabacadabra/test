@@ -1,5 +1,4 @@
 ---
-
 title: "Final Fantasy Tactics [Recensione]"
 modified: 2015-12-22T00:00:00.000Z
 categories: [2013]
@@ -8,9 +7,8 @@ tags:
   - recensioni
   - videogiochi
 header:  
-  image:  finalfantasytacticsrecensione.jpg
-  teaser:  teaserfft.jpg
-  thumb: null
+  image:  images/finalfantasytacticsrecensione.jpg
+  teaser: images/teaserfft.jpg
 published: true
 comments: true
 ---

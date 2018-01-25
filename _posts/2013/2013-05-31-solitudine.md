@@ -1,5 +1,4 @@
 ---
-
 title: "Solitudine"
 modified: 2016-11-02
 categories: [2013]
@@ -7,9 +6,8 @@ excerpt: "Non leggete questo post. Sul serio, restate sintonizzati su Xabacadabr
 tags:
   - xabologia
 header:  
-  image:  solitudine.jpg
-  teaser: teaser-solitudine.jpg
-  thumb: null
+  image:  images/solitudine.jpg
+  teaser: images/teaser-solitudine.jpg
 published: true
 comments: true
 ---

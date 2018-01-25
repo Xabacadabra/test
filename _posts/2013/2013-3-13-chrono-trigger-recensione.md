@@ -1,14 +1,12 @@
 ---
-
 title: "Chrono Trigger [Recensione]"
 modified: null
 categories: [2013]
 excerpt: "Prima di tutto specifico che qui si va a parare direttamente nella Serie A del..."
 tags: [recensioni, videogiochi]
 header:  
-  image:  ChronoTriggerRecensione.jpg
-  teaser:  TeaserChronoTrigger.jpg
-  thumb: 
+  image:  images/ChronoTriggerRecensione.jpg
+  teaser:  images/TeaserChronoTrigger.jpg 
 published: true
 comments: true
 ---

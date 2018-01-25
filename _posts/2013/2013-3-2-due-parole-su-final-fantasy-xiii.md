@@ -1,5 +1,4 @@
 ---
-
 title: "Due parole su Final Fantasy XIII"
 modified: 2015-12-22T00:00:00.000Z
 categories: [2013]
@@ -7,9 +6,8 @@ excerpt: "Dopo averci giocato in prima persona per la maggior parte della sua du
 tags: 
   - videogiochi
 header:  
-  image:  finalfantasyxiii.jpg
-  teaser: teaserfinalfantasyxiii.jpg
-  thumb: null
+  image:  images/finalfantasyxiii.jpg
+  teaser: images/teaserfinalfantasyxiii.jpg
 published: true
 comments: true
 ---

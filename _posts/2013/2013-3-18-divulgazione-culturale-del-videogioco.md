@@ -1,14 +1,12 @@
 ---
-
 title: "Divulgazione Culturale del Videogioco"
 modified: null
 categories: [2013]
 excerpt: "Videogiochi, arte, cultura e potenziale formativo"
 tags: [xabologia, videogiochi]
 header:  
-  image:  divulgazionevideogioco.jpg
-  teaser:  teaserdivulgazionevideogioco.jpg
-  thumb: 
+  image:  images/divulgazionevideogioco.jpg
+  teaser:  images/teaserdivulgazionevideogioco.jpg 
 published: true
 comments: true
 ---

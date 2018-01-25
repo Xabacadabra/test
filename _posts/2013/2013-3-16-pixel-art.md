@@ -1,5 +1,4 @@
 ---
-
 title: "Pixel Art is Awesome!"
 modified: 2015-12-22T00:00:00.000Z
 categories: [2013]
@@ -8,9 +7,8 @@ tags:
   - videogiochi
   - cyberspazio
 header:  
-  image:  pixelart.jpg
-  teaser: teaserpixelart.jpg
-  thumb: null
+  image:  images/pixelart.jpg
+  teaser: images/teaserpixelart.jpg
 published: true
 comments: true
 ---
