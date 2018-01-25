@@ -9,7 +9,7 @@ excerpt: 'Recensioni e speculazioni caustiche riguardo Videogiochi, Musica, Anim
 ---
 
 <div class="grid__wrapper">
-{% for post in site.posts limit:8 %}
+{% for post in site.posts limit:4 %}
   {% include archive-single.html type="grid" %}
  {% endfor %}
 </div>

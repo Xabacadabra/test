@@ -3,5 +3,5 @@ main:
     url: /archivio/
   - title: "Recensioni"
     url: /tag/recensioni/
-  - tilte: "Link"
+  - title: "Link"
     url: /link/    
