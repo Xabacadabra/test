@@ -4,4 +4,6 @@ main:
   - title: "Recensioni"
     url: /tag/recensioni/
   - title: "Link"
-    url: /link/    
+    url: /link/
+  - title: "About"
+    url: http://xabacadabra.com/andrea-corinti/      
