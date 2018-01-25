@@ -274,7 +274,7 @@ pt-BR:
 it: &DEFAULT_IT
   page                       : "Pagina"
   pagination_previous        : "Precedente"
-  pagination_next            : "Prossima"
+  pagination_next            : "Prossimo"
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   menu_label                 :
@@ -284,13 +284,13 @@ it: &DEFAULT_IT
   minute_read                : "minuto/i di lettura"
   share_on_label             : "Condividi"
   meta_label                 :
-  tags_label                 : "Tags:"
-  categories_label           : "Categorie:"
+  tags_label                 : "Tag:"
+  categories_label           : "Anno:"
   date_label                 : "Aggiornato:"
   comments_label             : "Scrivi un commento"
   comments_title             :
   more_label                 : "Scopri di più"
-  related_label              : "Potrebbe Piacerti Anche"
+  related_label              : "Leggi pure:"
   follow_label               : "Segui:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
