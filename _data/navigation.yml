@@ -1,3 +1,7 @@
 main:
   - title: "Archivio"
     url: /archivio/
+  - title: "Recensioni"
+    url: /recensioni/
+  - tilte: "Link"
+    url: /link/    
