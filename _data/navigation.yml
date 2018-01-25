@@ -2,6 +2,6 @@ main:
   - title: "Archivio"
     url: /archivio/
   - title: "Recensioni"
-    url: /recensioni/
+    url: /tag/recensioni/
   - tilte: "Link"
     url: /link/    
