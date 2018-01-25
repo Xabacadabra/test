@@ -1,9 +1,6 @@
 ---
-layout: archive
 permalink: /categorie/
 title: "Categorie"
----
-
 gallery:
   - url: /tag/videogiochi
     image_path: /images/videogiochi.jpg
@@ -44,3 +41,4 @@ gallery:
   - url: /tag/xabologia
     image_path: /images/xabologia.jpg
     alt: "xabologia"                
+---
