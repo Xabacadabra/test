@@ -11,13 +11,12 @@ comments: true
 header:  
   image:  paradise-lost-draconian-times.jpg
   teaser:  teaser-draconian-times.jpg
+toc: true  
 ---
 
 Attenzione: quelle che seguono sono impressioni istintive buttate giù di getto, un tipo di "recensione" non-ragionata che m'andava semplicemente di fare dopo l'ascolto di quest'album.
 
 Tradotto: sono ancora più schifosamente soggettivo del solito!
-
-{% include toc.html %}
 
 ## Draconian Times
 

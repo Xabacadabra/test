@@ -13,6 +13,7 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 > Il grande assente per voi dell'Espresso che dovete per forza di cose criticarli, se no De Benedetti vi taglia le palle. Il M5S e in particolare Alessandro di Battista hanno girato tutta l'Italia per dire NO alla modifica della Costituzione, portando in piazza milioni di cittadini. E voi non ne avete neanche dato notizia. Giornale di merda !
@@ -24,8 +25,6 @@ e
 Questi sono **commenti reali** tratti dalla pagina facebook de l'Espresso di Repubblica. Sicuramente ne avrete visti altri di simili, probabilmente pure peggiori. 
 
 Vi prego di **lasciar perdere il loro contenuto, e concentrarvi piuttosto sulla forma**, perché è proprio di quello che parleremo oggi.
-
-{% include toc.html %}
 
 ## La Forma
 

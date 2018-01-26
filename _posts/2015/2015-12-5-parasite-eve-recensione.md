@@ -11,6 +11,7 @@ header:
   thumb: 
 published: true
 comments: true
+toc: true
 ---
 
 Un anno dopo il successo di Final Fantasy VII, Squaresoft proseguì la propria linea narrativa più spiccatamente fanta-urbano-cyberpunkettona con uno dei videogiochi più innovativi dell'epoca:
@@ -18,9 +19,6 @@ Un anno dopo il successo di Final Fantasy VII, Squaresoft proseguì la propria l
 <iframe width="420" height="315" src="https://www.youtube.com/embed/BPyR9qgcdAU" frameborder="0" allowfullscreen></iframe>
 
 Liberamente tratto dall'omonimo romanzo di Hideaki Sena del 1995, Parasite Eve è una cinematografica e cupa spirale di inquietudine sfociante nell'horror, che però non perde mai di vista la sua natura nippo sci-fi ed il proprio profondo significato.
-
-
-{% include toc.html %}
 
 ## Setting
 

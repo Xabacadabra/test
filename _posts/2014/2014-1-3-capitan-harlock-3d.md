@@ -1,5 +1,4 @@
 ---
-
 title: "Capitan Harlock 3d [Recensione]"
 modified: 2016-11-19
 categories: [2014]
@@ -8,9 +7,8 @@ tags:
   - animazione
   - cinema
 header:  
-  image:  capitan-harlock-3d.jpg
-  teaser: teaser-capitan-harlock-3d.jpg
-  thumb: null
+  image:  images/capitan-harlock-3d.jpg
+  teaser: images/teaser-capitan-harlock-3d.jpg
 published: true
 comments: true
 ---

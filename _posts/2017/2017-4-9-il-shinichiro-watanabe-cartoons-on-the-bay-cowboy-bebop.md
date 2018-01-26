@@ -14,13 +14,12 @@ header:
   thumb:
 published: true
 comments: true
+toc: true
 ---
 
 Reportage sull'evento organizzato da **Rai Com** con ospite **Shin'ichirō Watanabe**, il regista di **_Cowboy Bebob_** !
 
 Preciso che il post sarà suddiviso in due parti: la prima più "Alta" con l'articolo vero e proprio, la fine con il solito resoconto da _blogger-modello-2004_.
-
-{% include toc.html %}
 
 ## Parte I - Shin'ichirō Watanabe
 

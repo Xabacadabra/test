@@ -1,5 +1,4 @@
 ---
-
 title: "Dylan Dog 41 - Golconda! [Mini-Recensione]"
 modified: 2017-03-23
 categories: [2014]
@@ -7,9 +6,8 @@ excerpt: "In Golconda ci sono buona parte dei deliri più belli di Tiziano Sclav
 tags: 
    - fumetti
 header:  
-  image:  golconda.jpg
-  teaser: teaser-golconda.jpg
-  thumb: null
+  image:  images/golconda.jpg
+  teaser: images/teaser-golconda.jpg
 published: true
 ads: false
 comments: true

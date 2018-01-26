@@ -14,13 +14,12 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Dopo [i discorsi fatti in quel di marzo](http://xabacadabra.com/2016/Brotherhood-final-fantasy-xv/), eccoci di fronte al film che introduce all'universo di Final Fantasy XV.
 
 Ce la fa, non ce la fa ? Vediamo un po'...
-
-{% include toc.html %}
 
 ## Spiccatamente Final Fantasy
 

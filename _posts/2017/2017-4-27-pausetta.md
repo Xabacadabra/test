@@ -12,11 +12,10 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Considerando che da queste parti **scrivo sempre a cadenza squisitamente casuale** <small>(praticamente quando ho tempo/voglia di buttar giù due righe)</small>  un post del genere forse non ha molto senso, però è uno di quelli _da blog_ che mi sento di fare e che, ragionandoci, da queste parti sono diventati merce rara...
-
-{% include toc.html %} 
 
 ## Meno Blog, Più Webzine 
 

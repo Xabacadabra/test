@@ -11,14 +11,13 @@ header:
   teaser: images/teasermatermorbi.jpg
 published: true
 comments: true
+toc: true
 ---
 Mater Morbi è una moderna storia cult di Dylan Dog, scritta da ***Roberto Recchioni*** nel 2009.
 
 Basterebbe questo a far strabuzzare gli occhi, visto che quando si parla degli albi di Dylan più significativi di solito dobbiamo fare forzatamente un balzo indietro nel tempo di (almeno) una quindicina d'anni...
 
 Ma, e cosa più importante, a mio parere **Mater Morbi è in assoluto la storia più genuinamente terrificante del personaggio**, l'unica che ho sempre delle remore a rileggermi a causa di quella particolare sensazione di disagio che forse nessun altro fumetto è mai stato in grado di trasmettermi.
-
-{% include toc.html %}
 
 <figure>
 	<img src="http://2.bp.blogspot.com/-2vMRrHRZ6T0/UoN0ahD8kyI/AAAAAAAAFcc/94_3buYIK_g/s320/mater_morbi_bao.jpg" alt="Mater Morbi">

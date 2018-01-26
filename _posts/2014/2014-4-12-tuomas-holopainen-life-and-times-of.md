@@ -1,5 +1,4 @@
 ---
-
 title: "Tuomas Holopainen - The Life and Times of Scrooge [Mini-Recensione]"
 modified:
 categories: [2014]
@@ -7,8 +6,9 @@ excerpt: "Tuomas Holopainen è noto principalmente per essere un figo pazzesco (
 tags: [musica, recensioni]
 comments: true
 header:  
-  image:  the-life-and-times-of-scrooge.jpg
-  teaser:  teaserthe-life-and-times-of-scrooge.jpg
+  image:  images/the-life-and-times-of-scrooge.jpg
+  teaser:  images/teaserthe-life-and-times-of-scrooge.jpg
+toc: true  
 ---
 
 <figure>
@@ -56,8 +56,6 @@ Siccome non riesco a smettere di riascoltarlo e di lodarlo, ho pensato che la mi
 Un particolare slideshow delle immagini dei fumetti che hanno ispirato il disco, da me abbinate (molto arbitrariamente e senza alcuna pretesa) ad ogni traccia
 
 Il consiglio? Fatevi un favore e compratevelo, senza se e senza ma!
-
-{% include toc.html %}
 
 ## Glasgow 1897
 

@@ -14,14 +14,13 @@ header:
 published: true
 ads: false
 comments: true
+toc: true
 ---
 Causa tempo, soldi (soprattutto soldi) voglia ed "ispirazione" è parecchio che non mi vado a leggere, e conseguentemente recensire, qualche albo di Dylan Dog.
 
 Abbastanza grave per uno che da più di una decade si firma come Xabaras nei meandri del web, mi rendo conto... 
 
 Perciò, evitando di sconfinare in pipponi troppo personali, farò una sintesi dell'enorme premessa che un po' vorrei (ma non dovrei) scrivere:
-
-{% include toc.html %}
 
 ## Premessa (se volete saltatela)
 

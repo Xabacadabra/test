@@ -14,6 +14,7 @@ header:
 published: true
 comments: true
 ads: false
+toc: true
 ---
 
 Per scongiurare il rischio di scatenare le ire di qualche cinefilo e/o ritrovarmi **Hideo Kojima** sotto casa, **preciso che adoro il cinema!** <small>(anche perché [questa sezione](http://xabacadabra.com/blog/tag/cinema/) non è stata creata mica per niente)</small> 
@@ -27,8 +28,6 @@ In vita mia **ho visto letteralmente di tutto senza troppi pregiudizi o remore**
 <small>CAPOLAVORO VERO</small>
 
 Chiarito questo punto personale, passiamo al sodo:
-
-{% include toc.html %} 
 
 ## Il videogioco a pesci in faccia
 

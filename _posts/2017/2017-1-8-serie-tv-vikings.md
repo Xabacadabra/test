@@ -12,11 +12,10 @@ header:
   thumb: 
 published: true
 comments: true
+toc: true
 ---
 
 Nessuno Spoiler, tranquilli: solo qualche generica osservazione sparsa nel pieno della quarta stagione.
-
-{% include toc.html %}
 
 ## Cosa c'insegna Vikings ?
 

@@ -13,6 +13,7 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Checché ne dica Marvel Studios, la vera _Civil War_ s'è scatenata tra gli spettatori di questo film: 
@@ -28,8 +29,6 @@ Cioè, viene facile se la si ragiona in modo superficiale e modaiolo, il che fon
 <figure>
 <img src="https://upload.wikimedia.org/wikipedia/it/thumb/0/06/Uomo_dei_fumetti.png/280px-Uomo_dei_fumetti.png" alt="batman v superman recensione">
 </figure>
-
-{% include toc.html %}
 
 ## L'accanimento della critica
 

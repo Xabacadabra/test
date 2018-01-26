@@ -11,6 +11,7 @@ header:
   thumb: 
 published: true
 comments: true
+toc: true
 ---
 
 Prima di tutto la verità:
@@ -20,8 +21,6 @@ Prima di tutto la verità:
 Ma questa, intendiamoci, è la verità del senno di poi.
 
 La verità antica che voglio regalarvi, con questa mia retrospettiva, è **tutto ciò che Advent Children rappresentò per almeno un paio di generazioni di videogiocatori**, quelli più o meno persi nel Lifestream (oddio, facciamo le corna. O i Don Corneo).
-
-{% include toc.html %}
 
 ## Correva l'anno...
 

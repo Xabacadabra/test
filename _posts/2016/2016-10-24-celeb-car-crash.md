@@ -12,6 +12,7 @@ ads: false
 header:  
   image:  celeb-car-crash.jpg
   teaser:  teaser-celeb-car-crash.jpg
+toc: true  
 ---
 
 I Celeb Car Crash sono una band italiana che in realtà d'italiano ha ben poco.
@@ -21,8 +22,6 @@ Ecco: _stop, rewind_ e qualche precisazione:
 **i Celeb Car Crash fanno _rock_, nel senso più ampio, vasto e tipicamente anglofono (diciamo pure americano) del termine:** 
 
 **Rock di quello granitico e radiofonico che in realtà oggigiorno forse caratterizza più che altro l'Europa centro-settentrionale** (basti pensare ai sempiterni svizzeri _Gotthard_, passando per tutta la scuola metal tedesca che molto spesso col genere ha parecchio a che fare).
-
-{% include toc.html %}
 
 ## Italia Sì, Italia No
 

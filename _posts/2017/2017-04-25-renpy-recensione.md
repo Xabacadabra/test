@@ -13,13 +13,12 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Vi risparmierò spiegoni della serie "Che cos'è una _Visual Novel_ ?" : 
 
 viviamo nell'era del  [_wikipediamento perfetto_](https://it.wikipedia.org/wiki/Visual_novel), e del resto se siete piombati da queste parti con ogni probabilità un'idea dovreste averla già.
-
-{% include toc.html %} 
 
 ## Ren'Py
 

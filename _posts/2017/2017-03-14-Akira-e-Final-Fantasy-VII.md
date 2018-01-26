@@ -15,7 +15,7 @@ header:
 published: true
 ads: false
 comments: true
-staticman: false
+toc: true
 ---
 ATTENZIONE! In questo post tento di non rivelare nulla riguardo le trame delle due opere in questione. Ciò detto, consiglio di proseguire nella lettura solo se le si conosce entrambe!
 {: .notice-info}
@@ -31,8 +31,6 @@ Diciamo che mi sono divertito ad analizzare alcuni particolari della **cifra sti
 	<img src="/gallery/akira-ff7/ffvii-1.jpg" alt='akira e final fantasy vii'>
    <figcaption>La grande scuola artistica dei montacarichi.</figcaption>
 </figure>
-
-{% include toc.html %}
 
 ## L'Importanza di Akira
 

@@ -13,13 +13,12 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Bene. 
 
 è stato lungo è faticoso, ma finalmente ho terminato Pillars of Eternity, e credo di poterlo recensire come si deve.
-
-{% include toc.html %}
 
 ## L'Ombra dell'Amn
 

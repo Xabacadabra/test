@@ -27,8 +27,6 @@ Questa "recensione-panoramica" è abbastanza pachidermica (al solito amo perderm
 
 Anzitutto, prima di parlare della EE, andiamo ad analizzare un paio di punti legati alla serie classica.
 
-{% include toc.html %} 
-
 ## Il variabile ritmo lento di Baldur's Gate
 
 <figure>

@@ -13,6 +13,7 @@ header:
   thumb: 
 published: true
 comments: true
+toc: true
 ---
 
 Subito al sodo:
@@ -24,8 +25,6 @@ Soprattutto, **Thimbleweed Park è un'Avventura Grafica di Ron Gilbert in combo 
 [^RonGilbert]: Per chi non lo sapesse, Ron Gilbert è l'autore di Maniac Mansion (assieme al sopracitato Winnick), Zak McKracken (agli ordini di David Fox) e sopratutto dei primi <u>due</u> Monkey Island  (prego notare quel due sottolineato: chi vi scrive rispetta ma non ha mai apprezzato la piega presa dalla serie da <i>Curse of</i> in poi). Se ancora non doveste sapere di che sto parlando mi spiace, siete capitati su Xaba Cadabra per un incidente di Google.
 
 **_Però._**
-
-{% include toc.html %} 
 
 ## Però ?
 

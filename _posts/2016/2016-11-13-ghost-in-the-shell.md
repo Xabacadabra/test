@@ -15,6 +15,7 @@ header:
 published: true
 ads: false
 comments: true
+toc: true
 ---
 
 È dal 2013, quando ho aperto questo blog, che vorrei scrivere qualcosa a riguardo.
@@ -28,8 +29,6 @@ Siccome oggi è uscito un certo trailer, penso che l'occasione sia proprizia.
 Ma lasciamo per un attimo perdere il venturo live action con Scarlett Johansson (ne parliamo un po' alla fine) **GitS è un franchise immenso, vasto e complesso**, non un qualcosa che si possa davvero "recensire"...
 
 Perciò, intanto tiriamo fuori una veloce panoramica delle cose che conosco.
-
-{% include toc.html %}
 
 ## Il primo manga
 

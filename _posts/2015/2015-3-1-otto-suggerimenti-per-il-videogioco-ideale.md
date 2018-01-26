@@ -13,11 +13,10 @@ header:
 published: true
 ads: false
 comments: true
+toc: true
 ---
 
 Proverò ad essere sintetico quanto basta (cioè per niente), sperando di non essere il solo ad anelare a certe carabattole:
-
-{% include toc.html %}
 
 ## 1. La creazione del personaggio
 

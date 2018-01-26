@@ -1,5 +1,4 @@
 ---
-
 title: Dylan Dog 337 - Spazio Profondo [Recensione]
 modified: 2016-11-2
 categories: [2014]
@@ -8,9 +7,8 @@ tags:
    - recensioni
    - fumetti
 header:  
-  image:  dylan-dog-337.jpg
-  teaser: teaser-dylan-dog-337.jpg
-  thumb: null
+  image:  images/dylan-dog-337.jpg
+  teaser: images/teaser-dylan-dog-337.jpg
 published: true
 comments: true
 ---

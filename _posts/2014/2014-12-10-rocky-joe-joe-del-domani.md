@@ -1,5 +1,4 @@
 ---
-
 title: "Rocky Joe - Joe del Domani"
 modified: 2017-3-29
 categories: [2014]
@@ -7,12 +6,10 @@ excerpt: "Un manga classe '68 che possiede tutte quelle caratteristiche che tant
 tags: 
   - fumetti
 header:  
-  image:  rocky-joe.jpg
-  teaser: teaser-rocky-joe.jpg
-  thumb: null
+  image:  images/rocky-joe.jpg
+  teaser: images/teaser-rocky-joe.jpg
 published: true
 ads: false
-comments: true
 ---
 
 Ho recentemente letto per la prima volta la controparte fumettistica di un cartone ben noto ad almeno un paio di italiche generazioni.

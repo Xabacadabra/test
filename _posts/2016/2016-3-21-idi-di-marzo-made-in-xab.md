@@ -11,11 +11,10 @@ header:
   thumb: 
 published: true
 comments: true
+toc: true
 ---
 
 Ultimamente sono un po' scomparso da questi lidi per un bel po' di motivi diversi...ce ne sono molti, ma anzitutto vorrei partire con questo post parlando di quelli più "mediatici" e di conseguenza adeguati a Xaba Cadabra:
-
-{% include toc.html %}
 
 ## Akira (manga).
 

@@ -12,6 +12,7 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Partiamo subito con le cose importanti:
@@ -25,8 +26,6 @@ Non cerca facili ammiccamenti [come qualcuno...](http://xabacadabra.com/2015/sta
 **Il film è un pezzo di quello stesso universo che vive di vita propria**, e lo fa avendo come palcoscenico **un luogo ed un periodo storico estremamente affascinanti**: l'America successiva alla Prima e prossima alla Seconda Guerra mondiale. [^guerra]
 
 [^guerra]: Personalmente ho sempre desiderato vedere come si è comportato il Mondo Magico durante il contesto bellico.
-
-{% include toc.html %}
 
 ## Sceneggiatura
 

@@ -11,6 +11,7 @@ header:
   thumb: 
 published: true
 comments: true
+toc: true
 ---
 
 Disclaimer: questo post è stato scritto di getto alle 4:30 del mattino e, come si potrà notare, va degenerando sempre di più.
@@ -24,8 +25,6 @@ Ma non siete qui per conoscere i fatti miei, almeno non questi:
 se siete qui, **probabilmente vi starete chiedendo cosa c'è che non va in Xenoverse e se vale la pena spenderci dei soldi.**
 
 Prima di tutto, segnalo che già tre annetti fa scrissi qualcosina su Dragon Ball in generale (articolo che dovrei ripulire e sitemare, ma intanto [lo linko](http://xabacadabra.com/2013/dragon-ball-in-italia/)), così possiamo risparmiarci astruse premesse e concentrarsi solo sul gioco in questione.
-
-{% include toc.html %}
 
 ## A che cifra diresti di comprarlo ?
 

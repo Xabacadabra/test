@@ -13,11 +13,10 @@ header:
 published: true
 comments: true
 ads: false
+toc: true
 ---
 
 Tra _un'accozzaglia_, una _scrofa ferita_ e via degenerando, passando per [Trump](http://xabacadabra.com/2016/trump/) e tutti i catastrofismi del caso, ho pensato di gettare uno sguardo (virtuale) sulla Corea del Nord.
-
-{% include toc.html %}
 
 ## The Propaganda Game
 

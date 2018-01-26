@@ -14,11 +14,10 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Perché certo, le serie tv la fanno da padrone ed è facile concentrare tutta la propria attenzione sulle sfavillanti nuove esclusive per questa meravigliosa piattaforma, eppure **il catalogo Netflix è tanto sconfinato che molte cose rischiano di passare in sordina** tra un _Black Mirror_ e l'altro, quindi ho pensato di segnalare in questa rubrica saltuaria alcune belle cosette.
-
-{% include toc.html %}
 
 ## Cosa vedere su Netflix
 

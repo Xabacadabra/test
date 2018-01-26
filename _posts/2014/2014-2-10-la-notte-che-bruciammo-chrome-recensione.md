@@ -1,16 +1,15 @@
 ---
-
 title: "La notte che bruciammo Chrome - William Gibson [Recensione]"
 modified: null
 categories: [2014]
 excerpt: "Immagina un alieno, mi aveva detto una volta Fox, che arrivi sulla Terra per identificare la forma intelligente dominate sul pianeta"
 tags: [recensioni, libri]
 header:  
-  image:  lanottechebruciammochrome.jpg
-  teaser: teaserlanottechebruciammochrome.jpg
-  thumb: 
+  image:  images/lanottechebruciammochrome.jpg
+  teaser: images/teaserlanottechebruciammochrome.jpg 
 published: true
 comments: true
+toc: true
 ---
 
 > Immagina un alieno, mi aveva detto una volta Fox, che arrivi sulla Terra per identificare la forma intelligente dominate sul pianeta.
@@ -20,8 +19,6 @@ Le zaibatsu, disse Fox. Le multinazionali.
 Il sangue di una zaibatsu è fatto d'informazioni, non di gente.
 La struttura è indipendente dalle vite individuali che la compongono.
 Le aziende sono una forma di vita." - New Rose Hotel
-
-{% include toc.html %}
 
 ## William Gibson
 

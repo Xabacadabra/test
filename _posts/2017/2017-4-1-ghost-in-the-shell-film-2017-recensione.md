@@ -14,6 +14,7 @@ header:
 published: true
 ads: false
 comments: true
+toc: true
 ---
 
 Allora.
@@ -29,8 +30,6 @@ Io non amo quelli che rigirano la frittata per ore prima di cacciare numeri e pa
 Non solo: 
 
 è un film **visualmente concepito molto bene con un'attrice bona e brava**, ahimè in combo con **una sceneggiatura immonda** ed una tale mancanza di concezione dello spirito (o _ghost_) dell'opera originale da far rimpiangere tutti i _Dragon Ball Evolution_ di questo mondo.
-
-{% include toc.html %}
 
 ## Rispetto
 

@@ -1,5 +1,4 @@
 ---
-
 title: "Lex Luthor - Man of Steel [Recensione]"
 modified: null
 categories: [2014]
@@ -8,9 +7,8 @@ tags:
    - recensioni
    - fumetti
 header:  
-  image:  lex-luthor.jpg
-  teaser: teaser-lex-luthor.jpg
-  thumb: null
+  image:  images/lex-luthor.jpg
+  teaser: images/teaser-lex-luthor.jpg
 published: true
 comments: true
 ---

@@ -14,6 +14,7 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Tempo fa [avevo fatto un post più generale a proposito delle sexy cosplayer](http://xabacadabra.com/2014/le-sexy-cosplayer/), ma numericamente parlando (e quindi anche economicamente) mi sono reso conto che Jessica Nigri merita un discorso a parte e, comunque la si pensi nel merito, trovo che parlare di lei in quanto fenomeno dell'internet ci porti ad un discorso parecchio globale nel [Cyberspazio](http://xabacadabra.com/blog/tag/cyberspazio/) moderno.
@@ -21,8 +22,6 @@ Tempo fa [avevo fatto un post più generale a proposito delle sexy cosplayer](ht
 Ma voi non mi credete, e pensate solo alle _zinne_. Lo so.
 
 Vediamo se riesco a farvi cambiare idea: pronti ?
-
-{% include toc.html %}
 
 ## Le Tette
 

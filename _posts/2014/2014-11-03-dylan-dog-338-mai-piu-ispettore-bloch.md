@@ -1,5 +1,4 @@
 ---
-
 title: Dylan Dog 338 - Mai più, ispettore Bloch [Recensione]
 modified: 2016-10-31
 categories: [2014]
@@ -8,8 +7,8 @@ tags:
    - recensioni
    - fumetti
 header:  
-  image:  dylan-dog-338.jpg
-  teaser: teaser-dylan-dog-338.jpg
+  image:  images/dylan-dog-338.jpg
+  teaser: images/teaser-dylan-dog-338.jpg
   thumb: null
 published: true
 comments: true

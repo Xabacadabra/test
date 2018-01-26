@@ -12,11 +12,10 @@ ads: false
 header:  
   image:  acid-muffin.jpg
   teaser:  teaser-acid-muffin.jpg
+toc: true  
 ---
 
 Gli Acid Muffin sono un power trio romano musicalmente figlio degli Stati Uniti degli anni '90, in particolar modo della (pseudo) definizione _grunge_, di casa a Seattle.
-
-{% include toc.html %}
 
 ## Cugini di Forlì
 

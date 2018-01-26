@@ -9,13 +9,12 @@ header:
   teaser: images/teaser-vampire-the-masquerade-bloodlines.jpg
 published: true
 comments: true
+toc: true
 ---
 
 Visto che siamo nel weekend, invece di giocarmi qualche post nuovo nuovo ho pensato di riesumare (e ristrutturare) questa vecchia recensione che ho scritto originariamente circa 4-5 anni fa
 
 pronti per un po' di retroxabbing?
-
-{% include toc.html %}
 
 ## Mondo di Tenebra
 

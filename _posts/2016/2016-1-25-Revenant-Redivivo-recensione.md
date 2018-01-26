@@ -13,6 +13,7 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Ovviamente, **nessuno spoiler**
@@ -21,8 +22,6 @@ Ovviamente, **nessuno spoiler**
 E attenzione: questa è una di quelle _lunghe._
 
 Un po' forse perché lungo è il film, un po' perché è uno di quei casi in cui c'è veramente TANTO da dire e in cui se non sto attento continuo ad aggiungere paragrafi su paragrafi nella speranza di riuscire a dire tutto quello che mi passa per la testa dopo averlo visto.
-
-{% include toc.html %}
 
 ## Alejandro González Iñárritu
 

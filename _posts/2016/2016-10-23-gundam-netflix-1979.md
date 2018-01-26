@@ -12,6 +12,7 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Cosa ci può trovare un _"giovane"_ nella primissima serie di Gundam?
@@ -19,8 +20,6 @@ Cosa ci può trovare un _"giovane"_ nella primissima serie di Gundam?
 C'è qualcosa che valga davvero la pena di essere visto, aldilà di ogni retorica e con uno sguardo del tutto privo di nostalgia personale ?
 
 Beh, mica ve lo dico ora, se volete saperlo continuate a leggere!
-
-{% include toc.html %}
 
 ## Confessioni Mecha
 

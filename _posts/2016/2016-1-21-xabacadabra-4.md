@@ -11,9 +11,8 @@ header:
   thumb: 
 published: true
 comments: true
+toc: true
 ---
-
-{% include toc.html %}
 
 ## Can you _read_ me, Major Tom ? [^tom]
 

@@ -1,5 +1,4 @@
 ---
-
 title: "La Storia di Internet e il Web 1.5"
 modified: null
 categories: [2014]
@@ -7,8 +6,8 @@ excerpt: "Ovunque esistono i pionieri. Quelli che sono arrivati per primi, han
 tags:
   - cyberspazio
 header:  
-  image:  storiainternet.jpg
-  teaser: teaserstoriainternet.jpg
+  image:  images/storiainternet.jpg
+  teaser: images/teaserstoriainternet.jpg
   thumb: null
 published: true
 comments: true

@@ -12,6 +12,7 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Prima di tutto:
@@ -21,8 +22,6 @@ Ha ancora un senso scrivere un blog ?
 La risposta è la solita: **dipende**.
 
 E sì, lo so, sento già i _"E grazie al ca...."_ in dirittura d'arrivo, quindi vi giuro che oggi, tanto per gradire, **quel dipende lo provo a spiegare.**
-
-{% include toc.html %}
 
 ## 1: Voglio fare un Blog per guadagnare
 

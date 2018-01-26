@@ -1,5 +1,4 @@
 ---
-
 title: "Capricciosa Orange Road - È quasi magia Johnny"
 modified: 2017-03-9
 categories: [2014]
@@ -7,12 +6,12 @@ excerpt: "Se vent'anni fa aveste domandato agli adolescenti quale fosse il trian
 tags: 
    - animazione
 header:  
-  image:  orange-road-e-quasi-magia-johnny.jpg
-  teaser: teaser-orange-road-e-quasi-magia-johnny.jpg
-  thumb: null
+  image:  images/orange-road-e-quasi-magia-johnny.jpg
+  teaser: images/teaser-orange-road-e-quasi-magia-johnny.jpg
 published: true
 comments: true
 ads: false
+toc: true
 ---
 
 ATTENZIONE - QUESTO POST CONTIENE ALTE DOSI DI NOSTALGIA
@@ -31,8 +30,6 @@ Mettetevi comodi, perché il trenino della nostalgia ha appena iniziato a fare *
 ***Sigla!***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9y877iq9Sbc" frameborder="0" allowfullscreen></iframe>
-
-{% include toc.html %}
 
 ## JOOOOOOOOOOHNNY
 

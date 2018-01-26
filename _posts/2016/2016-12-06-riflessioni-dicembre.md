@@ -12,11 +12,10 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Come ogni tanto succede, sfrutto Xaba Cadabra per quello che era all'origine: un blog!
-
-{% include toc.html %}
 
 ## Cioè ?
 

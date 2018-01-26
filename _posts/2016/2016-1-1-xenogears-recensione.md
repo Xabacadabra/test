@@ -11,12 +11,11 @@ header:
   thumb: 
 published: true
 comments: true
+toc: true
 ---
 
 **Nota:** Sono all'incirca quattro annetti che provo a recensire come si deve Xenogears...questa è la terza riedizione. Parlare di questo gioco non è mai un'impresa facile.
 {: .notice-info}
-
-{% include toc.html %}
 
 ## Xeno chi ?
 

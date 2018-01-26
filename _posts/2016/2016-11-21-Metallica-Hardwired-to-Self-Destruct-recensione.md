@@ -14,13 +14,12 @@ header:
 published: true
 comments: true
 ads: false
+toc: true
 ---
 
 Recensione personale, senza conservanti (ma un po' d'olio di palma) dell'ultimo disco dei Metallica
 
 **I primi due paragrafi sono al solito molto personali**, quindi leggeteli solo se v'interessa farvi un'idea di chi sta scrivendo 'ste quattro cazzate, altrimenti passate tranquillamente al disco vero e proprio.
-
-{% include toc.html %}
 
 ## Il rapporto tra il sottoscritto ed i Metallica in breve
 

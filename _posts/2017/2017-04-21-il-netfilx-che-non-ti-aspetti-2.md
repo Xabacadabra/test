@@ -14,11 +14,10 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Secondo episodio di una rubrica che avrei potuto benissimo chiamare _Cazzeggiando su Netflix_, ma a 'ste cose uno ci pensa sempre dopo...
-
-{% include toc.html %}
 
 ## Tokyo Trial 
 

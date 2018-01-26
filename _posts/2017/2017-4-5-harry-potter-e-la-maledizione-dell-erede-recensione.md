@@ -14,6 +14,7 @@ header:
 published: true
 ads: false
 comments: true
+toc: true
 ---
 
 Prima di tutto enuncerò alcuni punti chiave:
@@ -35,8 +36,6 @@ Prima di tutto enuncerò alcuni punti chiave:
 Oltre a quanto appena scritto, specifico che la sua natura di sceneggiatura rende _La Maledizione dell'Erede_ **un'esperienza più prossima ai film che ai libri veri e propri**, sebbene con dialoghi e situazioni di un certo calibro resi accettabilemente <small>(cosa che nei film non è sempre accaduta [^film] )</small>.
 
 [^film]: non sono un purista, ma escludendo capo & coda (Pietra Filosofale e Doni della Morte) i film di HP mi sono sempre piaciuti poco e niente
-
-{% include toc.html %}
 
 ## L'Epilogo di Harry Potter
 

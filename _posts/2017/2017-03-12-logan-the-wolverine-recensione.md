@@ -14,6 +14,7 @@ header:
 ads: false
 published: true
 comments: true
+toc: true
 ---
 
 _Logan_ è un bel film. 
@@ -23,8 +24,6 @@ _Logan_ è un bel film.
 Vale insomma ciò che scrissi per [_Batman V Superman_](http://xabacadabra.com/2016/batman-v-superman-dawn-of-justice-recensione/)...**con la sostanziale differenza che quello era na ciofeca, mentre come detto _Logan_ è effettivamente un _bel_ film.**
 
 Certo, con **un bel po' di difetti ciccioni**, soprattutto nella sua seconda metà, ma nulla che ne comprometta davvero l'ottima performance.
-
-{% include toc.html %} 
 
 ## Hugh Jackman 
 

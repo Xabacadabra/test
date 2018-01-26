@@ -13,6 +13,7 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Togliamoci subito il dente avvelenato:
@@ -24,8 +25,6 @@ Come tale, è un film che nella sua promozione, diffusione, "memevisione" da soc
 è una *sindrome da rigetto* piuttosto comune, che riguarda un sacco di faccende diverse ed effettivamente interessa il personaggio già da parecchio tempo...
 
 Tuttavia nella mia recensione **tutto questo discorso proverò ad ignorarlo**, e al solito **considererò il film solo per quello che è in se stesso.**
-
-{% include toc.html %}
 
 Prima di tutto occorre un breve preambolo sulla storia editoriale del personaggio, perché spiega molte delle cose che scriverò poi:
 

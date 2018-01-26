@@ -13,11 +13,10 @@ header:
   thumb: null
 published: true
 comments: true
+toc: true
 ---
 
 Quel "recensione" nel titolo serve più che altro ad avere una buona scusa per piazzare questo post, rispondendo all'insopportabile esigenza che ho di scrivere qualcosa riguardo questo fumetto (che, sintetizzando per i più pigri, è _BELLISSIMO, LEGGETEVELO!_)
-
-{% include toc.html %}
 
 ## Cos'è Y In un paio di frasi
 

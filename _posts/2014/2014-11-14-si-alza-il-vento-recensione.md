@@ -1,5 +1,4 @@
 ---
-
 title: "Si alza il vento [Recensione]"
 modified: 2017-23-03
 categories: [2014]
@@ -7,12 +6,11 @@ excerpt: "Quanto l'ho aspettato, il ritorno/addio del Maestro a quei toni più c
 tags: 
    - animazione
 header:  
-  image:  si-alza-il-vento.jpg
-  teaser: teaser-si-alza-il-vento.jpg
-  thumb: null
+  image:  images/si-alza-il-vento.jpg
+  teaser: images/teaser-si-alza-il-vento.jpg
 published: true
 ads: false
-comments: true
+toc: true
 ---
 
 Quanto l'ho aspettato, il ritorno/addio del Maestro a quei toni più cupi, bellici, all'apparenza meno sereni e amorevoli ma forse proprio per questo tanto straordinari.
@@ -30,8 +28,6 @@ Non Grande con la G maiuscola (quello lo è già da da svariati decenni), ma pro
 E per qualcuno che ci ha abituato a raccontare infanzia e adolescenza, fantasia e narrativa, è un passo mica da poco.
 
 Anche (sopratutto) se quel qualcuno è dotato di una delle più grandi sensibilità creative dei nostri tempi.
-
-{% include toc.html %}
 
 ## Volo
 

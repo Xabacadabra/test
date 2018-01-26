@@ -10,9 +10,8 @@ header:
 published: true
 ads: false
 comments: true
+toc: true
 ---
-
-{% include toc.html %}
 
 Nota bene: in questo post non farò alcun accenno diretto ai videogiochi online, nell'eventualità ci sarebbe da scrivere tutto un articolo a parte
 {: .notice-info}

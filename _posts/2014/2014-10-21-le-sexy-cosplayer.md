@@ -1,5 +1,4 @@
 ---
-
 title: "Le Sexy Cosplayer"
 modified: null
 categories: [2014]
@@ -8,11 +7,9 @@ tags:
   - spettacolo
   - xabologia
 header:  
-  image:  sexycosplayer.jpg
-  teaser: teasersexycosplayer.jpg
-  thumb: null
+  image:  images/sexycosplayer.jpg
+  teaser: images/teasersexycosplayer.jpg
 published: true
-ads: false
 comments: true
 ---
 

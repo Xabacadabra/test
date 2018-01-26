@@ -1,14 +1,12 @@
 ---
-
 title: "Lucca Comics & Games 2014"
 modified: null
 categories: [2014]
 excerpt: "Peccato essere troppo povero e non poterci stare di più! è la stessa frase mentale che mi ripeto anche quest'anno (vedi 2013), perché Lucca da brava..."
 tags: [fumetti, spettacolo]
 header:  
-  image:  lucca-2014.jpg
-  teaser:  teaser-lucca-2014.jpg
-  thumb: 
+  image:  images/lucca-2014.jpg
+  teaser:  images/teaser-lucca-2014.jpg
 published: true
 comments: true
 ---

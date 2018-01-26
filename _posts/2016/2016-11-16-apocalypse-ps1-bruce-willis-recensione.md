@@ -11,6 +11,7 @@ header:
   thumb:
 published: true
 comments: true
+toc: true
 ---
 
   >  C'è stato un tempo in cui la scienza era la mia religione, ora la religione è diventata la mia scienza e LA MIA SPADA!
@@ -26,8 +27,6 @@ io v'aspetto qui.
 ...finito ?
 
 Bene, allora si parte!
-
-{% include toc.html %}
 
 ## Neversoft
 

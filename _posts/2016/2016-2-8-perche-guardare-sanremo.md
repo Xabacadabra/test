@@ -26,8 +26,6 @@ Ci sarebbero molte cose da dire su questo punto, ma sono sicuro che un aspirante
 
 Perché guardo Sanremo, dicevamo.
 
-{% include toc.html %}
-
 ## Tradizione
 
 <figure>
