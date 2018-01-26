@@ -12,7 +12,7 @@ gallery:
     alt: "animazione"
     title: "Animazione"
   - url: /tag/interviste
-    image_path: /images/teaser-intervista-sakaguchi.jpg
+    image_path: /images/interviste.jpg
     alt: "interviste"
     title: "Interviste"
   - url: /tag/musica
