@@ -1,5 +1,4 @@
 ---
-
 title: "Revenant - Redivivo [Recensione]"
 modified: null
 categories: [2016]
@@ -8,9 +7,8 @@ tags:
   - cinema
   - recensioni
 header:  
-  image:  revenant.jpg
-  teaser: teaser-revenant.jpg
-  thumb: null
+  image:  images/revenant.jpg
+  teaser: images/teaser-revenant.jpg
 published: true
 comments: true
 toc: true

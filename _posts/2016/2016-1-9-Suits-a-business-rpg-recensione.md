@@ -1,5 +1,4 @@
 ---
-
 title: "Suits - A Business RPG [Mini-Recensione]"
 modified: null
 categories: [2016]
@@ -8,9 +7,8 @@ tags:
    - videogiochi
    - recensioni
 header:  
-  image:  suits.jpg
-  teaser: teasersuits.jpg
-  thumb: 
+  image:  images/suits.jpg
+  teaser: images/teasersuits.jpg
 published: true
 comments: true
 ---

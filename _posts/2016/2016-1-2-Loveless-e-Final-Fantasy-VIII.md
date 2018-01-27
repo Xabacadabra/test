@@ -1,5 +1,4 @@
 ---
-
 title: "Loveless e Final Fantasy VIII"
 modified: null
 categories: [2016]
@@ -7,9 +6,8 @@ excerpt: "Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sem
 tags: 
    - videogiochi
 header:  
-  image:  loveless.jpg
-  teaser: teaserloveless.jpg
-  thumb: 
+  image:  images/loveless.jpg
+  teaser: images/teaserloveless.jpg
 published: true
 comments: true
 ---

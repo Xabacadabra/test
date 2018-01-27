@@ -1,5 +1,4 @@
 ---
-
 title: "David Bowie"
 modified:
 categories: [2016]
@@ -8,8 +7,8 @@ Sembra che questo blog stia diventando una sorta di enorme necrologio..."
 tags: [musica]
 comments: true
 header:  
-  image:  davidbowie.jpg
-  teaser:  teaserdavidbowie.jpg
+  image:  images/davidbowie.jpg
+  teaser:  images/teaserdavidbowie.jpg
 ---
 
 Sono un po' scosso.

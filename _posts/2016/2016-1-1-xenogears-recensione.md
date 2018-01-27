@@ -1,14 +1,12 @@
 ---
-
 title: "Xenogears [Recensione]"
 modified: null
 categories: [2016]
 excerpt: "Il rapporto tra qualità e scarsa notorietà di Xenogears è tanto pesante che sembra quasi una presa per il di dietro..."
 tags: [recensioni, videogiochi]
 header:  
-  image:  xenogearsrecensione.jpg
-  teaser:  teaserxenogears.jpg
-  thumb: 
+  image:  images/xenogearsrecensione.jpg
+  teaser:  images/teaserxenogears.jpg
 published: true
 comments: true
 toc: true

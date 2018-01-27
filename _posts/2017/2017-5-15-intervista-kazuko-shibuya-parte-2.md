@@ -11,6 +11,9 @@ header:
   teaser: images/teaser-intervista-kazuko-shibuya.jpg
 published: true
 comments: true
+author_profile: false
+sidebar:
+  nav: "kazuko"
 ---
 
 Seconda parte dell'intervista alla storica Designer della Serie: lo sviluppo di Final Fantasy 1, il problema nell'adattare i disegni di Yoshitaka Amano nei mostri del gioco e tanto altro!

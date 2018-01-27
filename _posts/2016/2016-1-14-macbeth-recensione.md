@@ -1,5 +1,4 @@
 ---
-
 title: "Macbeth (2015) [Recensione]"
 modified: null
 categories: [2016]
@@ -8,9 +7,8 @@ tags:
   - recensioni
   - cinema
 header:  
-  image:  macbeth.jpg
-  teaser: teasermacbeth.jpg
-  thumb: null
+  image:  images/macbeth.jpg
+  teaser: images/teasermacbeth.jpg
 published: true
 comments: true
 ---

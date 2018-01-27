@@ -12,6 +12,9 @@ header:
   thumb: 
 published: true
 comments: true
+author_profile: false
+sidebar:
+  nav: "kazuko"
 ---
 
 Terza parte dell'intervista alla storica Designer della Serie: Romancing Saga, i Job di Final Fantasy V, l'avvento della Playstation e Final Fantasy alle Hawaii (!)

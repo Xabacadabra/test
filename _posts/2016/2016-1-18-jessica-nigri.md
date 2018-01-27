@@ -1,5 +1,4 @@
 ---
-
 title: "Il Successo di Jessica Nigri"
 modified: null
 categories: [2016]
@@ -9,9 +8,8 @@ tags:
   - cyberspazio
   - spettacolo
 header:  
-  image:  jessicanigri.jpg
-  teaser: teaserjessicanigri.jpg
-  thumb: null
+  image:  images/jessicanigri.jpg
+  teaser: images/teaserjessicanigri.jpg
 published: true
 comments: true
 toc: true
