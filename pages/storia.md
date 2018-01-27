@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: La storia di Xaba Cadabra
+header:
+	image: /images/gardenight.gif
 author_profile: true
 permalink: /storia/
 ---
