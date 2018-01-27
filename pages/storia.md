@@ -9,7 +9,7 @@ permalink: /storia/
 
 Dunque...Xaba Cadabra nasce nel San Valentino del 2013.
 
-A San Valentino come il relativo Massacro, a testimonianza dell'allora precaria vita sentimentale del sottoscritto :D
+A San Valentino come il relativo Massacro, e a testimonianza dell'allora precaria vita sentimentale del sottoscritto 😄
 
 ## Da blog a "personal webzine"
 
@@ -17,13 +17,17 @@ Aprire un blog dopo il 2010 è diventata una sorta di follia:
 
 Lo strapotere dei **Social Network**, la proliferazione di **Youtuber** e la rapida sintesi imperante sul web hanno cambiato radicalmente tutta la scena del blogging, e per cambiato intendo pressapoco _massacrato_, o giù di lì.
 
-**Xaba Cadabra è il mio terzo esperimento del settore**, quello più serio, consapevole e duraturo...il primo blog con cui sperimentai risale probabilmente al 2005, e in effetti mi rendo conto che un po' per i tempi, un po' per mie precise "scelte stilistiche", Xaba Cadabra porta in se molto della vecchia webzine di videogiochi più che del sito-diario che propriamente s'intendeva con blog.
+**Xaba Cadabra è il mio terzo esperimento del settore**, quello più serio, consapevole e duraturo.
+
+Il primo blog con cui mi barcamenai risale probabilmente al 2005, ed in effetti mi rendo conto che un po' per i tempi, un po' per mie precise "scelte stilistiche", Xaba Cadabra è nato da subito portando in se molto della vecchia webzine di videogiochi più che del sito-diario con cui propriamente s'intende con blog.
 
 ## Cetramod ad Personam
 
-Da un certo punto di vista, come del resto scrissi, Xaba Cadabra nasce come una sorta di [Cetramod](/2013/cetramod) fatto su misura per me, una sorta di versione singolare, personale e ritagliata su me stesso di tutto ciò che avrei voluto vedere in quella community a me tanto cara e ahimè tanto morta, almeno nel senso "partecipato" del termine.
+Da un certo punto di vista, Xaba Cadabra nasce come una sorta di [Cetramod](/2013/cetramod) fatto su misura per me:
 
-Tuttavia, **questa maledizione che spinge a scrivere ciarpame di varia natura con continuità non è contagiosa**, oramai l'ho capito da un pezzo: se per molti risulta impegnativo scrivere un post facebookiano di più di venti righe, è abbastanza chiaro che certe cose ai più risulteranno sempre precluse.
+Una sorta di versione singolare, personale e ritagliata su me stesso di tutto ciò che avrei voluto vedere in quella community a me tanto cara e ahimè tanto morta, almeno nel senso "partecipato" del termine.
+
+Tuttavia, **questa maledizione che spinge a scrivere ciarpame di varia natura con continuità non è contagiosa**, oramai l'ho capito da un pezzo (del resto se per molti risulta impegnativo scrivere un post facebookiano di più di venti righe, è abbastanza chiaro che certe cose ai più risulteranno sempre precluse).
 
 ## Polemiche
 
@@ -94,7 +98,9 @@ Minimal a suo modo, molto più magazine, con un'intestazione meno ottundente e d
 
 Adottata sul finire del 2015, La quarta incarnazione di Xaba Cadabra è, per una somma di motivi, la più grande rivoluzione che il blog ha avuto nella sua giovane vita: 
 
-L'abbandono di blogger, dei cms, dei database e il ritorno al web statico, ma più veloce e performante che mai tramite la combo Jekyll + github.
+L'abbandono di blogger, dei cms, dei database e il ritorno al web statico, ma più veloce e performante che mai tramite la combo **Jekyll + Github**.
+
+Per chi dovesse essere interessato all'argomento tecnico nel dettaglio, raccomando [un mio post del 2016](/2016/Scrivere-Blog-nel-nel-2017/).
 
 ## 5.0: Night Garden
 
