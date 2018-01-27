@@ -66,7 +66,7 @@ Segue una panoramica delle precedenti versioni di Xaba Cadabra:
 
 La debuttante, molto particolare e _Warhol_ : l'intento era quello di essere abbastanza minimal e retrò, il rischio quello di risultare poco funzionali alla lettura
 
-Duro relativamente poco nel tempo (9 mesi, un parto) ma molto per mole di post, visto che il 2013 fu quello dei post a mitraglia
+Durò relativamente poco nel tempo (9 mesi, un parto) ma molto per mole di post, visto che il 2013 fu quello dei post a mitraglia
 
 ## 2.0 : Rockabilly Bakunin
 
