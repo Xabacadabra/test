@@ -1,5 +1,4 @@
 ---
-
 title: "Ren'Py: Visual Novel Engine gratis per tutti"
 modified: null
 categories: [2017]
@@ -8,9 +7,8 @@ tags:
   - videogiochi
   - cyberspazio
 header:  
-  image:  renpy.jpg
-  teaser: teaser-renpy.jpg
-  thumb: null
+  image:  images/renpy.jpg
+  teaser: images/teaser-renpy.jpg
 published: true
 comments: true
 toc: true

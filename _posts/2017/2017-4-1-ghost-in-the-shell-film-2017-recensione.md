@@ -1,5 +1,4 @@
 ---
-
 title: "Ghost in the Shell - Il film (2017) [Recensione]"
 modified: 2017-4-3
 categories: [2017]
@@ -8,9 +7,8 @@ tags:
   - cinema
   - recensioni
 header: 
-  image:  ghost-in-the-shell-film-2017.jpg
-  teaser: teaser-ghost-in-the-shell-film-2017.jpg
-  thumb: null
+  image:  images/ghost-in-the-shell-film-2017.jpg
+  teaser: images/teaser-ghost-in-the-shell-film-2017.jpg
 published: true
 ads: false
 comments: true

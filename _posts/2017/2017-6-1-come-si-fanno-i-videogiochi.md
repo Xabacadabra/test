@@ -1,5 +1,4 @@
 ---
-
 title: "Come si fanno i videogiochi: è un male saperlo ?"
 modified: null
 categories: [2017]
@@ -8,9 +7,8 @@ tags:
   - videogiochi
   - cyberspazio
 header:  
-  image:  come-si-fanno-i-videogiochi.jpg
-  teaser: teaser-come-si-fanno-i-videogiochi.jpg
-  thumb: 
+  image:  images/come-si-fanno-i-videogiochi.jpg
+  teaser: images/teaser-come-si-fanno-i-videogiochi.jpg
 published: true
 comments: true
 ---

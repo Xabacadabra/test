@@ -1,5 +1,4 @@
 ---
-
 title: "Thimbleweed Park [Recensione]"
 modified: null
 categories: [2017]
@@ -8,9 +7,8 @@ tags:
   - videogiochi
   - recensioni
 header:  
-  image:  thimbleweed-park.jpg
-  teaser: teaser-thimbleweed-park.jpg
-  thumb: 
+  image:  images/thimbleweed-park.jpg
+  teaser: images/teaser-thimbleweed-park.jpg 
 published: true
 comments: true
 toc: true

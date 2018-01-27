@@ -1,5 +1,4 @@
 ---
-
 title: "Sessismo Extravaganza"
 modified: null
 categories: [2017]
@@ -8,9 +7,8 @@ tags:
   - politica
   - xabologia
 header:  
-  image:  sessismo-extravaganza.jpg
-  teaser: teaser-sessismo-extravaganza.jpg
-  thumb: null
+  image:  images/sessismo-extravaganza.jpg
+  teaser: images/teaser-sessismo-extravaganza.jpg
 published: true
 comments: true
 ads: false

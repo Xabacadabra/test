@@ -1,5 +1,4 @@
 ---
-
 title: "Harry Potter e la maledizione dell'erede [Recensione]"
 modified: null
 categories: [2017]
@@ -8,8 +7,8 @@ tags:
     - libri
     - recensioni
 header: 
-  image:  harry-potter-e-la-maledizione-dell-erede-recensione.jpg
-  teaser:  teaser-harry-potter-e-la-maledizione-dell-erede-recensione.jpg
+  image:  images/harry-potter-e-la-maledizione-dell-erede-recensione.jpg
+  teaser:  images/teaser-harry-potter-e-la-maledizione-dell-erede-recensione.jpg
   thumb:
 published: true
 ads: false

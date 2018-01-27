@@ -1,5 +1,4 @@
 ---
-
 title: "Distant Worlds - Milano [Resoconto]"
 modified:
 categories: [2017]
@@ -10,8 +9,8 @@ tags:
 comments: true
 published: true
 header:  
-  image:  distant-worlds.jpg
-  teaser:  teaser-distant-worlds.jpg
+  image:  images/distant-worlds.jpg
+  teaser:  images/teaser-distant-worlds.jpg
 ---
 
 Anticipo da subito che questo resoconto **è una faccenda parecchio personale**, quindi se state cercando un riepilogo dell'evento scritto in maniera più formale e un minimo più "giornalistica" mi spiace ma questa volta cascate male...

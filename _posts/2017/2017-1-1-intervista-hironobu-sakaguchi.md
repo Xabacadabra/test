@@ -1,5 +1,4 @@
 ---
-
 title: "Intervista a Hironobu Sakaguchi [Tradotto da Glixel]"
 modified: null
 categories: [2017]
@@ -8,9 +7,8 @@ tags:
   - videogiochi
   - interviste
 header:  
-  image:  intervista-sakaguchi.jpg
-  teaser: teaser-intervista-sakaguchi.jpg
-  thumb: 
+  image:  images/intervista-sakaguchi.jpg
+  teaser: images/teaser-intervista-sakaguchi.jpg 
 published: true
 ads: false
 comments: true

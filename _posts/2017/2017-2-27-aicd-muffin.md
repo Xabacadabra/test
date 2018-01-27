@@ -1,5 +1,4 @@
 ---
-
 title: "Acid Muffin - Bloop [Recensione]"
 modified:
 categories: [2017]
@@ -10,8 +9,8 @@ tags:
 comments: true
 ads: false
 header:  
-  image:  acid-muffin.jpg
-  teaser:  teaser-acid-muffin.jpg
+  image:  images/acid-muffin.jpg
+  teaser:  images/teaser-acid-muffin.jpg
 toc: true  
 ---
 

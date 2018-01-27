@@ -1,5 +1,4 @@
 ---
-
 title: "Il Netflix che non ti aspetti #2"
 modified: null
 categories: [2017]
@@ -9,8 +8,8 @@ tags:
   - cinema
   - serie-tv
 header:  
-  image:  netflix.jpg
-  teaser: teaser-netflix.jpg
+  image:  images/netflix.jpg
+  teaser: images/teaser-netflix.jpg
   thumb: null
 published: true
 comments: true

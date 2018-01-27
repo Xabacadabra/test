@@ -1,5 +1,4 @@
 ---
-
 title: "Akira e Final Fantasy VII"
 modified: null
 categories: [2017]
@@ -9,9 +8,8 @@ tags:
    - fumetti
    - animazione
 header:  
-  image:  akira-ff7.jpg
-  teaser: teaser-akira-ff7.jpg
-  thumb: 
+  image:  images/akira-ff7.jpg
+  teaser: images/teaser-akira-ff7.jpg 
 published: true
 ads: false
 comments: true

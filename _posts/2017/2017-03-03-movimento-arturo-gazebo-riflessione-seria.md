@@ -1,5 +1,4 @@
 ---
-
 title: "Il Movimento Arturo di Gazebo: una riflessione seria"
 modified: null
 categories: [2017]
@@ -9,8 +8,8 @@ tags:
   - xabologia
   - spettacolo
 header:  
-  image:  movimento-arturo.jpg
-  teaser: teaser-movimento-arturo.jpg
+  image:  images/movimento-arturo.jpg
+  teaser: images/teaser-movimento-arturo.jpg
   thumb: null
 published: true
 comments: true

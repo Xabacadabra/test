@@ -1,5 +1,4 @@
 ---
-
 title: "4 Anni di Xaba Cadabra !"
 modified: null
 categories: [2017]
@@ -7,9 +6,8 @@ excerpt: "Mamma mia. Sul serio, così tanti ? È a tratti un po' deprimente, dev
 tags:
   - xabologia
 header:  
-  image:  4-anni.jpg
-  teaser: teaser-4-anni.jpg
-  thumb: null
+  image:  images/4-anni.jpg
+  teaser: images/teaser-4-anni.jpg
 published: true
 comments: true
 ---

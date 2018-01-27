@@ -1,5 +1,4 @@
 ---
-
 title: "[Netflix] Death Note - Il film, e le imbarazzanti premesse"
 modified: null
 categories: [2017]
@@ -8,9 +7,8 @@ tags:
   - cinema
   - animazione
 header:  
-  image:  death-note-netflix.jpg
-  teaser: teaser-death-note-netflix.jpg
-  thumb: null
+  image:  images/death-note-netflix.jpg
+  teaser: images/teaser-death-note-netflix.jpg
 ads: false
 published: true
 comments: true

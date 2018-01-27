@@ -1,5 +1,4 @@
 ---
-
 title: "La prima volta su Internet"
 modified: null
 categories: [2017]
@@ -7,9 +6,8 @@ excerpt: "Voi vi ricordate come siete capitati su Internet per la prima volta ?"
 tags:
   - cyberspazio
 header:  
-  image:  prima-volta-internet.jpg
-  teaser: teaser-prima-volta-internet.jpg
-  thumb: 
+  image:  images/prima-volta-internet.jpg
+  teaser: images/teaser-prima-volta-internet.jpg
 published: true
 comments: true
 ---

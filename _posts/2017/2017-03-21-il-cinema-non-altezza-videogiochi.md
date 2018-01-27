@@ -1,5 +1,4 @@
 ---
-
 title: "Il Cinema non è all'altezza dei Videogiochi"
 modified: null
 categories: [2017]
@@ -8,9 +7,8 @@ tags:
   - cinema
   - videogiochi
 header:  
-  image:  cinema-videogiochi.jpg
-  teaser: teaser-cinema-videogiochi.jpg
-  thumb: null
+  image:  images/cinema-videogiochi.jpg
+  teaser: images/teaser-cinema-videogiochi.jpg
 published: true
 comments: true
 ads: false

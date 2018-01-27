@@ -8,9 +8,8 @@ tags:
   - cinema
   - recensioni
 header:  
-  image:  logan-the-wolverine.jpg
-  teaser: teaser-logan-the-wolverine.jpg
-  thumb: null
+  image:  images/logan-the-wolverine.jpg
+  teaser: images/teaser-logan-the-wolverine.jpg
 ads: false
 published: true
 comments: true

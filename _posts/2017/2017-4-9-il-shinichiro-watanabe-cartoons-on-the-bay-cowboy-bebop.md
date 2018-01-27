@@ -1,5 +1,4 @@
 ---
-
 title: "Incontro con Shin'ichirō Watanabe [Cartoons on the Bay - Torino 2017]"
 modified: null
 categories: [2017]
@@ -9,9 +8,8 @@ tags:
     - spettacolo
     - interviste
 header: 
-  image:  shinichiro-watanabe-cartoons-on-the-bay.jpg
-  teaser:  teaser-shinichiro-watanabe-cartoons-on-the-bay.jpg
-  thumb:
+  image:  images/shinichiro-watanabe-cartoons-on-the-bay.jpg
+  teaser:  images/teaser-shinichiro-watanabe-cartoons-on-the-bay.jpg
 published: true
 comments: true
 toc: true

@@ -1,5 +1,4 @@
 ---
-
 title: "La Lezione di Vikings"
 modified: null
 categories: [2017]
@@ -7,9 +6,8 @@ excerpt: "Nessuno Spoiler, tranquilli: solo qualche generica osservazione sparsa
 tags:
   - serie-tv
 header:  
-  image:  vikings.jpg
-  teaser: teaser-vikings.jpg
-  thumb: 
+  image:  images/vikings.jpg
+  teaser: images/teaser-vikings.jpg
 published: true
 comments: true
 toc: true

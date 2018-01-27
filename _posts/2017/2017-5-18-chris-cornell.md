@@ -1,5 +1,4 @@
 ---
-
 title: "Addio Chris Cornell"
 modified:
 categories: [2017]
@@ -9,8 +8,8 @@ tags:
 comments: true
 published: true
 header:  
-  image:  chris-cornell.jpg
-  teaser:  teaser-chris-cornell.jpg
+  image:  images/chris-cornell.jpg
+  teaser:  images/teaser-chris-cornell.jpg
 ---
 
 Da bambino ascoltavo moltissimo "_grunge_", definizione che in realtà ho sempre malsopportato perchè poco musicale in senso stretto e legata ad aspetti prevealentemente cultural-geografici.

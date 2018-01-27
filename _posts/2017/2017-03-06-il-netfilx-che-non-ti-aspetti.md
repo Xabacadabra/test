@@ -1,5 +1,4 @@
 ---
-
 title: "Il Netflix che non ti aspetti #1"
 modified: null
 categories: [2017]
@@ -9,9 +8,8 @@ tags:
   - cinema
   - serie-tv
 header:  
-  image:  netflix.jpg
-  teaser: teaser-netflix.jpg
-  thumb: null
+  image:  images/netflix.jpg
+  teaser: images/teaser-netflix.jpg
 published: true
 comments: true
 toc: true

@@ -1,5 +1,4 @@
 ---
-
 title: "Intervista a Kazuko Shibuya [Parte 3]"
 modified: null
 categories: [2017]
@@ -8,8 +7,8 @@ tags:
   - videogiochi
   - interviste
 header:  
-  image:  intervista-kazuko-shibuya.jpg
-  teaser: teaser-intervista-kazuko-shibuya.jpg
+  image:  images/intervista-kazuko-shibuya.jpg
+  teaser: images/teaser-intervista-kazuko-shibuya.jpg
   thumb: 
 published: true
 comments: true
