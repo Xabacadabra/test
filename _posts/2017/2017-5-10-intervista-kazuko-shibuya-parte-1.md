@@ -13,12 +13,7 @@ published: true
 comments: true
 author_profile: false
 sidebar:
-  - title: "Intervista a Kazuko Shibuya"
-    children:
-      - title: "Parte 2"
-        url: /2017/intervista-kazuko-shibuya-parte-2/
-      - title: "Parte 3"
-        url: /2017/intervista-kazuko-shibuya-parte-3/  
+  nav: "kazuko"
 ---
 
 Quest'IMMENSA intervista è stata realizzata da [4gamer](http://www.4gamer.net/games/064/G006480/20130227073/) nel 2013, ed originariamente tradotta in inglese dall'ottimo [**Shmuplations**](http://shmuplations.com/kazukoshibuya/).

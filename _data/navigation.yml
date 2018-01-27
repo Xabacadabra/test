@@ -9,3 +9,14 @@ main:
     url: /link/
   - title: "About"
     url: http://xabacadabra.com/andrea-corinti/      
+
+kazuko:
+  - title: "Intervista a Kazuko Shibuya"
+    children:
+      - title: "Parte 1"
+        url: /2017/intervista-kazuko-shibuya-parte-1/
+      - title: "Parte 2"
+        url: /2017/intervista-kazuko-shibuya-parte-2/
+      - title: "Parte 3"
+        url: /2017/intervista-kazuko-shibuya-parte-3/  
+    
