@@ -6,9 +6,9 @@ main:
   - title: "Recensioni"
     url: /tag/recensioni/  
   - title: "Link"
-    url: /link/
+    url: /link/  
   - title: "About"
-    url: http://xabacadabra.com/andrea-corinti/      
+    url: /storia/      
 
 kazuko:
   - title: "Intervista a Kazuko Shibuya"
