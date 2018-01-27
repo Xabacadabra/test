@@ -11,10 +11,12 @@ header:
   teaser: images/teaser-intervista-kazuko-shibuya.jpg
 published: true
 comments: true
-sidebar: 
-  - title: "Parte 2"
+author-profile: false
+sidebar:
+  - title: "Intervista a Kazuko Shibuya"
+    text: "Parte 2"
     url: "/2017/intervista-kazuko-shibuya-parte-1/"
-  - title: "Parte 3"
+    text: "Parte 3"
     url: "/2017/intervista-kazuko-shibuya-parte-3/"  
 ---
 
