@@ -3,7 +3,7 @@ permalink: /storia/
 layout: archive
 title: La storia di Xaba Cadabra
 header:
- image: /images/gardenight.gif
+ overlay_image: /images/gardenight.gif
 author_profile: true
 ---
 
