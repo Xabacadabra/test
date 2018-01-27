@@ -12,11 +12,12 @@ header:
 published: true
 comments: true
 author_profile: false
-sidebar:
+sidebar-sample:
   - title: "Intervista a Kazuko Shibuya"
-    - text: "Parte 2"
+    children:
+    - title: "Parte 2"
       url: /2017/intervista-kazuko-shibuya-parte-2/
-    - text: "Parte 3"
+    - title: "Parte 3"
       url: /2017/intervista-kazuko-shibuya-parte-3/  
 ---
 
