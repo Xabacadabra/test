@@ -21,7 +21,7 @@ Lo strapotere dei **Social Network**, la proliferazione di **Youtuber** e la rap
 
 **Xaba Cadabra è il mio terzo esperimento del settore**, quello più serio, consapevole e duraturo.
 
-Il primo blog con cui mi barcamenai risale probabilmente al 2005, ed in effetti mi rendo conto che un po' per i tempi, un po' per mie precise "scelte stilistiche", Xaba Cadabra è nato da subito portando in se molto della vecchia webzine di videogiochi più che del sito-diario con cui propriamente s'intende con blog.
+Il primo blog con cui mi cimentai risale probabilmente al 2005, ed in effetti mi rendo conto che un po' per i tempi, un po' per mie precise "scelte stilistiche", Xaba Cadabra è nato da subito portando in se molto della vecchia webzine di videogiochi più che del sito-diario con cui propriamente s'intende con blog.
 
 ## Cetramod ad Personam
 
