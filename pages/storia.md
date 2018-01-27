@@ -1,10 +1,10 @@
 ---
+permalink: /storia/
 layout: archive
 title: La storia di Xaba Cadabra
 header:
-	image: /images/gardenight.gif
+ image: /images/gardenight.gif
 author_profile: true
-permalink: /storia/
 ---
 
 (Che emozione, è da quando ero un giovane scavezzacollo digitale che volevo fare un articolo del genere!)
