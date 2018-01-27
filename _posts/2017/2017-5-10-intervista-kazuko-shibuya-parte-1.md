@@ -12,7 +12,7 @@ header:
 published: true
 comments: true
 author_profile: false
-sidebar-sample:
+sidebar:
   - title: "Intervista a Kazuko Shibuya"
     children:
     - title: "Parte 2"
