@@ -1,6 +1,6 @@
 ---
 title: "Capricciosa Orange Road - È quasi magia Johnny"
-modified: 2017-03-9
+modified: 2018-28-1
 categories: [2014]
 excerpt: "Se vent'anni fa aveste domandato agli adolescenti quale fosse il triangolo amoroso per eccellenza probabilmente vi avrebbero snocciolato il celeberrimo Brenda - Dylan - Kelly...ma, interpellando i più *pischelli, la risposta sarebbe stata una sola: Sabrina - Johnny - Tinetta (o, canonicamente parlando, Madoka - Kyusuke - Hikaru).."
 tags: 
@@ -141,23 +141,23 @@ Ma *la Domanda*, dicevamo...
 <img src='http://4.bp.blogspot.com/-5UZIhoChO8E/VI5gkDItNZI/AAAAAAAALII/IOsNTD7O-m0/s1600/orangeakemi5.JPG' alt='è-quasi-magia-Johnny'>
 </figure>
 
-**Temo di no.** 
+**Temo di no.**
 
 E a scriverlo mi piange il cuore.
 
 Preciso: **no, non credo sia un discorso legato solamente a bambini-adolescenti che vanno degenerando sempre più**, o al fatto che oggi possano godere di una scelta mediatica *abnorme*...
 
-**Credo piuttosto si tratti fattore fisiologico dell'opera in se.**
+**Credo piuttosto si tratti di un fattore fisiologico dell'opera in se.**
 
-**_Orange Road_ da un lato possiede tratti in comune con [_Il Laureato_](https://it.wikipedia.org/wiki/Il_laureato)** <small>(che tra l'altro in un episodio va pure citando)</small>, e quindi **può certamente fare ancora breccia nei cuori di taluni giovincelli più romanticamente vecchia scuola...ma resta anzitutto un anime che sente molto il peso dei suoi anni, tanto per limiti tecnici quanto per una mera questione di cifra stilistica.**
+**_Orange Road_ da un lato possiede tratti in comune con [_Il Laureato_](https://it.wikipedia.org/wiki/Il_laureato)** <small>(che tra l'altro in un episodio va pure citando)</small>, e quindi può certamente fare ancora breccia nei cuori di **taluni giovincelli più romanticamente vecchia scuola**...ma resta anzitutto **un anime che sente molto il peso dei suoi anni**, tanto per limiti tecnici quanto per una mera questione di cifra stilistica.
 
 _Shh. lo so._
 
-Lo so. 
+Lo so.
 
 Sono tutte cose che noi che ci siam cresciuti molto spesso non vediamo o facciamo finta di non vedere.
 
-E, tutto sommato, non è detto che questo non debba essere per forza un male, eh !
+E, tutto sommato, non è detto che questo debba essere per forza un male, eh !
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2TP4MuVnS2A" frameborder="0" allowfullscreen></iframe>
 
