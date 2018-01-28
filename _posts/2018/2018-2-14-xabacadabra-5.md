@@ -18,3 +18,9 @@ E FINALMENTE CAZZO!
 CAMPIONI DEL MONDO, CAMPIONI DEL MONDOOOOOOOOO
 
 Lasciatemelo dire, sembrerà poco ma per me è una vera rivoluzione levarmelo dai piedi, soprattutto visto che sono **riuscito ad importare tutti i vecchi commenti in Staticman**, quindi anche loro se ne stanno comodi comodi al calduccio di Github.
+
+## Statistiche e altre cosette
+
+Quanto sopra mi ha permesso di controllare un'altra faccenda:
+
+Nei suoi primi cinque anni di vita Xaba Cadabra ha maturato 558 commenti, 
