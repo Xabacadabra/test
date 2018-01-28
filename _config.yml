@@ -33,9 +33,9 @@ comments:
     num_posts            : 5 # 5 (default)
     colorscheme          : "dark" # "light" (default), "dark"
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master" # "master"
-  commitMessage          : # "New comment."
+  commitMessage          : "Nuovo Commento."
   filename               : # comment-{@timestamp}
   format                 : # "yml"
   moderation             : # true
