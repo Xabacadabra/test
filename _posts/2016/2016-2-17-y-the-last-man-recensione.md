@@ -1,5 +1,4 @@
 ---
-
 title: Y - L'ultimo uomo sulla Terra [Recensione]
 modified: null
 categories: [2016]
@@ -8,9 +7,8 @@ tags:
    - recensioni
    - fumetti
 header:  
-  image:  y-the-last-man.jpg
-  teaser: teaser-y-the-last-man.jpg
-  thumb: null
+  image:  images/y-the-last-man.jpg
+  teaser: images/teaser-y-the-last-man.jpg
 published: true
 comments: true
 toc: true

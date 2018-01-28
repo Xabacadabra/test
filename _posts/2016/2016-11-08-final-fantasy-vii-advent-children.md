@@ -1,14 +1,12 @@
 ---
-
 title: "Final Fantasy VII - Advent Children"
 modified: null
 categories: [2016]
 excerpt: "Prima di tutto la verità: Advent Children è un pessimo film. Ma questa, intendiamoci, è la verità del senno di poi."
 tags: [videogiochi, cinema]
 header:  
-  image:  final-fantasy-vii-advent-children.jpg
-  teaser:  teaser-final-fantasy-vii-advent-children.jpg
-  thumb: 
+  image:  images/final-fantasy-vii-advent-children.jpg
+  teaser:  images/teaser-final-fantasy-vii-advent-children.jpg
 published: true
 comments: true
 toc: true

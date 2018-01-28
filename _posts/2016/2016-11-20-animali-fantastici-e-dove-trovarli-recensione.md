@@ -1,5 +1,4 @@
 ---
-
 title: "Animali Fantastici e dove trovarli [Recensione]"
 modified:
 categories: [2016]
@@ -7,9 +6,8 @@ excerpt: "Partiamo subito con le cose importanti. Senza girarci troppo attorno, 
 tags: 
   - cinema
 header:  
-  image:  animali-fantastici.jpg
-  teaser: teaser-animali-fantastici.jpg
-  thumb: null
+  image:  images/animali-fantastici.jpg
+  teaser: images/teaser-animali-fantastici.jpg
 published: true
 comments: true
 toc: true

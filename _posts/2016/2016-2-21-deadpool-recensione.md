@@ -1,5 +1,4 @@
 ---
-
 title: "Deadpool [Recensione]"
 modified: null
 categories: [2016]
@@ -8,9 +7,8 @@ tags:
   - cinema
   - recensioni
 header:  
-  image:  deadpool.jpg
-  teaser: teaser-deadpool.jpg
-  thumb: null
+  image:  images/deadpool.jpg
+  teaser: images/teaser-deadpool.jpg
 published: true
 comments: true
 toc: true

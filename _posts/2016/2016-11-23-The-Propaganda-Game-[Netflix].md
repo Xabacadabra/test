@@ -1,5 +1,4 @@
 ---
-
 title: "The Propaganda Game [Netflix]: di Corea, bufale e gomblotti"
 modified: null
 categories: [2016]
@@ -7,9 +6,8 @@ excerpt: "Tra un'accozzaglia, una scrofa ferita e via degenerando, passando per 
 tags:
   - politica
 header: 
-  image:  the-propaganda-game.jpg
-  teaser: teaser-the-propaganda-game.jpg
-  thumb:
+  image:  images/the-propaganda-game.jpg
+  teaser: images/teaser-the-propaganda-game.jpg
 published: true
 comments: true
 ads: false

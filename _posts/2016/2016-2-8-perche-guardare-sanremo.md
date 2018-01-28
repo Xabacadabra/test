@@ -1,5 +1,4 @@
 ---
-
 title: "Perché guardare Sanremo"
 modified: null
 categories: [2016]
@@ -7,9 +6,8 @@ excerpt: "Me lo chiedono ogni anno in molti, ed è curioso notare come in tre an
 tags:
   - spettacolo
 header:  
-  image:  perche-sanremo.jpg
-  teaser: teaser-perche-sanremo.jpg
-  thumb: null
+  image:  images/perche-sanremo.jpg
+  teaser: images/teaser-perche-sanremo.jpg
 published: true
 comments: true
 ---

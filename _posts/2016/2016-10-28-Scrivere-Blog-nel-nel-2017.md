@@ -1,5 +1,4 @@
 ---
-
 title: "10 suggerimenti per scrivere Blog nel 2017"
 modified: null
 categories: [2016]
@@ -7,9 +6,8 @@ excerpt: "Ha ancora un senso? La risposta è la solita: dipende..."
 tags:
   - cyberspazio
 header:  
-  image:  blog-2016.jpg
-  teaser: teaser-blog-2016.jpg
-  thumb: null
+  image:  images/blog-2016.jpg
+  teaser: images/teaser-blog-2016.jpg
 published: true
 comments: true
 toc: true

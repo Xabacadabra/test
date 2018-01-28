@@ -1,5 +1,4 @@
 ---
-
 title: "Paradise Lost - Draconian Times [Recensione]"
 modified:
 categories: [2016]
@@ -9,8 +8,8 @@ tags:
      - recensioni
 comments: true
 header:  
-  image:  paradise-lost-draconian-times.jpg
-  teaser:  teaser-draconian-times.jpg
+  image:  images/paradise-lost-draconian-times.jpg
+  teaser:  images/teaser-draconian-times.jpg
 toc: true  
 ---
 

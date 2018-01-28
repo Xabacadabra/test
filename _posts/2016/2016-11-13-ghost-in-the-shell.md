@@ -1,5 +1,4 @@
 ---
-
 title: "Ghost in the Shell"
 modified: null
 categories: [2016]
@@ -9,11 +8,9 @@ tags:
   - cinema
   - fumetti
 header: 
-  image:  ghost-in-the-shell.jpg
-  teaser: teaser-gits.jpg
-  thumb: null
+  image:  images/ghost-in-the-shell.jpg
+  teaser: images/teaser-gits.jpg
 published: true
-ads: false
 comments: true
 toc: true
 ---

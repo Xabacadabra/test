@@ -1,5 +1,4 @@
 ---
-
 title: "The Elder Scrolls II Daggerfall nel 2016"
 modified: null
 categories: [2016]
@@ -8,8 +7,8 @@ tags:
    - videogiochi
    - cyberspazio
 header:  
-  image:  daggerfall.jpg
-  teaser: teaser-daggerfall.jpg
+  image:  images/daggerfall.jpg
+  teaser: images/teaser-daggerfall.jpg
   thumb: null
 published: true
 comments: true

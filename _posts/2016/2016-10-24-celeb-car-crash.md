@@ -1,5 +1,4 @@
 ---
-
 title: "Celeb Car Crash - People Are The Best Show [Recensione]"
 modified:
 categories: [2016]
@@ -8,10 +7,9 @@ tags:
      - musica
      - recensioni
 comments: true
-ads: false
 header:  
-  image:  celeb-car-crash.jpg
-  teaser:  teaser-celeb-car-crash.jpg
+  image:  images/celeb-car-crash.jpg
+  teaser:  images/teaser-celeb-car-crash.jpg
 toc: true  
 ---
 

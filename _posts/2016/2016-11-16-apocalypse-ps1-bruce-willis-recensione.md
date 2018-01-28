@@ -1,14 +1,12 @@
 ---
-
 title: "Apocalypse [PS1] [Recensione]"
 modified: null
 categories: [2016]
 excerpt: "C'è stato un tempo in cui la scienza era la mia religione, ora la religione è diventata la mia scienza e la mia SPADA!"
 tags: [videogiochi, recensioni]
 header: 
-  image:  apocalypse.jpg
-  teaser:  teaser-apocalypse.jpg
-  thumb:
+  image:  images/apocalypse.jpg
+  teaser:  images/teaser-apocalypse.jpg
 published: true
 comments: true
 toc: true

@@ -1,5 +1,4 @@
 ---
-
 title: "Metallica - Hardwired... to Self-Destruct [Recensione]"
 modified: null
 categories: [2016]
@@ -8,12 +7,10 @@ tags:
    - musica
    - recensioni
 header:  
-  image:  hardwired.jpg
-  teaser: teaser-hardwired.jpg
-  thumb: null
+  image:  images/hardwired.jpg
+  teaser: images/teaser-hardwired.jpg
 published: true
 comments: true
-ads: false
 toc: true
 ---
 

@@ -1,5 +1,4 @@
 ---
-
 title: Provando MrHyde
 modified: null
 categories: [2016]
@@ -7,9 +6,8 @@ excerpt: "Al solito tocca giustificare una certa latitanza dovuta ai soliti svar
 tags:
   - xabologia
 header:  
-  image:  mrhyde.jpg
-  teaser: teaser-mrhyde.jpg
-  thumb: 
+  image:  images/mrhyde.jpg
+  teaser: images/teaser-mrhyde.jpg
 published: true
 comments: true
 ---

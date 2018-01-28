@@ -1,14 +1,12 @@
 ---
-
 title: "Idi di Marzo made in Xab"
 modified: null
 categories: [2016]
 excerpt: "Ultimamente sono un po' scomparso da questi lidi per un bel po' di motivi diversi..."
 tags: [xabologia]
 header:  
-  image:  xabacadabra4.jpg
-  teaser:  teaserxabacadabra4.jpg
-  thumb: 
+  image:  images/xabacadabra4.jpg
+  teaser:  images/teaserxabacadabra4.jpg
 published: true
 comments: true
 toc: true

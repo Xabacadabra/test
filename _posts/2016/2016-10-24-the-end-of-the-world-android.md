@@ -1,5 +1,4 @@
 ---
-
 title: "[Android] The End of the World [Recensione]"
 modified: null
 categories: [2016]
@@ -8,9 +7,8 @@ tags:
    - videogiochi
    - recensioni
 header:  
-  image:  the-end-of-the-world.jpg
-  teaser: teaser-the-end-of-the-world.jpg
-  thumb: null
+  image:  images/the-end-of-the-world.jpg
+  teaser: images/teaser-the-end-of-the-world.jpg
 published: true
 comments: true
 ---

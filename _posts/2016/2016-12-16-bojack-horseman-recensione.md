@@ -1,5 +1,4 @@
 ---
-
 title: "[Netflix] Bojack Horseman [Recensione]"
 modified: null
 categories: [2016]
@@ -10,12 +9,10 @@ tags:
   - animazione
   - recensioni
 header:  
-  image:  bojack-horseman-recensione.jpg
-  teaser: teaser-bojack-horseman-recensione.jpg
-  thumb: null
+  image:  images/bojack-horseman-recensione.jpg
+  teaser: images/teaser-bojack-horseman-recensione.jpg
 published: true
 comments: true
-ads: false
 ---
 
 Se avete Netflix, con ogni probabilità avrete intravisto il rettangolino d'anteprima di Bojack zompare fuori qua e la.

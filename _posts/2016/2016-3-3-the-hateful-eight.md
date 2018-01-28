@@ -1,5 +1,4 @@
 ---
-
 title: "The Hateful Eight [Recensione]"
 modified: null
 categories: [2016]
@@ -8,9 +7,8 @@ tags:
   - recensioni
   - cinema
 header:  
-  image:  the-hateful-eight.jpg
-  teaser: teaser-the-hateful-eight.jpg
-  thumb: null
+  image:  images/the-hateful-eight.jpg
+  teaser: images/teaser-the-hateful-eight.jpg
 published: true
 comments: true
 ---

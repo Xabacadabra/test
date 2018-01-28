@@ -1,5 +1,4 @@
 ---
-
 title: "L'Uomo d'Acciaio [Recensione]"
 modified: null
 categories: [2016]
@@ -8,9 +7,8 @@ tags:
   - cinema
   - recensioni
 header:  
-  image:  man-of-steel.jpg
-  teaser: teaser-man-of-steel.jpg
-  thumb: null
+  image:  images/man-of-steel.jpg
+  teaser: images/teaser-man-of-steel.jpg
 published: true
 comments: true
 ---

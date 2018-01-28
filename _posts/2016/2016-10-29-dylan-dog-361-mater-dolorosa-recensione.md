@@ -1,5 +1,4 @@
 ---
-
 title: "Dylan Dog 361 - Mater Dolorosa [Recensione]"
 modified: null
 categories: [2016]
@@ -8,11 +7,9 @@ tags:
    - recensioni
    - fumetti
 header:  
-  image:  mater-dolorosa.jpg
-  teaser: teaser-mater-dolorosa.jpg
-  thumb: null
+  image:  images/mater-dolorosa.jpg
+  teaser: images/teaser-mater-dolorosa.jpg
 published: true
-ads: false
 comments: true
 toc: true
 ---

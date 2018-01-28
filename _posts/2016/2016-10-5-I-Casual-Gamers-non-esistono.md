@@ -1,5 +1,4 @@
 ---
-
 title: "I Casual Gamers non esistono"
 modified: null
 categories: [2016]
@@ -8,9 +7,8 @@ tags:
   - xabologia
   - videogiochi
 header:  
-  image:  casualgamers.jpg
-  teaser: teaser-casualgamers.jpg
-  thumb: null
+  image:  images/casualgamers.jpg
+  teaser: images/teaser-casualgamers.jpg
 published: true
 comments: true
 ---

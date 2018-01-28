@@ -1,14 +1,12 @@
 ---
-
 title: "Brotherhood Final Fantasy XV [Episodio 1]"
 modified: null
 categories: [2016]
 excerpt: "Qualche considerazione sparsa su #UncoveredFFXV e in particolar modo su Brotherhood Final Fantasy XV"
 tags: [videogiochi, animazione]
 header:  
-  image:  brotherhood-final-fantasy-xv.jpg
-  teaser:  teaser-brotherhood-final-fantasy-xv.jpg
-  thumb: 
+  image:  images/brotherhood-final-fantasy-xv.jpg
+  teaser:  images/teaser-brotherhood-final-fantasy-xv.jpg 
 published: true
 comments: true
 ---

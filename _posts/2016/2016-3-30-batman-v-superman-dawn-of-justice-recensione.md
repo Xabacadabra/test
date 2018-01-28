@@ -1,5 +1,4 @@
 ---
-
 title: "Batman V Superman [Recensione]"
 modified: null
 categories: [2016]
@@ -8,8 +7,8 @@ tags:
   - cinema
   - recensioni
 header:  
-  image:  batman-v-superman.jpg
-  teaser: teaser-batman-v-superman.jpg
+  image:  images/batman-v-superman.jpg
+  teaser: images/teaser-batman-v-superman.jpg
   thumb: null
 published: true
 comments: true

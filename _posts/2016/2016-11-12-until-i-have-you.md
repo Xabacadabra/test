@@ -1,14 +1,12 @@
 ---
-
 title: "Until I Have You [NON-RECENSIONE]"
 modified: null
 categories: [2016]
 excerpt: "non recensione perché beh, ci ho giocato giusto per un'oretta e quindi è più una panoramica veloce veloce"
 tags: [recensioni, videogiochi]
 header: 
-  image:  Until-I-Have-You.jpg
-  teaser:  teaser-Until-I-Have-You.jpg
-  thumb:
+  image:  images/Until-I-Have-You.jpg
+  teaser:  images/teaser-Until-I-Have-You.jpg
 published: true
 comments: true
 ---

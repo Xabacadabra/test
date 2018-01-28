@@ -1,14 +1,12 @@
 ---
-
 title: "Esplorando Final Fantasy IX Remastered"
 modified: null
 categories: [2016]
 excerpt: "Molto spesso mi ritrovo a fare un discorso che suona più o meno così: I Final Fantasy dell'era Playstation..."
 tags: [videogiochi, xabologia]
 header: 
-  image:  esplorando-final-fantasy-ix.jpg
-  teaser:  teaser-esplorando-final-fantasy-ix.jpg
-  thumb:
+  image:  images/esplorando-final-fantasy-ix.jpg
+  teaser:  images/teaser-esplorando-final-fantasy-ix.jpg
 published: true
 comments: true
 ---

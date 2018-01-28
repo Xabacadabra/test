@@ -1,5 +1,4 @@
 ---
-
 title: "Xabacadabrando"
 modified: null
 categories: [2016]
@@ -9,8 +8,7 @@ tags:
   - xabologia
 header:  
   image:  null
-  teaser: teaser-default.jpg
-  thumb: null
+  teaser: images/teaser-default.jpg
 published: true
 comments: true
 ---

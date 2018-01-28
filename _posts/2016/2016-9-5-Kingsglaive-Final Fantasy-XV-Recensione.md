@@ -1,5 +1,4 @@
 ---
-
 title: "Kingsglaive: Final Fantasy XV [Recensione]"
 modified: null
 categories: [2016]
@@ -9,8 +8,8 @@ tags:
   - recensioni
   - videogiochi
 header:  
-  image:  kingsglaive.jpg
-  teaser: teaser-kingsglaive.jpg
+  image:  images/kingsglaive.jpg
+  teaser: images/teaser-kingsglaive.jpg
   thumb: null
 published: true
 comments: true

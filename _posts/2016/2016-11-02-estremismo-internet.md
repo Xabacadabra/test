@@ -1,5 +1,4 @@
 ---
-
 title: "L'Estremismo di Internet"
 modified: null
 categories: [2016]
@@ -8,9 +7,8 @@ tags:
   - cyberspazio
   - xabologia
 header:  
-  image:  estremismo-internet.jpg
-  teaser: teaser-estremismo-internet.jpg
-  thumb: null
+  image:  images/estremismo-internet.jpg
+  teaser: images/teaser-estremismo-internet.jpg
 published: true
 comments: true
 toc: true

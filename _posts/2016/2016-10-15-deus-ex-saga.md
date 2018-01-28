@@ -1,5 +1,4 @@
 ---
-
 title: "La Saga di Deus Ex"
 modified: null
 categories: [2016]
@@ -7,9 +6,8 @@ excerpt: "O meglio una panoramica sui tre giochi antecedenti a Mankind Divided (
 tags: 
    - videogiochi
 header:  
-  image:  deus-ex.jpg
-  teaser: teaser-deus-ex.jpg
-  thumb: null
+  image:  images/deus-ex.jpg
+  teaser: images/teaser-deus-ex.jpg
 published: true
 comments: true
 ads: true
