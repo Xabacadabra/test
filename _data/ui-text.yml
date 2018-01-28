@@ -89,7 +89,7 @@ it: &DEFAULT_IT
   comment_btn_submit         : "Invia commento"
   comment_btn_submitted      : "Inviato"
   comment_success_msg        : "Grazie per il tuo commento! Verrà visualizzato nel sito una volta che sarà approvato."
-  comment_error_msg          : "Errore con il tuo invio. Assicurati che tutti i campi richiesti siano stati completati e riprova."
+  comment_error_msg          : "Errore con l'invio del commento. Assicurati che tutti i campi richiesti siano stati completati e riprova."
   loading_label              : "Caricamento..."
   search_placeholder_text    : "Inserisci il termine di ricerca"
   results_found              : "Risultati trovati"
