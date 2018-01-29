@@ -78,6 +78,7 @@ layout: default
         {% assign maxRelatedCounter = 0 %}
        
         {% for post in site.posts %}
+        {% include archive-single.html type="grid" %}
          
           {% assign sameTagCount = 0 %}
           {% assign commonTags = '' %}
