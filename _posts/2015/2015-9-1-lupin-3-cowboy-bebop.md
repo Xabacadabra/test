@@ -1,5 +1,4 @@
 ---
-
 title: "Lupin III e Cowboy Bebop"
 modified: 2017-03-9
 categories: [2015]
@@ -7,9 +6,8 @@ excerpt: "Questo post rende esplicito un profondissimo debito: quello nei confro
 tags: 
    - animazione
 header:  
-  image:  lupin-3-cowboy-bebop.jpg
-  teaser: Teaser-lupin-3-cowboy-bebop.jpg
-  thumb: null
+  image:  images/lupin-3-cowboy-bebop.jpg
+  teaser: images/Teaser-lupin-3-cowboy-bebop.jpg
 ads: false
 published: true
 comments: true

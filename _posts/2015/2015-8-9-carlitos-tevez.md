@@ -1,5 +1,4 @@
 ---
-
 title: "L'Apache Calritos Tévez - Xab e il Calcio"
 modified:
 categories: [2015]
@@ -7,8 +6,8 @@ excerpt: "Lo vidi la prima volta che era il 2003, Coppa Intercontinetale Boca Ju
 tags: [sport, xabologia]
 comments: true
 header:  
-  image:  tevez.jpg
-  teaser:  teaser-tevez.jpg
+  image:  images/tevez.jpg
+  teaser:  images/teaser-tevez.jpg
 ---
 
 Lo vidi la prima volta che era il 2003, Coppa Intercontinetale Boca Juniors - Milan, lui ovviamente con gli xeneizes (i genovesi), poi vincitori.

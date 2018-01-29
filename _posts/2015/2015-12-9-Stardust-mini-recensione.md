@@ -1,14 +1,12 @@
 ---
-
 title: "Stardust [Mini-Recensione]"
 modified: null
 categories: [2015]
 excerpt: "Fantasy neilgaimaniano, quindi per qualche motivo squisitamente digeribile e dal gusto amabilmente britannico:"
 tags: [recensioni, cinema]
 header:  
-  image:  stardust.jpg
-  teaser:  teaserstardust.jpg
-  thumb: 
+  image:  images/stardust.jpg
+  teaser:  images/teaserstardust.jpg
 published: true
 comments: true
 ---

@@ -1,5 +1,4 @@
 ---
-
 title: "Narcos [Recensione S1]"
 modified: null
 categories: [2015]
@@ -8,9 +7,8 @@ tags:
   - serie-tv
   - recensioni
 header:  
-  image:  narcos.jpg
-  teaser: teasernarcos.jpg
-  thumb: null
+  image:  images/narcos.jpg
+  teaser: images/teasernarcos.jpg
 published: true
 comments: true
 ---

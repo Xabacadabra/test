@@ -1,5 +1,4 @@
 ---
-
 title: "Italia - Spagna 105 - 98 [Eurobasket 2015]"
 modified:
 categories: [2015]
@@ -7,8 +6,8 @@ excerpt: "Lasciate che vi narri del piacere."
 tags: [sport]
 comments: true
 header:  
-  image:  eurobasket-2015.jpg
-  teaser:  teaser-eurobasket-2015.jpg
+  image:  images/eurobasket-2015.jpg
+  teaser:  images/teaser-eurobasket-2015.jpg
 ---
 Premessa importante:
 

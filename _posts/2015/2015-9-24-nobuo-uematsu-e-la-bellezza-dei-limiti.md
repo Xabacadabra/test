@@ -1,5 +1,4 @@
 ---
-
 title: "Nobuo Uematsu e la bellezza dei limiti"
 modified: 2016-10-24
 categories: [2015]
@@ -8,9 +7,8 @@ tags:
    - videogiochi
    - xabologia
 header:  
-  image:  nobuo.jpg
-  teaser:  teaser-nobuo.jpg
-  thumb: 
+  image:  images/nobuo.jpg
+  teaser:  images/teaser-nobuo.jpg
 published: true
 comments: true
 ---

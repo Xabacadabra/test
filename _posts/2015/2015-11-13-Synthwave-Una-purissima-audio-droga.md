@@ -1,5 +1,4 @@
 ---
-
 title: "Synthwave - Una purissima audio droga"
 modified:
 categories: [2015]
@@ -7,8 +6,8 @@ excerpt: "Ieri il buon vecchio Diccì, mio amorevole figlioccio di cetramoddiana
 tags: [musica]
 comments: true
 header:  
-  image:  synthwave.jpg
-  teaser:  teaser-synthwave.jpg
+  image:  images/synthwave.jpg
+  teaser:  images/teaser-synthwave.jpg
 ---
 
 [Ieri](http://www.arcweb.it/cetramod/viewtopic.php?f=21&t=48300) il buon vecchio Diccì, mio amorevole figlioccio di cetramoddiana memoria, se ne è uscito tutto baldanzoso parlandoci della Synthwave.

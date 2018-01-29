@@ -1,5 +1,4 @@
 ---
-
 title: "George R. R. Martin - Il Cavaliere dei Sette Regni [Recensione]"
 modified: 2016-11-15
 categories: [2015]
@@ -8,9 +7,8 @@ tags:
     - libri
     - recensioni
 header: 
-  image:  il-cavaliere-dei-sette-regni.jpg
-  teaser:  teaser-il-cavaliere-dei-sette-regni.jpg
-  thumb:
+  image:  images/il-cavaliere-dei-sette-regni.jpg
+  teaser:  images/teaser-il-cavaliere-dei-sette-regni.jpg
 published: true
 comments: true
 ---

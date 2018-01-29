@@ -1,5 +1,4 @@
 ---
-
 title: "Italia - Germania 89 - 82 [Eurobasket 2015]"
 modified:
 categories: [2015]
@@ -7,9 +6,10 @@ excerpt: "La meraviglia. Le lacrime. Gli infarti"
 tags: [sport]
 comments: true
 header:  
-  image:  eurobasket-2015.jpg
-  teaser:  teaser-eurobasket-2015.jpg
+  image:  images/eurobasket-2015.jpg
+  teaser:  images/teaser-eurobasket-2015.jpg
 ---
+
 La meraviglia.
 
 Le lacrime.

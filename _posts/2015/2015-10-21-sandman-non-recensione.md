@@ -1,5 +1,4 @@
 ---
-
 title: Sandman [NON-Recensione]
 modified: null
 categories: [2015]
@@ -7,9 +6,8 @@ excerpt: "Ho parlato, raffigurato, scarabocchiato e citato Sandman a più ripres
 tags: 
    - fumetti
 header:  
-  image:  sandman.jpg
-  teaser: teaser-sandman.jpg
-  thumb: null
+  image:  images/sandman.jpg
+  teaser: images/teaser-sandman.jpg
 published: true
 comments: true
 ---

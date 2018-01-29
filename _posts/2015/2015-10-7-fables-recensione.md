@@ -1,5 +1,4 @@
 ---
-
 title: Fables [Recensione]
 modified: null
 categories: [2015]
@@ -8,9 +7,8 @@ tags:
    - recensioni
    - fumetti
 header:  
-  image:  fables.jpg
-  teaser: teaserfables.jpg
-  thumb: null
+  image:  images/fables.jpg
+  teaser: images/teaserfables.jpg
 published: true
 comments: true
 ---

@@ -1,5 +1,4 @@
 ---
-
 title: "Forum e Facebook - Come Sundance Kid"
 modified: null
 categories: [2015]
@@ -9,8 +8,8 @@ Uno di quelli verso la fine della conquista della frontiera..."
 tags:
   - cyberspazio
 header:  
-  image:  sundance.jpg
-  teaser: teaser-sundance.jpg
+  image:  images/sundance.jpg
+  teaser: images/teaser-sundance.jpg
   thumb: null
 published: true
 comments: true

@@ -1,5 +1,4 @@
 ---
-
 title: "Poets of the Fall in Italia [Resoconto]"
 modified:
 categories: [2015]
@@ -7,8 +6,8 @@ excerpt: "L'acustica forse forse non delle migliori, il pubblico poco (ma buono,
 tags: [musica]
 comments: true
 header:  
-  image:  poetsofthefallitalia.jpg
-  teaser:  teaserpoetsofthefallitalia.jpg
+  image:  images/poetsofthefallitalia.jpg
+  teaser:  images/teaserpoetsofthefallitalia.jpg
 ---
 
 ## Il concerto

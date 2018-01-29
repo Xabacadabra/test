@@ -1,5 +1,4 @@
 ---
-
 title: "Suburra [Recensione]"
 modified: null
 categories: [2015]
@@ -8,9 +7,8 @@ tags:
   - recensioni
   - cinema
 header:  
-  image:  suburra.jpg
-  teaser: teasersuburra.jpg
-  thumb: null
+  image:  images/suburra.jpg
+  teaser: images/teasersuburra.jpg
 published: true
 comments: true
 ---

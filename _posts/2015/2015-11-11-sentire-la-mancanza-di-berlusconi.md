@@ -1,14 +1,12 @@
 ---
-
 title: "Sentire la mancanza di Berlusconi"
 modified: null
 categories: [2015]
 excerpt: "Non che se ne sia andato eh, intendiamoci, l'altro giorno s'è pure fatto vedere! Ma beh...."
 tags: [xabologia, politica]
 header:  
-  image:  mancanza-berlusconi.jpg
-  teaser:  teaser-mancanza-berlusconi.jpg
-  thumb: 
+  image:  images/mancanza-berlusconi.jpg
+  teaser:  images/teaser-mancanza-berlusconi.jpg
 published: true
 comments: true
 ---

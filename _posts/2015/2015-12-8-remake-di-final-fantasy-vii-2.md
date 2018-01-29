@@ -1,14 +1,12 @@
 ---
-
 title: "Remake di Final Fantasy VII [News e Commento #2]"
 modified: null
 categories: [2015]
 excerpt: "Lo so: questo blog rischia di diventare seriamente monotematico, ma se mi seguite da un po' dovreste sapere come la mia sia..."
 tags: [videogiochi]
 header:  
-  image:  ff7remake2.jpg
-  teaser:  teaserff7remake2.jpg
-  thumb: 
+  image:  images/ff7remake2.jpg
+  teaser:  images/teaserff7remake2.jpg
 published: true
 comments: true
 ---

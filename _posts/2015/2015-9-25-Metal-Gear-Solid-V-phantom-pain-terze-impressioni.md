@@ -1,14 +1,12 @@
 ---
-
 title: "Metal Gear Solid V: The Phantom Pain [Terze Impressioni a freddo]"
 modified: null
 categories: [2015]
 excerpt: "Sono più 60 ore. Che ho smesso di contare le ore. Devo ancora raggiungere il vero finale, per cui preciso che la recensione..."
 tags: [videogiochi]
 header:  
-  image:  mgsv3.jpg
-  teaser:  teasermgsv3.jpg
-  thumb: 
+  image:  images/mgsv3.jpg
+  teaser:  images/teasermgsv3.jpg
 published: true
 comments: true
 ---

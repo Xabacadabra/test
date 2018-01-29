@@ -1,5 +1,4 @@
 ---
-
 title: "Arance & Martello [Recensione]"
 modified: null
 categories: [2015]
@@ -8,9 +7,8 @@ tags:
   - recensioni
   - cinema
 header:  
-  image:  arancemartello.jpg
-  teaser: teaserarancemartello.jpg
-  thumb: null
+  image:  images/arancemartello.jpg
+  teaser: images/teaserarancemartello.jpg
 published: true
 comments: true
 ---

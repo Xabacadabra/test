@@ -1,14 +1,12 @@
 ---
-
 title: "Metal Gear Solid V: The Phantom Pain [Recensione]"
 modified: null
 categories: [2015]
 excerpt: "Lo dico subito ? Lo dico subito: The Phantom Pain è ..."
 tags: [videogiochi, recensioni]
 header:  
-  image:  mgsvrecensione.jpg
-  teaser:  teasermgsvrecensione.jpg
-  thumb: 
+  image:  images/mgsvrecensione.jpg
+  teaser:  images/teasermgsvrecensione.jpg 
 published: true
 comments: true
 ---

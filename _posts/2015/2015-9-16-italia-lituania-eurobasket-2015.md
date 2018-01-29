@@ -1,5 +1,4 @@
 ---
-
 title: "Italia - Lituania 85 - 95 [Eurobasket 2015]"
 modified:
 categories: [2015]
@@ -7,9 +6,10 @@ excerpt: "Ironia della sorte, forse la partita più bella dell'Europeo."
 tags: [sport]
 comments: true
 header:  
-  image:  eurobasket-2015.jpg
-  teaser:  teaser-eurobasket-2015.jpg
+  image:  images/eurobasket-2015.jpg
+  teaser:  images/teaser-eurobasket-2015.jpg
 ---
+
 Ironia della sorte, forse la partita più bella dell'Europeo.
 
 Il primo tempo è sintetizzabile così: Bargnani che saluta Phil Jackson schiacciando, Melli in costante digievoluzione, e Aradori:

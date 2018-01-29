@@ -1,14 +1,12 @@
 ---
-
 title: "#JeSuisCharlie: l'impossibilità di dissentire dal dissenso"
 modified: null
 categories: [2015]
 excerpt: "Siamo umani. Esseri meschini, per natura."
 tags: [xabologia]
 header:  
-  image:  charlie-hebdo.jpg
-  teaser:  teaser-charlie-hebdo.jpg
-  thumb: 
+  image:  images/charlie-hebdo.jpg
+  teaser:  images/teaser-charlie-hebdo.jpg
 published: true
 comments: true
 ---

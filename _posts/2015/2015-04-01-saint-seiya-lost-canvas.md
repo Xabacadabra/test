@@ -1,5 +1,4 @@
 ---
-
 title: "Saint Seiya - Lost Canvas"
 modified: 2016-11-1
 categories: [2015]
@@ -7,9 +6,8 @@ excerpt: "C'è del marcio in Giappolandia. Non vi è davvero altra spiegazione p
 tags: 
    - animazione
 header:  
-  image:  lost-canvas.jpg
-  teaser: Teaser-lost-canvas.jpg
-  thumb: null
+  image:  images/lost-canvas.jpg
+  teaser: images/Teaser-lost-canvas.jpg
 published: true
 comments: true
 ---

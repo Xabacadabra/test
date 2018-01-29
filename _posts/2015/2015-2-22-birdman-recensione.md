@@ -1,5 +1,4 @@
 ---
-
 title: "Birdman [Recensione]"
 modified: null
 categories: [2015]
@@ -8,9 +7,8 @@ tags:
   - recensioni
   - cinema
 header:  
-  image:  birdmanrecensione.jpg
-  teaser: teaserbirdmanrecensione.jpg
-  thumb: null
+  image:  images/birdmanrecensione.jpg
+  teaser: images/teaserbirdmanrecensione.jpg
 published: true
 comments: true
 ---

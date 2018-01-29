@@ -1,5 +1,4 @@
 ---
-
 title: "Marvel's Jessica Jones [Recensione S1]"
 modified: null
 categories: [2015]
@@ -9,9 +8,8 @@ tags:
   - serie-tv
   - recensioni
 header:  
-  image:  jessicajones.jpg
-  teaser: teaserjessicajones.jpg
-  thumb: null
+  image:  images/jessicajones.jpg
+  teaser: images/teaserjessicajones.jpg
 published: true
 comments: true
 ---

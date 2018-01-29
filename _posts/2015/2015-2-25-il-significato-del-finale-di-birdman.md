@@ -1,5 +1,4 @@
 ---
-
 title: "Il significato del finale di Birdman [SPOILER]"
 modified: null
 categories: [2015]
@@ -7,12 +6,10 @@ excerpt: "Come avrete visto nel titolo e dovrebbe essere ovvio, questo post è t
 tags:
   - cinema
 header:  
-  image:  Ilsignificatodelfinaledibirdman.jpg
-  teaser: TeaserFinaleBirdman.jpg
-  thumb: null
+  image:  images/Ilsignificatodelfinaledibirdman.jpg
+  teaser: images/TeaserFinaleBirdman.jpg
 published: true
 comments: true
-ads: true
 ---
 
 Ok, [l'avevo preannunciato](http://xabacadabra.com/2015/birdman-recensione/), e ci siamo arrivati.

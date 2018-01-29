@@ -1,5 +1,4 @@
 ---
-
 title: "La dolce decadenza dell'ultimo libro di Harry Potter"
 modified: 2017-3-24
 categories: [2015]
@@ -7,11 +6,10 @@ excerpt: "Tutti i miei coscritti (la classe '89) e le generazioni a noi più pro
 tags: 
     - libri
 header: 
-  image:  decadenza-finale-harry-potter.jpg
-  teaser:  teaser-decadenza-finale-harry-potter.jpg
+  image:  images/decadenza-finale-harry-potter.jpg
+  teaser:  images/teaser-decadenza-finale-harry-potter.jpg
   thumb:
 published: true
-ads: false
 comments: true
 ---
 

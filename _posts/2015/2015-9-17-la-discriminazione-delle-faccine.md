@@ -1,5 +1,4 @@
 ---
-
 title: "La Discriminazione delle Faccine / Emoticon"
 modified: null
 categories: [2015]
@@ -7,9 +6,8 @@ excerpt: "Da qualche tempo mi è capitato di notare come, soprattutto tra le Pag
 tags:
   - cyberspazio
 header:  
-  image:  faccine.jpg
-  teaser: teaserfaccine.jpg
-  thumb: null
+  image:  images/faccine.jpg
+  teaser: images/teaserfaccine.jpg
 published: true
 comments: true
 ---

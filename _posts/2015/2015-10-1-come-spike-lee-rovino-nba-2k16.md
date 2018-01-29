@@ -1,5 +1,4 @@
 ---
-
 title: "Come Spike Lee rovinò NBA 2k16"
 modified: null
 categories: [2015]
@@ -8,11 +7,9 @@ tags:
    - videogiochi
    - sport
 header:  
-  image:  nba-2k16.jpg
-  teaser: teaser-nba-2k16.jpg
-  thumb: 
+  image:  images/nba-2k16.jpg
+  teaser: images/teaser-nba-2k16.jpg
 published: true
-ads: false
 comments: true
 ---
 

@@ -7,11 +7,9 @@ excerpt: "no, Mass Effect, Fallout e Dragon Age per me non sono abbastanza. Diam
 tags: 
    - videogiochi
 header:  
-  image:  suggerimenti-videogioco.jpg
-  teaser: teaser-suggerimenti-videogioco.jpg
-  thumb: 
+  image:  images/suggerimenti-videogioco.jpg
+  teaser: images/teaser-suggerimenti-videogioco.jpg
 published: true
-ads: false
 comments: true
 toc: true
 ---

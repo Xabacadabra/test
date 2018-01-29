@@ -1,5 +1,4 @@
 ---
-
 title: "L'importanza di chiamarsi Mad Max"
 modified: null
 categories: [2015]
@@ -7,9 +6,8 @@ excerpt: "L'action sporco, più o meno ottantiano (non è che esistevano solo i 
 tags:
   - cinema
 header:  
-  image:  mad-max.jpg
-  teaser: teaser-mad-max.jpg
-  thumb: null
+  image:  images/mad-max.jpg
+  teaser: images/teaser-mad-max.jpg
 published: true
 comments: true
 ---

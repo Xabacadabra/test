@@ -1,14 +1,12 @@
 ---
-
 title: "Remake di Final Fantasy VII [Trailer e Commento #1]"
 modified: null
 categories: [2015]
 excerpt: "Visto ? Tanto lo so che l'avrete già visto per forza, nel bene o nel male c'ha fatto andare il sabato sera di traverso a tutti..."
 tags: [videogiochi]
 header:  
-  image:  ff7remake1.jpg
-  teaser:  teaserff7remake1.jpg
-  thumb: 
+  image:  images/ff7remake1.jpg
+  teaser:  images/teaserff7remake1.jpg
 published: true
 comments: true
 ---

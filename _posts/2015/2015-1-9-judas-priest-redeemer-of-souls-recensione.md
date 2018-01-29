@@ -1,15 +1,13 @@
 ---
-
 title: "Judas Priest - Redeemer of Souls [Recensione]"
 modified:
 categories: [2015]
 excerpt: "Ci sono delle cose splendide in quest'album, delle piccole gemme di riff chitarristici (penso a Sword of Damocles, o Cold Blooded), c'è un Rob Halford che porta a casa un buon canto roco, perché giustamente all'età sua..."
 tags: [musica, recensioni]
 comments: true
-ads: false
 header:  
-  image:  redeemer-of-souls.jpg
-  teaser:  teaser-redeemer-of-souls.jpg
+  image:  images/redeemer-of-souls.jpg
+  teaser:  images/teaser-redeemer-of-souls.jpg
 ---
 
 In realtà, ho già scritto questa recensione.

@@ -1,5 +1,4 @@
 ---
-
 title: "I Cavalieri dello Zodiaco: La Leggenda del Grande Tempio [Recensione]"
 modified: 2016-11-6
 categories: [2015]
@@ -8,9 +7,8 @@ excerpt: "Altrimenti detto Saint Seiya: Legend of the Sanctuary. Ossia Malessere
 tags: 
    - animazione
 header:  
-  image:  legend-of-the-sanctuary.jpg
-  teaser: Teaser-legend-of-the-sanctuary.jpg
-  thumb: null
+  image:  images/legend-of-the-sanctuary.jpg
+  teaser: images/Teaser-legend-of-the-sanctuary.jpg
 published: true
 comments: true
 ---

@@ -1,5 +1,4 @@
 ---
-
 title: "Gangsta. [Recensione]"
 modified: 2017-23-03
 categories: [2015]
@@ -7,11 +6,9 @@ excerpt: "Nicholas Brown e Worick Arcangelo sono dei faccendieri di una città d
 tags: 
    - animazione
 header:  
-  image:  gangsta.jpg
-  teaser: teaser-gangsta.jpg
-  thumb: null
+  image:  images/gangsta.jpg
+  teaser: images/teaser-gangsta.jpg
 published: true
-ads: false
 comments: true
 ---
 

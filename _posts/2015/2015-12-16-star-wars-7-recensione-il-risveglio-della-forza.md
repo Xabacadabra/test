@@ -1,14 +1,12 @@
 ---
-
 title: "Star Wars 7 - Il Risveglio della Forza [Recensione NO SPOILER]"
 modified: null
 categories: [2015]
 excerpt: "Comincerò in modo brutale: Il Risveglio della Forza è la più..."
 tags: [recensioni, cinema]
 header:  
-  image:  StarWars7RecensioneIlRisveglioDellaForza.jpg
-  teaser: TeaserReceStarWars7.jpg
-  thumb: 
+  image:  images/StarWars7RecensioneIlRisveglioDellaForza.jpg
+  teaser: images/TeaserReceStarWars7.jpg 
 published: true
 comments: true
 ---

@@ -1,14 +1,12 @@
 ---
-
 title: "Il Corvo - Una retrospettiva sul film"
 modified: null
 categories: [2015]
 excerpt: "Quella che segue è un'elaborazione più estesa di un commento spiccio a caldo, un commento che m'è uscito mentre condividevo su facebook...."
 tags: [cinema]
 header:  
-  image:  ilcorvo.jpg
-  teaser:  teaserilcorvo.jpg
-  thumb: 
+  image:  images/ilcorvo.jpg
+  teaser:  images/teaserilcorvo.jpg
 published: true
 comments: true
 ---
