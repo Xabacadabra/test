@@ -1,5 +1,4 @@
 ---
-
 title: "Pillars of Eternity [Recensione]"
 modified: null
 categories: [2016]
@@ -8,9 +7,8 @@ tags:
   - videogiochi
   - recensioni
 header:  
-  image:  pillars-of-eternity.jpg
-  teaser: teaser-pillars-of-eternity.jpg
-  thumb: null
+  image:  images/pillars-of-eternity.jpg
+  teaser: images/teaser-pillars-of-eternity.jpg
 published: true
 comments: true
 toc: true
