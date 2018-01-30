@@ -50,7 +50,7 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 - [**Gazebo**](http://www.gazebo.rai.it){:target="_blank"} - il programma che mi ha riavvicinato al mezzo televisivo, un capolavoro mediatico
 
-### <i class="fa fa-pencil"></i> Blog
+### <i class="fa fa-pencil-square-o"></i> Blog
 
 - [**Michael Rose**](https://mademistakes.com/){:target="_blank"} - webdesigner favoloso, a cui si devono le fondamenta su cui Xaba Cadabra è basato
 
