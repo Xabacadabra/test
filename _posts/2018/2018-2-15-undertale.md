@@ -36,7 +36,7 @@ Dalla sua uscita, **Undertale sembrava avere la missione di starmi sulle balle.*
 
 Anche, ma non solo: 
 
-È un po' tutto quel discorso dell'**"Infantilismo Maturo**, che [**ho già affrontato un paio d'anni fa**](/2016/jessica-nigri) parlando del successo di **Jessica Nigri** e allargando il discorso dalle sue tette. <small>(e sì, è stato faticoso)</small>
+È un po' tutto quel discorso dell' **"Infantilismo Maturo"**, che [**ho già affrontato un paio d'anni fa**](/2016/jessica-nigri/#infantilismo-maturo) parlando del successo di **Jessica Nigri** e allargando il discorso dalle sue tette. <small>(e sì, è stato faticoso)</small>
 
 ## 'Sto gioco pare partorito da 4chan
 
@@ -50,7 +50,7 @@ Sarà che sono vecchio dentro, sarà che **lo [slang di 4chan](https://en.wiktio
 
 Siamo sempre nel regno del superficiale, lo so, ma infatti **su questo punto non voglio minimamente criticare il gioco** (che lo "spirito" sopracitato un po' se lo porta effettivamente dietro), mi limito solo a confessare che **già prima del momento dell'avvio ero particolarmente prevenuto nei suoi confronti.**
 
-Anche per questo, ho preferito aspettare tanto, facendolo "decantare" un bel po' prima di cedere alla curiosità e infilarlo nella mia libreria steam.
+Anche per questo ho preferito aspettare, facendolo "decantare" un bel po' prima di cedere alla curiosità e infilarlo nella mia libreria steam.
 
 ## Tecnologia
 
@@ -104,8 +104,7 @@ Sono abbastanza certo che, fosse stato realizzato nel 2009, **Undertale sarebbe 
 
 ## Conclusioni
 
-Tre braccobaldi su 5
-{: .notice-danger}
+3 braccobaldi su 5 {: .notice--warning}
 
 <div class="hreview" style="display: none;">
 <span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Undertale</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Feb 15 2018<br /> </span> Voto: <span class="rating">3</span></span></span></div>
