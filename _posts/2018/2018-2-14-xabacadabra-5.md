@@ -6,8 +6,8 @@ excerpt: "..."
 tags:
   - xabologia
 header:  
-  image:  null
-  teaser: images/teaser-default.jpg
+  image:  images/xabacadabra-5.jpg
+  teaser: images/teaser-xabacadabra-5.jpg
 published: true
 ---
 
