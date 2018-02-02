@@ -104,7 +104,7 @@ Sono abbastanza certo che, fosse stato realizzato nel 2009, **Undertale sarebbe 
 
 ## Conclusioni
 
-3 braccobaldi su 5 {: .notice--warning}
+3 braccobaldi su 5 {: .notice-warning}
 
 <div class="hreview" style="display: none;">
 <span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Undertale</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Feb 15 2018<br /> </span> Voto: <span class="rating">3</span></span></span></div>
