@@ -38,7 +38,7 @@ Anche, ma non solo:
 
 C'è un po' tutto quel discorso sull' **"Infantilismo Maturo"**, che [**ho già affrontato un paio d'anni fa**](/2016/jessica-nigri/#infantilismo-maturo) parlando del successo di **Jessica Nigri** allargando il discorso oltre le sue tette. <small>(e sì, è stato faticoso)</small>
 
-## "'Sto gioco pare partorito da 4chan"
+## 'Sto gioco pare partorito da 4chan
 
 <figure>
 <img src="http://i0.kym-cdn.com/photos/images/original/001/063/828/0c3.png" alt="4chan">
@@ -66,21 +66,23 @@ Il fatto che Undertale fosse stato sviluppato con **GameMaker** [^gamemaker] mi 
 
 E in questo senso sono stato piacevolmete sorpreso: 
 
-**La creatività ed il "senso artigianale" di Fox sono infatti encomiabili, specialmente nel senso di coesione che permea ogni suo comparto: trama, gameplay quanto grafica e sonoro.**
+**La creatività ed il "senso artigianale" di Fox sono infatti encomiabili**, specialmente nel senso di coesione che permea ogni suo comparto: 
+
+Tanto trama e gameplay, quanto grafica e sonoro.
 
 È quella sensazione che si ha quando **un autore recita il testo da lui scritto ed interpretato**, quella specie di "coerenza stilistica" che in tante occasioni fa davvero la differenza e che, manco a dirlo, viene sempre più spesso a mancare in titoli con dietro team di millemilapersone.
 
 ## Un inno d'amore ad Earthbound
 
 <figure>
-<img src="https://vignette.wikia.nocookie.net/earthbound/images/a/ae/Everdred.png/revision/latest?cb=20090327003547" alt="Earthbound">
+<img src="https://vignette.wikia.nocookie.net/earthbound/images/2/2b/MachPizza_Exterior_Threed.png" alt="Earthbound">
 </figure>
 
 Sprite, Soundfont, gameplay e mille altri particolari di Undertale sono palesemente figli di **Earthbound**, classico JRPG di Ape uscito nel 1994 per Super Nintendo.
 
-In questo senso, Undertale porta in seno un'anima da _"'hack-rom fusa con una creepypasta"_.
+In questo senso, Undertale porta in seno **una genuina anima da _"'hack-rom fusa con una creepypasta"_.**
 
-E (incredibilmente) **tiene egregiamente botta.**
+E nonostante questo potesse rappresentare un limite spaventoso, nell'economia della riuscita del gioco **finisce per diventare un merito.**
 
 ## Moon: Remix RPG Adventure
 
@@ -96,7 +98,7 @@ Distribuito da ASCII e realizzato da Kenichi Nishi [^Nishi] nel 1997, **_Moon: R
 <blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">So, the point of the game is to repair the damage the &quot;Hero&quot; caused and increase your LV, (which stands for LOVE) by helping people instead of hurting them.<br><br>... Anyway, you can see how this inspired UNDERTALE. Even though I didn&#39;t play it (it&#39;s in Japanese.)</p>&mdash; tobyfox (@tobyfox) <a href="https://twitter.com/tobyfox/status/931655525489668097?ref_src=twsrc%5Etfw">17 novembre 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-In questo senso, come vedremo tra qualche paragrafo, credo che uno dei successi di Undertale stia proprio nella sua tempistica.
+Potrà sembrare un dettaglio da cultori della storia del videogioco ma, come vedremo tra qualche paragrafo, **credo che uno dei successi di Undertale stia proprio nella sua "tempistica"**, quindi è un confronto che mi andava di menzionare.
 
 [^Nishi]: La storia di Nishi è molto interessante: ex dipendente della Squaresoft (lavorò a Chrono Trigger e Super Mario RPG, per citarne due) guidò un primo esodo di dipendenti della società dei Final Fantasy nella piccola compagnia Love-de-Lic. Il suo distributore, ASCII Entertainment, fu produttore del celebre RPG Maker. 
 
@@ -106,25 +108,37 @@ In questo senso, come vedremo tra qualche paragrafo, credo che uno dei successi 
 <img src="http://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_b9018c41cea2bdfb150609bedfca99b16a5af02a.1920x1080.jpg" alt="Undertale">
 </figure>
 
-Undertale è un titolo peculiare che **vuole sentitamente essere ciò che è, senza strizzare goffamente l'occhio alla nicchia che ha finito inevitabilmente per innamorarsi di lui**.
+Undertale è un titolo peculiare che **vuole sentitamente essere ciò che è, senza strizzare goffamente l'occhio alla nicchia che ha inevitabilmente finito per innamorarsi di lui**.
+
+![undertale](http://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_6ded97a2c98473ac1e8a2b3c1419d93fb31b1186.1920x1080.jpg)
 
 Retrò, grezzo, colmo di enigmi e visionario nei combattimenti, è **un videogame forte di una semplice (ma originale) filosofia di fondo**, interpretabile a diretta discrezione del giocatore in una ben cucinata miscela tra libero arbitrio da RPG occidentale e classici stilemi dei JRPG del Sol Levante.
 
-## Profondo
+## Letteralmente Profondo
 
-Se da un lato probabilmente **i personaggi e la trama di Undertale hanno raccolto forse fin troppi osanna** [^discorso], dall'altro parliamo di **un gioco cucito su misura dal suo creatore** e, come tale, impregnato dal gusto _"fatto in casa"_. 
+![undertale](http://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_b9ec4c53a8ed37f764649c970757c0a1f4948ec1.600x338.jpg)
+
+Se da un lato **i personaggi e la trama di Undertale hanno forse raccolto fin troppi osanna dal pubblico** [^discorso], dall'altro parliamo di **un gioco cucito su misura dal suo creatore** e che, in quanto tale, risulta impregnato dal gusto _"fatto in casa"_.
 
 [^discorso]: Certamente il mio è un discorso inficiato dai miei - ben lontani - gusti, intendiamoci.
 
-La cosa si traduce in modo evidente anche **nell'originale gestione dei finali**, nei colpi di scena nascosti rivelabili solo dalle azioni del giocatore, e **dall'utilizzo spregiudicato e molto ispirato dei savegame** (detta così potrà sembrare strano, ma chi ha finito il gioco avrà capito ciò che intendo). 
+![undertale](http://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_9025a366676c26046b1d08e94ab1a73406aa11db.1920x1080.jpg)
+
+La cosa si traduce in modo evidente anche **nell'originale gestione dei finali**, nei colpi di scena nascosti rivelabili solo dalle azioni del giocatore, e **dall'utilizzo spregiudicato e molto ispirato dei savegame** (detta così potrà sembrare strano, ma chi ha finito il gioco capirà ciò che intendo). 
 
 ## Tempistica
 
 ![undertale](https://vignette.wikia.nocookie.net/undertale/images/3/36/Fe2.gif/revision/latest/scale-to-width-down/160?cb=20160525223919)
 
-Tutto questo, unito al merito (e alla fortuna) dell'aver individuato il momento storico perfetto in cui uscire, hanno reso Undertale l'enorme successo che è. 
+Come anticipavo tutto questo va unito al merito (e alla fortuna) dell'aver individuato **il perfetto momento storico in cui uscire**: 
 
 Sono abbastanza certo che, fosse stato realizzato nel 2009, **Undertale sarebbe passato alla storia come una circoscritta leggenda nell'allora ridotta scena indie**.
+
+<figure>
+<img src="http://cdn.edgecast.steamstatic.com/steam/apps/650700/header.jpg" alt="yume nikki">
+<figcaption>Sì, tipo Yume Nikki
+</figcaption>
+</figure>
 
 E intendiamoci: sarebbe stato **un gran peccato.**
 
@@ -132,23 +146,23 @@ E intendiamoci: sarebbe stato **un gran peccato.**
 
 Sarebbe stato un gran peccato perché, in fin della fiera, **Undertale è davvero un gran bel gioco.**
 
-_Sopravvalutato a causa della pop culture corrente ?_
+> Sopravvalutato a causa della pop culture corrente ?
 
 Probabile.
 
-_Insopportabile cavallo di battaglia per gli "indie gamer" radical chic?_
+> Insopportabile cavallo di battaglia per gli "indie gamer" radical chic?
 
 Certamente! (più o meno quanto Dark Souls lo è per buona parte dei famigerati "hardcore gamer")
 
-_Un gioco per tutti i palati ?_
+> Un gioco per tutti i palati ?
 
-Assolutamente no.
+Assolutamente **no**.
 
 Eppure, come chiunque abbia avuto modo di sviscerarlo fino in fondo saprà, **è un videogioco realizzato estremamente bene.**
 
-Un titolo denso, colmo di dettagli, che trasmette perfettamente le intenzioni del suo autore.
+Fidatevi: chi scrive è sempre lo stesso tizio prevenuto dell'inizio del post, che alla fine si è certamente ricreduto:
 
-Fidatevi: chi scrive è lo stesso tizio prevenuto dell'inizio del post, che alla fine si è certamente ricreduto.
+**Undertale è un titolo denso, curato, colmo di dettagli, che trasmette perfettamente le intenzioni del proprio autore.**
 
 <div class="hreview" style="display: none;">
 <span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Undertale</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Feb 15 2018<br /> </span> Voto: <span class="rating">3.5</span></span></span></div>
