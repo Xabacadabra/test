@@ -16,7 +16,7 @@ Celebriamo in musica:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--luo00oibM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 5 Anni!
 
-![concerto](https://vignette.wikia.nocookie.net/finalfantasy/images/b/b1/GardenFestivalNight.jpg)
+![concerto](https://vignette.wikia.nocookie.net/finalfantasy/images/e/eb/DelingCity-1-.jpg)
 
 Mamma mia!
 
@@ -40,7 +40,7 @@ Restano ancora da implementare **le risposte ai singoli commenti**, ma vedremo p
 
 ## Statistiche
 
-![stat](https://media3.giphy.com/media/lglNY7YHDp38Y/giphy.gif){: .align-left}
+![stat](https://media3.giphy.com/media/lglNY7YHDp38Y/giphy.gif)
 
 Quanto sopra mi ha permesso di controllare un'altra faccenda:
 
