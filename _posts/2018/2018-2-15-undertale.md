@@ -48,7 +48,11 @@ Ecco: la mia repulsione istintiva partiva anzitutto da lì.
 
 Sarà che sono vecchio dentro, sarà che **lo [slang di 4chan](https://en.wiktionary.org/wiki/Category:English_4chan_slang) mi disgusta quanto la musica neomelodica partenopea**, ma insomma _che sarà, che sarà, uennever uil bi uil bi_
 
+![toby fox](http://i0.kym-cdn.com/photos/images/facebook/001/026/176/28c.png)
+
 Siamo sempre nel regno del superficiale, lo so, ma infatti **su questo punto non voglio minimamente criticare il gioco** (che lo "spirito" sopracitato un po' se lo porta effettivamente dietro), mi limito solo a confessare che **già prima del momento dell'avvio ero particolarmente prevenuto nei suoi confronti.**
+
+![undertale dog](https://i.ytimg.com/vi/1HHR4S6CIZc/maxresdefault.jpg)
 
 Anche per questo ho preferito aspettare, facendolo "decantare" un bel po' prima di cedere alla curiosità e infilarlo nella mia libreria steam.
 
@@ -80,7 +84,7 @@ Tanto trama e gameplay, quanto grafica e sonoro.
 
 Sprite, Soundfont, gameplay e mille altri particolari di Undertale sono palesemente figli di **Earthbound**, classico JRPG di Ape uscito nel 1994 per Super Nintendo.
 
-In questo senso, Undertale porta in seno **una genuina anima da _"'hack-rom fusa con una creepypasta"_.**
+In questo senso, Undertale porta in seno **una genuina anima da _"hack-rom fusa con una creepypasta"_.**
 
 E nonostante questo potesse rappresentare un limite spaventoso, nell'economia della riuscita del gioco **finisce per diventare un merito.**
 
@@ -98,7 +102,7 @@ Distribuito da ASCII e realizzato da Kenichi Nishi [^Nishi] nel 1997, **_Moon: R
 <blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">So, the point of the game is to repair the damage the &quot;Hero&quot; caused and increase your LV, (which stands for LOVE) by helping people instead of hurting them.<br><br>... Anyway, you can see how this inspired UNDERTALE. Even though I didn&#39;t play it (it&#39;s in Japanese.)</p>&mdash; tobyfox (@tobyfox) <a href="https://twitter.com/tobyfox/status/931655525489668097?ref_src=twsrc%5Etfw">17 novembre 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Potrà sembrare un dettaglio da cultori della storia del videogioco ma, come vedremo tra qualche paragrafo, **credo che uno dei successi di Undertale stia proprio nella sua "tempistica"**, quindi è un confronto che mi andava di menzionare.
+Potrà sembrare un dettaglio da cultori della storia del videogioco ma, come vedremo tra qualche paragrafo, **credo che uno dei successi di Undertale stia proprio nella sua "tempistica"**, quindi è un elemento di confronto che ritenevo importante menzionare.
 
 [^Nishi]: La storia di Nishi è molto interessante: ex dipendente della Squaresoft (lavorò a Chrono Trigger e Super Mario RPG, per citarne due) guidò un primo esodo di dipendenti della società dei Final Fantasy nella piccola compagnia Love-de-Lic. Il suo distributore, ASCII Entertainment, fu produttore del celebre RPG Maker. 
 
