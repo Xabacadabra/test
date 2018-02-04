@@ -132,7 +132,7 @@ La cosa si traduce in modo evidente anche **nell'originale gestione dei finali**
 
 ## Tempistica
 
-![image-center](https://vignette.wikia.nocookie.net/undertale/images/3/36/Fe2.gif)
+![papyrus](https://vignette.wikia.nocookie.net/undertale/images/3/36/Fe2.gif){: .align-right}
 
 Come anticipavo tutto questo va unito al merito (e alla fortuna) dell'aver individuato **il perfetto momento storico in cui uscire**: 
 
