@@ -11,10 +11,13 @@ header:
 published: true
 ---
 
+<small>(l'immagine qui sopra è di Final Fantasy 5, nel caso ve lo stesse chiedendo. E sì, sono banalissimo)</small>
+
 Celebriamo in musica:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--luo00oibM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-5 Anni!
+
+## 5 Anni!
 
 ![parata](https://i.ytimg.com/vi/86bZTnOygYo/hqdefault.jpg)
 
@@ -34,7 +37,9 @@ E FINALMENTE!
 
 CAMPIONI DEL MONDO, CAMPIONI DEL MONDOOOOOOOOO
 
-Lasciatemelo dire, sembrerà poco ma per me è una vera rivoluzione levarmelo dai piedi, soprattutto visto che sono **riuscito ad importare tutti i vecchi commenti in Staticman**, quindi anche loro se ne stanno comodi comodi al calduccio di Github.
+![renè](http://serialmindsecn.nohup.it/wp-content/uploads/2016/03/dai-dai-dai.gif)
+
+Lasciatemelo dire, sembrerà poco ma per me è una vera rivoluzione levarmelo dai piedi, soprattutto visto che sono **riuscito ad importare tutti i vecchi commenti in [Staticman](https://staticman.net/)**, quindi anche loro se ne stanno comodi comodi al calduccio di Github.
 
 Restano ancora da implementare **le risposte ai singoli commenti**, ma vedremo più in la, una cosa per volta signora mia.
 
@@ -46,13 +51,17 @@ Quanto sopra mi ha permesso di controllare un'altra faccenda:
 
 Nei suoi primi cinque anni di vita Xaba Cadabra ha maturato **558 commenti e circa 200 post**... [^post]
 
+😳
+
 [^post]: ho perso un po' il conto perché nelle cartelle potrei avere qualche bozza che fa numero, ma la cifra dovrebbe essere grosso modo quella
 
 ## Mica cotica
 
 E insomma, considerando tutte le cose che ho iniziato e lasciato per strada, **è un risultato di cui sono molto contento**, sebbene abbia fin troppo spesso bistrattato questo piccolo angolo di web: 
 
-fisiologico eh, in 5 anni ne succedono di cose (un paio belle a combattere con tante brutte), _Internet non è più quello di una volta_ e bla bla.
+Fisiologico eh, in 5 anni ne succedono di cose (un paio belle a combattere contro tante brutte), _Internet non è più quello di una volta_ e bla bla.
+
+Ma beh, come cantavano i Whitesnake, _Here I Go Again_.
 
 ## Presto su queste pagine
 
