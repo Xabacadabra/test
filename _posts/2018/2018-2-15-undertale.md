@@ -120,7 +120,7 @@ Retrò, grezzo, colmo di enigmi e visionario nei combattimenti, è **un videogam
 
 ## Letteralmente Profondo
 
-![undertale](http://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_b9ec4c53a8ed37f764649c970757c0a1f4948ec1.600x338.jpg)
+![undertale sans](https://vignette.wikia.nocookie.net/undertale/images/4/44/Sansanimated.gif){: .align-left}
 
 Se da un lato **i personaggi e la trama di Undertale hanno forse raccolto fin troppi osanna dal pubblico** [^discorso], dall'altro parliamo di **un gioco cucito su misura dal suo creatore** e che, in quanto tale, risulta impregnato dal gusto _"fatto in casa"_.
 
