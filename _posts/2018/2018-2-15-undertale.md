@@ -72,14 +72,14 @@ E in questo senso sono stato piacevolmete sorpreso:
 
 **La creatività ed il "senso artigianale" di Fox sono infatti encomiabili**, specialmente nel senso di coesione che permea ogni suo comparto: 
 
-Tanto trama e gameplay, quanto grafica e sonoro.
+Tanto trama quanto gameplay, grafica e sonoro.
 
 È quella sensazione che si ha quando **un autore recita il testo da lui scritto ed interpretato**, quella specie di "coerenza stilistica" che in tante occasioni fa davvero la differenza e che, manco a dirlo, viene sempre più spesso a mancare in titoli con dietro team di millemilapersone.
 
 ## Un inno d'amore ad Earthbound
 
 <figure>
-<img src="https://vignette.wikia.nocookie.net/earthbound/images/2/2b/MachPizza_Exterior_Threed.png" alt="Earthbound">
+<img src="https://www.technobuffalo.com/wp-content/uploads/2014/03/earthbound-and-color-470x310@2x.jpg" alt="Earthbound">
 </figure>
 
 Sprite, Soundfont, gameplay e mille altri particolari di Undertale sono palesemente figli di **Earthbound**, classico JRPG di Ape uscito nel 1994 per Super Nintendo.
