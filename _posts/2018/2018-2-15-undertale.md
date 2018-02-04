@@ -132,7 +132,7 @@ La cosa si traduce in modo evidente anche **nell'originale gestione dei finali**
 
 ## Tempistica
 
-![undertale](https://vignette.wikia.nocookie.net/undertale/images/3/36/Fe2.gif/revision/latest/scale-to-width-down/160?cb=20160525223919)
+![image-right](https://vignette.wikia.nocookie.net/undertale/images/3/36/Fe2.gif)
 
 Come anticipavo tutto questo va unito al merito (e alla fortuna) dell'aver individuato **il perfetto momento storico in cui uscire**: 
 
@@ -148,7 +148,7 @@ E intendiamoci: sarebbe stato **un gran peccato.**
 
 ## Conclusioni
 
-![undertale flowey](https://ih1.redbubble.net/image.151777527.0072/flat,800x800,070,f.u3.jpg)
+![undertale](http://undertale.com/assets/images/screen10.png)
 
 Sarebbe stato un gran peccato perché, in fin della fiera, **Undertale è davvero un gran bel gioco.**
 
@@ -163,6 +163,8 @@ Certamente! (più o meno quanto Dark Souls lo è per buona parte dei famigerati 
 > Un gioco per tutti i palati ?
 
 Assolutamente **no**.
+
+![undertale flowey](https://ih1.redbubble.net/image.151777527.0072/flat,800x800,070,f.u3.jpg)
 
 Eppure, come chiunque abbia avuto modo di sviscerarlo fino in fondo saprà, **è un videogioco realizzato estremamente bene.**
 
