@@ -73,6 +73,12 @@ In attesa di finire **la traduzione all'abnorme intervista alla Shibuya** <small
 
 Un videogioco che oramai conosce mezzo mondo, certo, ma beh...intanto c'è pur sempre _l'altro mezzo_, ma soprattutto devo dire che mi sono divertito parecchio a scriverla: 
 
-È stata un'occasione per fare un piccolo discorso su indie e retrogame (che prima o poi magari affronterò in un post a parte).
+È stata un'occasione per fare **un piccolo discorso sul rapporto tra indie e retrogame** (che prima o poi magari affronterò in un post a parte).
 
 ## A presto
+
+Altro da dire ?
+
+Uhm tanti convenevoli generici che ripeto più o meno sempre e quindi vabbè, limitiamoci alla sostanza:
+
+Se vi andrà, ci leggiamo presto!
