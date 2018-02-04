@@ -158,7 +158,7 @@ Probabile.
 
 > Insopportabile cavallo di battaglia per gli "indie gamer" radical chic?
 
-Certamente! (più o meno quanto Dark Souls lo è per buona parte dei famigerati "hardcore gamer")
+Certamente! <small>(più o meno quanto Dark Souls lo è per buona parte dei famigerati "hardcore gamer")</small>
 
 > Un gioco per tutti i palati ?
 
