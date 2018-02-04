@@ -70,7 +70,9 @@ Il fatto che Undertale fosse stato sviluppato con **GameMaker** [^gamemaker] mi 
 
 E in questo senso sono stato piacevolmete sorpreso: 
 
-**La creatività ed il "senso artigianale" di Fox sono infatti encomiabili**, specialmente nel senso di coesione che permea ogni suo comparto: 
+**La creatività ed il "senso artigianale" di Fox sono infatti encomiabili**, specialmente nel senso di coesione che permea ogni suo comparto:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tz82xbLvK_k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 Tanto trama quanto gameplay, grafica e sonoro.
 
