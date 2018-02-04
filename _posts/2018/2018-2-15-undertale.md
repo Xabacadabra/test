@@ -128,7 +128,7 @@ Se da un lato **i personaggi e la trama di Undertale hanno forse raccolto fin tr
 
 ![undertale](http://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_9025a366676c26046b1d08e94ab1a73406aa11db.1920x1080.jpg)
 
-La cosa si traduce in modo evidente anche **nell'originale gestione dei finali**, nei colpi di scena nascosti rivelabili solo dalle azioni del giocatore, e **dall'utilizzo spregiudicato e molto ispirato dei savegame** (detta così potrà sembrare strano, ma chi ha finito il gioco capirà ciò che intendo). 
+La cosa si traduce in modo evidente anche **nell'originale gestione dei finali**, nei colpi di scena nascosti rivelabili solo dalle azioni del giocatore, e **dall'utilizzo spregiudicato e molto ispirato dei savegame** (detta così potrà suonare strano, ma chi ha finito il gioco capirà ciò che intendo). 
 
 ## Tempistica
 
@@ -147,6 +147,8 @@ Sono abbastanza certo che, fosse stato realizzato nel 2009, **Undertale sarebbe 
 E intendiamoci: sarebbe stato **un gran peccato.**
 
 ## Conclusioni
+
+![undertale flowey](https://ih1.redbubble.net/image.151777527.0072/flat,800x800,070,f.u3.jpg)
 
 Sarebbe stato un gran peccato perché, in fin della fiera, **Undertale è davvero un gran bel gioco.**
 
