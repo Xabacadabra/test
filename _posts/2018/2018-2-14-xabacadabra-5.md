@@ -2,7 +2,7 @@
 title: "Xaba Cadabra 5"
 modified: null
 categories: [2018]
-excerpt: "..."
+excerpt: "5 anni! Mamma mia! E, come forse avrete notato, da queste parti abbiamo riverniciato casa!"
 tags:
   - xabologia
 header:  
@@ -13,11 +13,10 @@ published: true
 
 Celebriamo in musica:
 
-<iframe src="https://open.spotify.com/embed/track/7KAFWRZJwIOR6zDhoOF9ra" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/--luo00oibM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 5 Anni!
 
-![concerto](https://vignette.wikia.nocookie.net/finalfantasy/images/b/b1/GardenFestivalNight.jpg){: .align-center}
+![concerto](https://vignette.wikia.nocookie.net/finalfantasy/images/b/b1/GardenFestivalNight.jpg)
 
 Mamma mia!
 
@@ -41,7 +40,7 @@ Restano ancora da implementare **le risposte ai singoli commenti**, ma vedremo p
 
 ## Statistiche
 
-![sephiroth](https://vignette.wikia.nocookie.net/finalfantasy/images/3/3c/Sephiroth%27s_stats.jpg){: .align-left}
+![stat](https://media3.giphy.com/media/lglNY7YHDp38Y/giphy.gif){: .align-left}
 
 Quanto sopra mi ha permesso di controllare un'altra faccenda:
 
@@ -63,4 +62,8 @@ In attesa di finire **la traduzione all'abnorme intervista alla Shibuya** <small
 
 **Undertale**
 
-Un videogioco che oramai conosce mezzo mondo, certo, ma beh...intanto c'è pur sempre _l'altro mezzo_, ma soprattutto devo dire che mi sono divertito parecchio a scriverla: è stata un'occasione per fare un piccolo discorso su indie e retrogame che prima o poi magari affronterò in un discorso a parte.
+Un videogioco che oramai conosce mezzo mondo, certo, ma beh...intanto c'è pur sempre _l'altro mezzo_, ma soprattutto devo dire che mi sono divertito parecchio a scriverla: 
+
+È stata un'occasione per fare un piccolo discorso su indie e retrogame (che prima o poi magari affronterò in un post a parte).
+
+## A presto
