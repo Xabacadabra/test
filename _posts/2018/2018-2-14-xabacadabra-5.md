@@ -11,9 +11,11 @@ header:
 published: true
 ---
 
-<small>(l'immagine qui sopra è di Final Fantasy 5, nel caso ve lo stesse chiedendo. E sì, sono banalissimo)</small>
+<small>(l'immagine qui sopra è di Final Fantasy 5, nel caso ve lo stesse chiedendo. Sì, che ci volete fare, sono un tipo originale)</small>
 
-Celebriamo in musica:
+P a R a P p A pa p A PAAAAAAA!
+
+![parappa](http://25.media.tumblr.com/b8755efc31de1bf11e37adb1421ffde4/tumblr_ml246vQ5fW1qjdbzao1_250.gif)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--luo00oibM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -24,6 +26,8 @@ Celebriamo in musica:
 Mamma mia!
 
 E, come forse avrete notato, **da queste parti abbiamo riverniciato casa!**
+
+## Nuovo Look
 
 > Per certi versi ha rappresentato un ritorno al passato con una scelta in netta controtendenza con l’internet moderno: sfondo scuro e scritte chiare. Del resto, anche i blog vanno in controtendenza in questi anni e personalmente è una scelta stilistica che ho sempre amato sin dai miei primi anni su internet.
 
@@ -57,6 +61,8 @@ Nei suoi primi cinque anni di vita Xaba Cadabra ha maturato **558 commenti e cir
 
 ## Mica cotica
 
+![cotica](http://www.festadellanocciola.it/wp-content/uploads/2014/12/DSC00419.jpg)
+
 E insomma, considerando tutte le cose che ho iniziato e lasciato per strada, **è un risultato di cui sono molto contento**, sebbene abbia fin troppo spesso bistrattato questo piccolo angolo di web: 
 
 Fisiologico eh, in 5 anni ne succedono di cose (un paio belle a combattere contro tante brutte), _Internet non è più quello di una volta_ e bla bla.
@@ -67,9 +73,9 @@ Ma beh, come cantavano i Whitesnake, _Here I Go Again_.
 
 ![papyrus](https://vignette.wikia.nocookie.net/undertale/images/3/36/Fe2.gif){: .align-right}
 
-In attesa di finire **la traduzione all'abnorme intervista alla Shibuya** <small>(chi me l'ha fatto fare, già già)</small> annuncio subito che domani si parte con una recensione di quelle abbastanza ciccione: 
+In attesa di finire **la traduzione all'abnorme intervista alla Shibuya** <small>(chi me l'ha fatto fare, già già)</small> annuncio subito che domani si riparte con una recensione di quelle abbastanza ciccione: 
 
-**Undertale**
+**Undertale!**
 
 Un videogioco che oramai conosce mezzo mondo, certo, ma beh...intanto c'è pur sempre _l'altro mezzo_, ma soprattutto devo dire che mi sono divertito parecchio a scriverla: 
 
