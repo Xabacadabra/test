@@ -2,7 +2,7 @@
 title: "Undertale [Recensione]"
 modified: null
 categories: [2018]
-excerpt: "Leviamoci subito il sassolone dalla scarpa: Dalla sua uscita, Undertale sembrava avere la missione di starmi sulle balle."
+excerpt: "Leviamoci subito il sassolone dalla scarpa: Dalla sua uscita, Undertale sembrava come missione lo starmi sulle balle."
 tags:
   - videogiochi
   - recensioni
@@ -30,7 +30,7 @@ Bene...si parte.
 
 Leviamoci subito il sassolone dalla scarpa:
 
-Dalla sua uscita, **Undertale sembrava avere la missione di starmi sulle balle.**
+Dalla sua uscita, **Undertale sembrava avere come missione lo starmi sulle balle.**
 
 > Perché è stato il classico "tormentone" nerd per un lungo periodo ?
 
@@ -46,11 +46,15 @@ C'è un po' tutto quel discorso sull' **"Infantilismo Maturo"**, che [**ho già 
 
 Ecco: la mia repulsione istintiva partiva anzitutto da lì. 
 
-Sarà che sono vecchio dentro, sarà che **lo [slang di 4chan](https://en.wiktionary.org/wiki/Category:English_4chan_slang) mi disgusta quanto la musica neomelodica partenopea**, ma insomma _che sarà, che sarà, uennever uil bi uil bi_
+Sarà che sono vecchio dentro, sarà che **lo [slang di 4chan](https://en.wiktionary.org/wiki/Category:English_4chan_slang) mi disgusta quanto la musica neomelodica partenopea**, ma insomma.
 
 ![toby fox](http://i0.kym-cdn.com/photos/images/facebook/001/026/176/28c.png)
 
-Siamo sempre nel regno del superficiale, lo so, ma infatti **su questo punto non voglio minimamente criticare il gioco** (che lo "spirito" sopracitato un po' se lo porta effettivamente dietro), mi limito solo a confessare che **già prima del momento dell'avvio ero particolarmente prevenuto nei suoi confronti.**
+Siamo sempre nel regno del superficiale, lo so: 
+
+**su questo punto non voglio minimamente criticare il gioco** (che lo "spirito" sopracitato in parte se lo porta effettivamente dietro). 
+
+Mi limito solo a confessare che **già prima del momento dell'avvio ero particolarmente prevenuto nei suoi confronti.**
 
 ![undertale dog](https://i.ytimg.com/vi/1HHR4S6CIZc/maxresdefault.jpg)
 
@@ -74,9 +78,9 @@ E in questo senso sono stato piacevolmete sorpreso:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tz82xbLvK_k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
-Tanto trama quanto gameplay, grafica e sonoro.
+Tanto trama quanto gameplay, grafica e sonoro risultano strumenti perfettamente accordati nel medesimo concerto.
 
-È quella sensazione che si ha quando **un autore recita il testo da lui scritto ed interpretato**, quella specie di "coerenza stilistica" che in tante occasioni fa davvero la differenza e che, manco a dirlo, viene sempre più spesso a mancare in titoli con dietro team di millemilapersone.
+È quella sensazione che si ha quando **un autore recita il testo da lui scritto ed interpretato**, quella specie di _"coerenza stilistica"_ che in tante occasioni fa davvero la differenza e che, manco a dirlo, viene sempre più spesso a mancare in titoli con team di millemilapersone alle spalle.
 
 ## Un inno d'amore ad Earthbound
 
@@ -88,7 +92,12 @@ Sprite, Soundfont, gameplay e mille altri particolari di Undertale sono paleseme
 
 In questo senso, Undertale porta in seno **una genuina anima da _"hack-rom fusa con una creepypasta"_.**
 
-E nonostante questo potesse rappresentare un limite spaventoso, nell'economia della riuscita del gioco **finisce per diventare un merito.**
+<figure>
+<img src="https://i.ytimg.com/vi/_4OBUhLu5jQ/maxresdefault.jpg" alt="Radiation's Halloween">
+<figcaption>Che era poi Radiation's Halloween, hack ad opera dello stesso Toby Fox</figcaption>
+</figure>
+
+Nonostante questo potesse rappresentare un limite spaventoso, nell'economia del gioco **finisce per diventare un vero e proprio valore aggiunto.**
 
 ## Moon: Remix RPG Adventure
 
