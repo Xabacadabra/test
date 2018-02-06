@@ -86,7 +86,7 @@ I boss infatti andranno molto più spesso sconfitti con una buona dose di strate
 
 ![chrono trigger grafica](https://media.giphy.com/media/OjfDkaI5aAzvi/giphy.gif)
 
-**Visivamente Chrono Trigger è semplicemente bellissimo**, con ogni probabilità uno dei titoli graficamente più sontuosi sviluppati su Super Nintendo e **tuttora uno dei più riusciti esempi di grafpica 2d ancora oggi**, merito senz'altro del tratto di Toriyama che ben si presta alla resa di personaggi in pixelart.
+**Visivamente Chrono Trigger è semplicemente bellissimo**, con ogni probabilità uno dei titoli graficamente più sontuosi sviluppati per Super Nintendo e **tuttora uno dei più riusciti esempi di grafica 2d ancora oggi**, merito senz'altro del tratto di Toriyama che ben si presta alla resa di personaggi in pixelart.
 
 La colonna sonora è altresì un inaudito capolvoro del Mitsuda con l'importante apporto di Noriko Matsueda e del leggendario Uematsu:
 
@@ -99,6 +99,8 @@ Temi medievaleggianti, cupe ballate futuristiche, sinfonie demoniache e ritmi tr
 ![versioni](https://www.chronocompendium.com/images/wiki/thumb/2/2d/T_Resting_at_Luccas.jpg/640px-T_Resting_at_Luccas.jpg)
 
 Chrono Trigger nasce ovviamente per Super Nintendo, ed è stato [tradotto amatorialmente dai soliti grandissimi Sadnes in Italiano](https://www.sadnescity.it/traduzioni/ct/ct.php).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Rc3I8rZCgk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 In seguito sono stati effettuati due porting del gioco: uno per **Playstation** (che aggiunse i filmati stile Anime) e uno per **Nintendo DS** (che aggiunge anche altri elementi, come dungeon o nuovi approfondimenti narrativi).
 
