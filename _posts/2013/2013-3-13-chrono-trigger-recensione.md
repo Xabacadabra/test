@@ -106,7 +106,9 @@ In seguito sono stati effettuati due porting del gioco: uno per **Playstation** 
 
 ## New Game +
 
-Tutte le versioni contengono l'allora innovativa funzione **"New Game+"**, ovvero ricominciare il gioco con tutti gli oggetti e lo stesso livello che abbiamo raggiunto nella precedente partita (questa modalità è spesso indispensabile per ottenere alcuni finali).
+Tutte le versioni contengono l'allora innovativa funzione **"New Game+"**, ovvero ricominciare il gioco con tutti gli oggetti e lo stesso livello che abbiamo raggiunto nella precedente partita. [^new game]
+
+[^new game]: Questa modalità è spesso indispensabile per ottenere alcuni finali e, sebbene non sia stato il primo gioco ad implementarla, il termine generico "New Game Plus" deriva proprio da Chrono Trigger.
 
 ## Conclusioni
 
