@@ -13,7 +13,7 @@ comments: true
 
 Prima di tutto specifico che qui si va a parare direttamente nella Serie A del videogioco: 
 
-Si parla di un vero e proprio mostro sacro del panorama ludico nipponico, **pedissequamente citato** in compagnia dei vari _Final Fantasy_ VI e VII (o di uno [Xenogears](/2016/xenogears) in sordina) **nelle varie, inutilissime classifiche alla costante ricerca del _"JRPG più bello di sempre"_**.
+Si parla di un vero e proprio mostro sacro del panorama ludico nipponico, **pedissequamente citato** in compagnia dei vari _Final Fantasy_ VI e VII (o di uno [Xenogears](/2016/xenogears-recensione) in sordina) **nelle varie, inutilissime classifiche alla costante ricerca del _"JRPG più bello di sempre"_**.
 
 Beh, sapete che c'è ?
 
@@ -44,9 +44,9 @@ Incentrata sul **viaggio nel tempo e sui paradossi tanto cari al relativo archet
 
 Partendo da un'ideale anno 1000, dal setting tra il medievale e l'ottocentesco <small>(Studio Ghibli che cola)</small>, avremo occasione di scoprire man mano **le varie epoche del mondo di Chrono Trigger, assaporandone la storia e scoprendo l'evoluzione delle genti che lo abitano.**
 
-## Apparenze
+![chrono trigger 1000](http://24.media.tumblr.com/tumblr_ma05hdInVg1r00g1wo1_500.gif)
 
-![ayla](https://www.chronocompendium.com/images/wiki/thumb/f/f3/T_Dactyl_Ride_Custom_Levels.jpg/640px-T_Dactyl_Ride_Custom_Levels.jpg)
+## Apparenze
 
 Chrono Trigger è un po' gigione. 
 
@@ -55,6 +55,8 @@ Cioè, è **il classico prodotto di stampo giapponese che viene narrato con toni
 Colpi di scena e intrecci temporali non mancheranno e, a seconda delle azioni del giocatore, uno dei ben **14 finali**. [^finali]
 
 [^finali]: Ufficialmente dovrebbero essere 10, ma se si considera l'eventualità "game over" e qualche variante tra alcuni finali minori dovrebbero essere 14 se non sbaglio
+
+![ayla](https://www.chronocompendium.com/images/wiki/thumb/f/f3/T_Dactyl_Ride_Custom_Levels.jpg/640px-T_Dactyl_Ride_Custom_Levels.jpg)
 
 Anche in questo senso, **Chrono Trigger rappresenta un JRPG piuttosto atipico:**
 
