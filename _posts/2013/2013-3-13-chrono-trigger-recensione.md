@@ -86,7 +86,7 @@ I boss infatti andranno molto più spesso sconfitti con una buona dose di strate
 
 ![chrono trigger grafica](https://media.giphy.com/media/OjfDkaI5aAzvi/giphy.gif)
 
-**Visivamente Chrono Trigger è semplicemente bellissimo**, con ogni probabilità uno dei titoli graficamente più sontuosi sviluppati per Super Nintendo e **tuttora uno dei più riusciti esempi di grafica 2d ancora oggi**, merito senz'altro del tratto di Toriyama che ben si presta alla resa di personaggi in pixelart.
+**Visivamente Chrono Trigger è semplicemente bellissimo**, con ogni probabilità uno dei titoli graficamente più sontuosi sviluppati per Super Nintendo e **tuttora uno dei più riusciti esempi di grafica 2d**, merito senz'altro del tratto di Toriyama che ben si presta alla resa di personaggi in pixelart.
 
 La colonna sonora è altresì un inaudito capolvoro del Mitsuda con l'importante apporto di Noriko Matsueda e del leggendario Uematsu:
 
