@@ -52,15 +52,15 @@ Chrono Trigger è un po' gigione.
 
 Cioè, è **il classico prodotto di stampo giapponese che viene narrato con toni leggeri e spensierati**, pur presentando **una storyline piuttosto complessa** che richiede una certa partecipazione del giocatore per essere compresa appieno.
 
-Colpi di scena e intrecci temporali non mancheranno e, a seconda delle azioni del giocatore, uno dei ben **14 finali**. [^finali]
+Colpi di scena e intrecci temporali non mancheranno e, a seconda delle azioni del giocatore, la scoperta di uno dei ben **14 finali** disponibili. [^finali]
 
 [^finali]: Ufficialmente dovrebbero essere 10, ma se si considera l'eventualità "game over" e qualche variante tra alcuni finali minori dovrebbero essere 14 se non sbaglio
 
 ![ayla](https://www.chronocompendium.com/images/wiki/thumb/f/f3/T_Dactyl_Ride_Custom_Levels.jpg/640px-T_Dactyl_Ride_Custom_Levels.jpg)
 
-Anche in questo senso, **Chrono Trigger rappresenta un JRPG piuttosto atipico:**
+Anche in questo senso, **Chrono Trigger rappresentò un JRPG piuttosto atipico:**
 
-Rispetto alla linearità tipica del genere infatti, il gioco vanta una sua sorta di _dinamicità_ di fondo, che spesso mette (più o meno consapevolmente) alla prova il giocatore, dando a quest'ultimo **l'opportunità di influenzare uno svariato numero di eventi a suo piacimento - o suo malgrado.**
+Rispetto alla linearità tipica del genere infatti, Chrono Trigger vanta una sua sorta di _dinamicità_ di fondo, che spesso mette (più o meno consapevolmente) alla prova il giocatore, dando a quest'ultimo **l'opportunità di influenzare uno svariato numero di eventi a suo piacimento - o suo malgrado.**
 
 ## Gameplay
 
