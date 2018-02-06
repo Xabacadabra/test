@@ -114,6 +114,6 @@ Tutte le versioni contengono l'allora innovativa funzione **"New Game+"**, ovver
 
 Chrono Trigger ha oramai i suoi annetti sulle spalle e non vanta la parvenza seriosa che tanto piace ad un certo tipo di videogame moderno, ma nonostante questo **è riuscito a fare breccia nel cuore di tanti giocatori di tutte le età**.
 
-Personalmente, credo che giocarselo _almeno_ una volta sia un po' un obbligo morale che ogni appassionato di JRPG che si rispetti dovrebbe assolvere ❤️ ️ 
+Personalmente, credo che giocarselo _almeno_ una volta sia un po' un obbligo morale per ogni appassionato di JRPG che si rispetti ❤️ ️ 
 
 ![the end](https://www.chronocompendium.com/images/wiki/5/50/Eoath.png)
