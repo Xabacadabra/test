@@ -42,7 +42,7 @@ Questi sono _alcuni_ dei nomi principali, ma moltissimi altri pesi massimi del s
 
 Incentrata sul **viaggio nel tempo e sui paradossi tanto cari al relativo archetipo narrativo**, la trama di Chrono Trigger risulta caratterizzata da uno sviluppo fresco ed originale:
 
-Partendo da un'ideale anno 1000, dal setting tra il medievale e l'ottocentesco <small>(Studio Ghibli che cola)</small>, avremo occasione di scoprire man mano **le varie epoche del mondo di Chrono Trigger, assaporandone la storia e scoprendo l'evoluzione delle genti che lo abitano.**
+Partendo da un ideale anno 1000, dal setting tra il medievale e l'ottocentesco <small>(Studio Ghibli che cola)</small>, avremo occasione di scoprire man mano **le varie epoche del mondo di Chrono Trigger, assaporandone la storia e scoprendo l'evoluzione delle genti che lo abitano.**
 
 ![chrono trigger 1000](http://24.media.tumblr.com/tumblr_ma05hdInVg1r00g1wo1_500.gif)
 
