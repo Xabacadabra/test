@@ -74,7 +74,7 @@ Il fatto che Undertale fosse stato sviluppato con **GameMaker** [^gamemaker] mi 
 
 E in questo senso sono stato piacevolmete sorpreso: 
 
-**La creatività ed il "senso artigianale" di Fox sono infatti encomiabili**, specialmente nel senso di coesione che permea ogni suo comparto:
+**La creatività ed il "gusto artigianale" di Fox sono infatti encomiabili**, specialmente nel senso di coesione che permea ogni suo comparto:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tz82xbLvK_k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
@@ -169,7 +169,9 @@ Probabile.
 
 > Insopportabile cavallo di battaglia per gli "indie gamer" radical chic?
 
-Certamente! <small>(più o meno quanto Dark Souls lo è per buona parte dei famigerati "hardcore gamer")</small>
+Certamente! [^hardcore]
+
+[^hardcore]: Ma ne più ne meno di quanto un bellissimo Dark Souls può esserlo per i famigerati "hardcore gamer" del caso: al solito, "il problema non è il soggetto, sono i fan"
 
 > Un gioco per tutti i palati ?
 
