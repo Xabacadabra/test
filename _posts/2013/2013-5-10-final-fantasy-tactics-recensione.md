@@ -65,7 +65,7 @@ Va detto inoltre che, se questo di solito non è mai stato un problema insormont
 
 Gaffgarion Final Fantasy Tactics italiano
 
-Fortunatamente (manco a dirlo) corsero al nostro soccorso i soliti fenomenali Sadnes con la loro splendida traduzione (terminata solo negli anni recenti) scritta in modo encomiabile e, vista l'ambientazione, piacevolmente a tema (laddove forse "sentire" Barret e Cloud in Italiano poteva risultare vagamente più indigesto, un gioco dai toni medievaleggianti qual'è Final Fantasy Tactics con l'italiano ci va letteralmente a nozze)
+Fortunatamente (manco a dirlo) corsero al nostro soccorso i soliti fenomenali Sadnes con la loro splendida traduzione (terminata solo negli anni recenti) scritta in modo encomiabile e, vista l'ambientazione, piacevolmente a tema (laddove forse "sentire" Barret e Cloud in Italiano poteva risultare vagamente più indigesto, un gioco dai toni medievaleggianti qual è Final Fantasy Tactics con l'italiano ci va letteralmente a nozze)
 
 ## Conclusioni
 

@@ -57,7 +57,7 @@ Quello più noto ai giovini e al pubblico mainstream, concepito da **Eidos Montr
 
 Ecco, se conoscete un pochino questo blog ora vi aspetterete una condanna nostalgica, uno sputtanamento cinico e caustico pieno di girelle...ed in effetti confesso che, prima di giocarlo, **un po' me lo sarei aspettato anche io:**
 
-**Sequel, remake, reboot e riesumazioni di vecchi classici in salsa moderna mi mettono tendenzialmente sul chi vive** e, parlando di un gioco importante qual'è stato Deus Ex, ammetto di essermi avvicinato a questo pargolo dalle tinte seppiose con tutti i pregiudizi del caso, soprattutto perché non vedo mai di buon occhio una serie che prosegue senza il proprio creatore.
+**Sequel, remake, reboot e riesumazioni di vecchi classici in salsa moderna mi mettono tendenzialmente sul chi vive** e, parlando di un gioco importante qual è stato Deus Ex, ammetto di essermi avvicinato a questo pargolo dalle tinte seppiose con tutti i pregiudizi del caso, soprattutto perché non vedo mai di buon occhio una serie che prosegue senza il proprio creatore.
 
 Salta fuori che, invece, **la storia di Adam Jensen mi è piaciuta tantissimo**:
 

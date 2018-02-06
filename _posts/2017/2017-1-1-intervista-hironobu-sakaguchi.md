@@ -111,7 +111,7 @@ Lavora da solo nel suo studio di Nagoya. Io devo solo dirgli lo scenario, la mia
 
 Sono sempre stato un grandissimo fan del lavoro di Toriyama, e penso che tutti lo siano. Lavorare con Toriyama è stato il mio sogno più grande e volevo semplicemente farlo. Non m'importava di un'eventuale sovrapposizione stilistica con _Dragon Quest_ fintanto potessi finalmente lavorare con lui. E continuo a pensarla allo stesso modo.
 
-**_Blue Dragon_ ha avuto sia Toriyama che Uematsu nel team di sviluppo, un eredità del _Chrono_ Team. Qual'è stata la parte più soddisfacente dello sviluppo di quel gioco ?**
+**_Blue Dragon_ ha avuto sia Toriyama che Uematsu nel team di sviluppo, un eredità del _Chrono_ Team. qual è stata la parte più soddisfacente dello sviluppo di quel gioco ?**
 
 Quando ho visto per la prima volta le illustrazioni di Toriyama-san, ovviamente. Ma volevo che il gioco si percepisse come una [claymation](https://it.wikipedia.org/wiki/Claymation). Non troppo realistico, ma nel modo in cui la luce si rifletteva sui personaggi. Quando ho visto per la prima volta i personaggi di _Blue Dragon_ muoversi in un ambiente concepito per il 3D, quella è stata un'esperienza emozionante.
 

@@ -55,7 +55,7 @@ Tutto ciò che sapevo era che si trattava di una compagnia di videogiochi, e che
 
 Mai! Ancor oggi non gioco minimamente ai videogiochi.
 
-**Qual'è stato il suo primo lavoro dopo che è stata assunta dalla Square ?**
+**qual è stato il suo primo lavoro dopo che è stata assunta dalla Square ?**
 
 Le illustrazioni per il libretto delle istruzioni di [_Alpha_](https://www.youtube.com/watch?v=6fuDz8pa6HQ). Però i miei ricordi di quel periodo sono un po' fumosi. [risate]
 

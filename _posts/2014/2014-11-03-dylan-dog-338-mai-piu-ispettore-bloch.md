@@ -54,7 +54,7 @@ Cioè, a vedersi, con la cover di Stano che va ad aggiungersi ai quattro miliard
 
 Invece **questo 338 scorre via in modo naturale**, come se in fin dei conti tutti ci aspettassimo che il nostro ispettore, se proprio doveva raggiungerla, la pensione l'avrebbe presa così.
 
-E per un personaggio tanto complesso qual'è Bloch riuscire a portare a casa il risultato non era affatto cosa da poco, quindi chapeau.
+E per un personaggio tanto complesso qual è Bloch riuscire a portare a casa il risultato non era affatto cosa da poco, quindi chapeau.
 
 ## Disegni
 <figure>

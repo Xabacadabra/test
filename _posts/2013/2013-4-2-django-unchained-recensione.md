@@ -48,7 +48,7 @@ _E dici poco!_
 
 Potrebbero obbiettare in molti, ed in effetti probabilmente c'avrebbero pure ragione.
 
-è che da un regista _esagerato_ (nel bene e nel male) qual'è Tarantino uno s'aspetta sempre quel qualcosina in più, quel batticuore innamorato che ti ha lasciato un Pulp Fiction che però, com'è naturale, non può ripetersi tanto facilmente
+è che da un regista _esagerato_ (nel bene e nel male) qual è Tarantino uno s'aspetta sempre quel qualcosina in più, quel batticuore innamorato che ti ha lasciato un Pulp Fiction che però, com'è naturale, non può ripetersi tanto facilmente
 
 ## Foxx e Di Caprio
 

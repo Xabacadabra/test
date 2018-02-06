@@ -14,7 +14,7 @@ comments: true
 
 Esiste un'ancestrale domanda che ci si pone sin dalla fine di _Non è la Rai_ :
 
-Perchè un bello shonen* qual'è Dragon Ball è assurto al livello di tortura medievale / strumento di manipolazione di massa / religione di stato / insomma, un degno sostituto dell'Azione Cattolica per i pischelli ?
+Perchè un bello shonen* qual è Dragon Ball è assurto al livello di tortura medievale / strumento di manipolazione di massa / religione di stato / insomma, un degno sostituto dell'Azione Cattolica per i pischelli ?
 
 * per i non-mangofili: per shonen s'intende animemanga beceramente indirizzati ai ragazzi, di quelli senza complessi ricciosi, riferimenti biblici, gatti soffocati nelle scatole e via dicendo - si Ikari, è TE CHE STO GUARDANDO! - questi altri per la cronaca si chiamano seinen  
 
