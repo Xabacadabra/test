@@ -41,14 +41,14 @@ C'è un po' tutto quel discorso sull' **"Infantilismo Maturo"**, che [**ho già 
 ## 'Sto gioco pare partorito da 4chan
 
 <figure>
-<img src="https://i0.kym-cdn.com/photos/images/original/001/063/828/0c3.png" alt="4chan">
+<img src="https://www.wykop.pl/cdn/c3201142/comment_QnKs4KLvF3tGfWnCvYsQhtWjwhl3F2mZ.jpg" alt="4chan">
 </figure>
 
 Ecco: la mia repulsione istintiva partiva anzitutto da lì. 
 
 Sarà che sono vecchio dentro, sarà che **lo [slang di 4chan](https://en.wiktionary.org/wiki/Category:English_4chan_slang) mi disgusta quanto la musica neomelodica partenopea**, ma insomma.
 
-![toby fox](https://i0.kym-cdn.com/photos/images/facebook/001/026/176/28c.png)
+![undertale meme](https://vignette.wikia.nocookie.net/steven-universe/images/4/4d/CAg9-l64_400x400.jpg)
 
 Siamo sempre nel regno del superficiale, lo so: 
 
