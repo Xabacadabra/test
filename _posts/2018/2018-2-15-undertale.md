@@ -125,7 +125,7 @@ Potrà sembrare un dettaglio da cultori della storia del videogioco ma, come ved
 
 Undertale è un titolo peculiare che **vuole sentitamente essere ciò che è, senza strizzare goffamente l'occhio alla nicchia che ha inevitabilmente finito per innamorarsi di lui**.
 
-![undertale](https://undertale.com/assets/images/screen6.png)
+![undertale](https://undertale.com/assets/images/screen8.png)
 
 Retrò, grezzo, colmo di enigmi e visionario nei combattimenti, è **un videogame forte di una semplice (ma originale) filosofia di fondo**, interpretabile a diretta discrezione del giocatore in una ben cucinata miscela tra libero arbitrio da RPG occidentale e classici stilemi dei JRPG del Sol Levante.
 
@@ -137,7 +137,7 @@ Se da un lato **i personaggi e la trama di Undertale hanno forse raccolto fin tr
 
 [^discorso]: Certamente il mio è un discorso inficiato dai miei - ben lontani - gusti, intendiamoci.
 
-![undertale](https://undertale.com/assets/images/screen8.png)
+![undertale](https://undertale.com/assets/images/screen6.png)
 
 La cosa si traduce in modo evidente anche **nell'originale gestione dei finali**, nei colpi di scena nascosti rivelabili solo dalle azioni del giocatore, e **dall'utilizzo spregiudicato e molto ispirato dei savegame** (detta così potrà suonare strano, ma chi ha finito il gioco capirà ciò che intendo). 
 
