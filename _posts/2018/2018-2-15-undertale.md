@@ -120,12 +120,12 @@ Potrà sembrare un dettaglio da cultori della storia del videogioco ma, come ved
 ## Onesto con se stesso
 
 <figure>
-<img src="https://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_b9018c41cea2bdfb150609bedfca99b16a5af02a.1920x1080.jpg" alt="Undertale">
+<img src="https://undertale.com/assets/images/screen7.png" alt="Undertale">
 </figure>
 
 Undertale è un titolo peculiare che **vuole sentitamente essere ciò che è, senza strizzare goffamente l'occhio alla nicchia che ha inevitabilmente finito per innamorarsi di lui**.
 
-![undertale](https://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_6ded97a2c98473ac1e8a2b3c1419d93fb31b1186.1920x1080.jpg)
+![undertale](https://undertale.com/assets/images/screen6.png)
 
 Retrò, grezzo, colmo di enigmi e visionario nei combattimenti, è **un videogame forte di una semplice (ma originale) filosofia di fondo**, interpretabile a diretta discrezione del giocatore in una ben cucinata miscela tra libero arbitrio da RPG occidentale e classici stilemi dei JRPG del Sol Levante.
 
@@ -137,7 +137,7 @@ Se da un lato **i personaggi e la trama di Undertale hanno forse raccolto fin tr
 
 [^discorso]: Certamente il mio è un discorso inficiato dai miei - ben lontani - gusti, intendiamoci.
 
-![undertale](https://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_9025a366676c26046b1d08e94ab1a73406aa11db.1920x1080.jpg)
+![undertale](https://undertale.com/assets/images/screen8.png)
 
 La cosa si traduce in modo evidente anche **nell'originale gestione dei finali**, nei colpi di scena nascosti rivelabili solo dalle azioni del giocatore, e **dall'utilizzo spregiudicato e molto ispirato dei savegame** (detta così potrà suonare strano, ma chi ha finito il gioco capirà ciò che intendo). 
 
@@ -150,7 +150,7 @@ Come anticipavo tutto questo va unito al merito (e alla fortuna) dell'aver indiv
 Sono abbastanza certo che, fosse stato realizzato nel 2009, **Undertale sarebbe passato alla storia come una circoscritta leggenda nell'allora ridotta scena indie**.
 
 <figure>
-<img src="https://cdn.edgecast.steamstatic.com/steam/apps/650700/header.jpg" alt="yume nikki">
+<img src="https://vignette.wikia.nocookie.net/yumenikki/images/7/7d/Thenexus.jpg" alt="yume nikki">
 <figcaption>Sì, tipo Yume Nikki
 </figcaption>
 </figure>
