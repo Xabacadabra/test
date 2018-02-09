@@ -17,7 +17,7 @@ comments: true
 Hello, America.
 
 <figure>
- <img src='http://dwjx78790mroz.cloudfront.net/wp-content/uploads/2016/05/22100200/50172405_trumpmelaniapiano.jpg' alt='donald trump melania piano'>
+ <img src='https://dwjx78790mroz.cloudfront.net/wp-content/uploads/2016/05/22100200/50172405_trumpmelaniapiano.jpg' alt='donald trump melania piano'>
  <figcaption>Vintage!</figcaption>
  </figure>
 
@@ -57,7 +57,7 @@ Il potenziale pubblico di un film tratto da _Death Note_ da un'operazione del ge
 ## Braccobaldi Oggettivi
 
 <figure>
-<img src='http://digiphotostatic.libero.it/AstinenteMioMalgrado/med/615e2a5bdc_2149606_med.jpg' alt='Braccobaldo'>
+<img src='https://digiphotostatic.libero.it/AstinenteMioMalgrado/med/615e2a5bdc_2149606_med.jpg' alt='Braccobaldo'>
 </figure>
 
 Perché intendiamoci, **potrebbe pure venir fuori un bel film.** [^potrebbe]
@@ -87,7 +87,7 @@ In generale gli esempi di rifacimenti meritevoli si sprecano...**tuttavia, il di
 ## Memoria Collettiva
 
 <figure>
-<img src='http://www.animeclick.it/prove/img_tmp/63230.jpg' alt='death note'>
+<img src='https://www.animeclick.it/prove/img_tmp/63230.jpg' alt='death note'>
 </figure>
 
 Anzitutto **_Death Note_ è un manga abbastanza recente (2003), ed un prodotto dallo _spropositato_ successo internazionale:** 

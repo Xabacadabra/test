@@ -58,7 +58,7 @@ Sono alle prese con la fase embrionale di **un esperimento molto personale abbas
 
 Appena possibile **vorrei provare a tornare a cimentarmi in qualcosa di "collettivo" a livello web**, concretizzando troppe idee rimaste per aria nel corso degli anni spostandole su piattaforme e settori tutti diversi, che personalmente non ho mai affrontato prima e confesso mi spaventano un po'. 
 
-Per adesso mi sento di dire solo che **conto sulla partecipazione del buon vecchio zio [Arc](http://www.arcweb.it/)** e spero di dare ulteriori news entro la fine dell'estate 😄
+Per adesso mi sento di dire solo che **conto sulla partecipazione del buon vecchio zio [Arc](https://www.arcweb.it/)** e spero di dare ulteriori news entro la fine dell'estate 😄
 
 ### Master! Master! Where’s the dreams that I’ve been after?
 
@@ -74,7 +74,7 @@ Dovessi dire, **consiglierei a tutti gli sviluppatori di rispolverarsi un po' la
 
 ### Distant Worlds
 
-Tra qualche settimana andrò a vedermi il concertone [**Distant Worlds**](http://www.ffdistantworlds.com/concert/milan/) e per la prospettiva sono già _eccitato come uno scolaretto_...se riesco due righe in merito le vorrei buttare giù, ma **dubito in eventuali reportage chilometrici, perché la musica di Nobuo Uematsu per me è fondamentalmente qualcosa di sacro**: ogni volta che tento di descriverla soffro di un certo timore reverenziale. Quindi boh, vedremo!
+Tra qualche settimana andrò a vedermi il concertone [**Distant Worlds**](https://www.ffdistantworlds.com/concert/milan/) e per la prospettiva sono già _eccitato come uno scolaretto_...se riesco due righe in merito le vorrei buttare giù, ma **dubito in eventuali reportage chilometrici, perché la musica di Nobuo Uematsu per me è fondamentalmente qualcosa di sacro**: ogni volta che tento di descriverla soffro di un certo timore reverenziale. Quindi boh, vedremo!
 
 ### Thimbleweed Park e via giocando
 

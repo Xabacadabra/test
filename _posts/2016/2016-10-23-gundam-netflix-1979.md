@@ -54,7 +54,7 @@ Escludendo gli sporadici _Robotech_ e _Yattaman_ del caso o la moderna serie di 
 ## Pregiudizi
 
 <figure>
-<img src="http://i.imgur.com/67ZsLDp.jpg" alt="gundam">
+<img src="https://i.imgur.com/67ZsLDp.jpg" alt="gundam">
 </figure>
 
 Non so se i miei gusti siano stati deviati da queste scelte televisive o si parli di una fortunata coincidenza, ma sta di fatto che **nel mio cervello _Gundam_ ha sempre rappresentato una roba brutta**, pensata a tavolino per vendere modellini di robot ancora più brutti.
@@ -64,7 +64,7 @@ Non so se i miei gusti siano stati deviati da queste scelte televisive o si parl
 ## Netflix
 
 <figure>
-<img src="http://i2.hd-cdn.it/img/max_width1000/id535810_1.jpg" alt="gundam">
+<img src="https://i2.hd-cdn.it/img/max_width1000/id535810_1.jpg" alt="gundam">
 </figure>
 
 In verità l'amico Gatto (non nel senso felino, ma di amico nerd / compagno di viaggio delle mie spedizioni lucchesi) mi ha sempre esortato a concedere alla leggendaria serie una possibilità, più che altro **per gli aspetti socio-politici che quest'ultima portò in scena.**
@@ -74,7 +74,7 @@ Quindi, **complice l'avvento della serie ridoppiata e ripulita su Netflix**, ho 
 ## Verdetto ?
 
 <figure>
-<img src="http://i295.photobucket.com/albums/mm145/SaotomeAlto/Mobile%20Suit%20Gundam/Mobile%20Suit%20Gundam%200079/rx782-battered.jpg" alt="gundam">
+<img src="https://i295.photobucket.com/albums/mm145/SaotomeAlto/Mobile%20Suit%20Gundam/Mobile%20Suit%20Gundam%200079/rx782-battered.jpg" alt="gundam">
 </figure>
 
 Dopo 7 episodi (opinione sempre superficiale, quindi), posso dire che capisco buona parte delle ragioni che hanno reso Gundam un perno fondamentale nella storia dell'animazione nipponica: 
@@ -86,7 +86,7 @@ Per intenderci, **sostituendo ambientazione spaziale e mobile suit con la vera T
 ## Quindi è bello ?
 
 <figure>
-<img src="http://images.sgcafe.net/2013/07/rx782.jpg" alt="gundam">
+<img src="https://images.sgcafe.net/2013/07/rx782.jpg" alt="gundam">
 </figure>
 
 Di base, fino a questo punto, sì: 
@@ -96,7 +96,7 @@ Certo esiste **l'esasperazione del dramma che la faceva da padrone nel grosso de
 ## Concludendo 
 
 <figure>
-<img src="http://www.fanboy.com/archive-images/gundam-0079-02.jpg" alt="gundam">
+<img src="https://www.fanboy.com/archive-images/gundam-0079-02.jpg" alt="gundam">
 </figure>
 
 Sinceramente, conoscendomi, non so se riuscirò a terminarla: 

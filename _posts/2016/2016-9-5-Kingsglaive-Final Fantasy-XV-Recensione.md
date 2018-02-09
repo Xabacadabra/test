@@ -89,7 +89,7 @@ Ovviamente è una faccenda di gusti e impressioni parecchio superficiali, quindi
 ## Regia
 
 <figure>
-<img src="http://www.rinoadiary.it/wp-content/gallery/news-ffxv/kingsglaive-etro.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+<img src="https://www.rinoadiary.it/wp-content/gallery/news-ffxv/kingsglaive-etro.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
 **Takeshi Nozue**, che aiutò Nomura nella regia di _Advent Children_, qui è l'uomo solo al comando: 
@@ -119,7 +119,7 @@ C'è da dire che **Kingsglaive è stato doppiato anche in italiano** (dal [trail
 ## Trama
 
 <figure>
-<img src="http://s2.dmcdn.net/VG1EE.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+<img src="https://s2.dmcdn.net/VG1EE.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
 Eccoci, siamo arrivati al momento cruciale!
@@ -143,7 +143,7 @@ Non dimentichiamo che **Kingsglaive fa parte di qualcosa di più grande di lui, 
 ## Conclusioni
 
 <figure>
-<img src="http://www.gamesoul.it/wp-content/uploads/2016/06/maxresdefault-1-1.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+<img src="https://www.gamesoul.it/wp-content/uploads/2016/06/maxresdefault-1-1.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
 Sarà che quando si parla di Square Enix le mie aspettative partono sempre sottozero, sarà che il genere, le tematiche e lo stile rientrano perfettamente nelle mie corde, ma **Kingsglaive mi è piaciuto davvero parecchio.**

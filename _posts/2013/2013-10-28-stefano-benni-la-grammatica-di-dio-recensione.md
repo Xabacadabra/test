@@ -20,7 +20,7 @@ Personalmente "conobbi" la figura di Benni circa una decina d'anni fa, quando sc
 ## La grammatica di Dio
 
 <figure>
-<img src='http://1.bp.blogspot.com/-c33KDC_w4_U/Um42SLogBjI/AAAAAAAAFMw/u2u8JS-KC24/s1600/stefano-benni.jpg' alt='Stefano benni'>
+<img src='https://1.bp.blogspot.com/-c33KDC_w4_U/Um42SLogBjI/AAAAAAAAFMw/u2u8JS-KC24/s1600/stefano-benni.jpg' alt='Stefano benni'>
 </figure>
 
 Scritta nel 2007, si tratta di **una raccolta di 25 racconti tra loro estremamente diversi**: 

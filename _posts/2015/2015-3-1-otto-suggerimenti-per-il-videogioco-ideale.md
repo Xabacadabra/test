@@ -132,7 +132,7 @@ Certo, **questa mappa deve anche essere riempita come si deve, magari senza manc
 i cugini JRPG dell'era Play Station in questo senso la sapevano già lunga, così come in altri sensi il primo Baldur's Gate e i vari titoli Bethesda:
 
 <figure>
-<img src='http://3.bp.blogspot.com/-cl09zWNU3Us/VPLr49KmekI/AAAAAAAALkk/GhoJ9m8x7i8/s1600/Final_Fantasy_VII_(PSX)_048.png' alt="Final Fantasy VII">
+<img src='https://3.bp.blogspot.com/-cl09zWNU3Us/VPLr49KmekI/AAAAAAAALkk/GhoJ9m8x7i8/s1600/Final_Fantasy_VII_(PSX)_048.png' alt="Final Fantasy VII">
 <figcaption>C'era molta più soddisfazione a perdersi in quel pugno di pixel che in tanti giochi dalla pompatissima grafica odierna
 </figcaption>
 </figure>
@@ -147,7 +147,7 @@ va bene fare una metropoli ultradettagliata, ma visto che c'è tutto sto spazio,
 
 La parola d'ordine qui dev'essere una: **varietà.**
 
-<small>(No, non [quel genere](http://www.lospettacolo.it/images/2011/12/14/3045.jpg) di varietà.)</small>
+<small>(No, non [quel genere](https://www.lospettacolo.it/images/2011/12/14/3045.jpg) di varietà.)</small>
 
 Il più possibile: 
 

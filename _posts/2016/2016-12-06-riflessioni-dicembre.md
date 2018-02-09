@@ -34,7 +34,7 @@ Beh, **ho votato No dopo essermi letto la riforma articolo per articolo** e, par
 
 <img src='https://cdn2.img.sputniknews.com/images/104813/69/1048136923.jpg' alt='Fidel'>
 
-Risparmio qualsiasi parolona, e [linko direttamente questo splendido articolo di Lia de Feo](http://www.ilcircolo.net/lia/).
+Risparmio qualsiasi parolona, e [linko direttamente questo splendido articolo di Lia de Feo](https://www.ilcircolo.net/lia/).
 
 Da bimbo (circa vent'anni fa) coi miei ho visitato Cuba: mio padre ricorda ancora un tassista a cui chiese _"Che farete quando Fidel morirà?"_
 
@@ -72,11 +72,11 @@ Tanto per fare un veloce riepilogo per il me stesso futuro:
 
 **South Park** -> che, in un modo o nell'altro, riesce ad essere sempre straordinariamente sul pezzo (member?)
 
-**BoJack Horseman** -> che sinceramente a pelle pensavo mi avrebbe fatto tremendamente cagare, e invece mi sta intrigando (al momento in cui scrivo sono alla S01E08), ringrazio il buon [**Arc**](http://www.arcweb.it/) per aver insistito tanto nel farmela conoscere!
+**BoJack Horseman** -> che sinceramente a pelle pensavo mi avrebbe fatto tremendamente cagare, e invece mi sta intrigando (al momento in cui scrivo sono alla S01E08), ringrazio il buon [**Arc**](https://www.arcweb.it/) per aver insistito tanto nel farmela conoscere!
 
 ## A cosa sto giocando?
 
-<img src='http://www.pontofrio-imagens.com.br/html/conteudo-produto/336/2890879/imagens/jogo-dark-souls-2-x360-1.jpg' alt='Dark Souls 2'>
+<img src='https://www.pontofrio-imagens.com.br/html/conteudo-produto/336/2890879/imagens/jogo-dark-souls-2-x360-1.jpg' alt='Dark Souls 2'>
 
 Da queste parti non ho avuto modo/tempo/voglia di scriverlo come si deve, **ma mesi fa mi sono perdutamente innamorato di _Dark Souls_** e ora mi sto dedicando al suo diretto sucessore (sì, essendo povero [^povero] mi compro giochi in saldo diversi anni dopo i _dayone_): 
 
@@ -90,7 +90,7 @@ Nel complesso, comunque, **mi duole dire che trovo _Dark Souls 2_ artisticamente
 
 ## Vampiri, Masquerade e Vecchio Mondo di Tenebra
 
-<img src='http://2.bp.blogspot.com/-Ehx106tDj5c/UmJSr1Cy01I/AAAAAAAAE5k/FGxrVx8-tqk/s1600/vampiri-la-masquerade.jpg' alt='vampiri-la-masquerade'>
+<img src='https://2.bp.blogspot.com/-Ehx106tDj5c/UmJSr1Cy01I/AAAAAAAAE5k/FGxrVx8-tqk/s1600/vampiri-la-masquerade.jpg' alt='vampiri-la-masquerade'>
 
 Per un motivo e per l'altro mi sto ritrovado a spulciare di nuovo gli splendidi vecchi manuali della White Wolf...
 

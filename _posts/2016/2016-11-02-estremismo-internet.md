@@ -78,7 +78,7 @@ E, come sappiamo, nel mondo social **l'interazione è tutto:**
 In linea di massima **quando guardiamo sulla home di Facebook i primi post che ci appaiono sono quelli più commentati**, anche a prescindere dai like...
 
 <figure>
-<img src='http://vignette3.wikia.nocookie.net/epicrapbattlesofhistory/images/3/3e/Comments_of_michael_jackson_eating_popcorn.jpg' alt='sono qui solo per i commenti'>
+<img src='https://vignette3.wikia.nocookie.net/epicrapbattlesofhistory/images/3/3e/Comments_of_michael_jackson_eating_popcorn.jpg' alt='sono qui solo per i commenti'>
 </figure>
 
 e, in ogni caso, **un like è una reazione che non suscita certo il senso di curiosità portato da un commento**, pure dovesse trattarsi del peggiore dell'universo.
@@ -88,7 +88,7 @@ E che cos'è che spinge la gente a commentare tanto e di continuo sotto il medes
 **Un flame.**
 
 <figure>
-<img src='http://www.blogcdn.com/www.switched.com/media/2010/10/wrongoninternet.jpg' alt='flame'>
+<img src='https://www.blogcdn.com/www.switched.com/media/2010/10/wrongoninternet.jpg' alt='flame'>
 </figure>
 
 Una litigata, detta molto banalmente.

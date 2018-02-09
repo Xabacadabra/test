@@ -20,7 +20,7 @@ Lucca mi piace davvero tanto.
 Mi piace il fatto che ci siano un sacco di fumettisti fighissimi, tutta sta matranga di persone che si danno zainate e corrono in giro, cosplay sempre più nuovi (tanto che ahimè ne avrò riconosciuti solo un quarto, quasi sempre quelli di personaggi più "stagionati"...), **la massa e il casino di un popolo che sento mio confratello** (e sono un noto sociopatico asociale, sia chiaro!)
 
 <figure>
-	<img src="http://1.bp.blogspot.com/-n233V3P7c8g/VFUKwvSBf1I/AAAAAAAAKyk/8Hz0zqObZwM/s1600/100_1819.JPG" alt="Bottino">
+	<img src="https://1.bp.blogspot.com/-n233V3P7c8g/VFUKwvSBf1I/AAAAAAAAKyk/8Hz0zqObZwM/s1600/100_1819.JPG" alt="Bottino">
 	<figcaption>Poca roba ma buona, nell'ordine:
 
 1) Un giornale che davano aggratis (ma vuoi mettere la porca figura di Bud Spencer?!)
@@ -31,7 +31,7 @@ Mi piace il fatto che ci siano un sacco di fumettisti fighissimi, tutta sta matr
 </figure>	
 
 <figure>
-	<img src="http://3.bp.blogspot.com/-lI0aA4XVcAA/VFUNw-fIHqI/AAAAAAAAKy8/w7qIDiJP1xs/s1600/harlockebigboss.jpeg">
+	<img src="https://3.bp.blogspot.com/-lI0aA4XVcAA/VFUNw-fIHqI/AAAAAAAAKy8/w7qIDiJP1xs/s1600/harlockebigboss.jpeg">
 	<figcaption>Voi non potete capire quanto sia stato epico per me vedere Capitan Harlock e Big Boss (Metal Gear) bazzicare per Lucca fianco a fianco. Il capolavoro, basta.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ A tal proposito si ringrazia vivamente **Gatto**, guidatore paladino che m'ha ac
 PS: La Japan Town è stata più comoda, ma il Japan Place era più figo
 
 <figure>
-	<img src="http://1.bp.blogspot.com/-sB3k9Gxwyms/VFUMVId1vlI/AAAAAAAAKyw/KrbntLiqQOQ/s1600/ioedelsa.jpeg">
+	<img src="https://1.bp.blogspot.com/-sB3k9Gxwyms/VFUMVId1vlI/AAAAAAAAKyw/KrbntLiqQOQ/s1600/ioedelsa.jpeg">
 </figure>
 
 PPS: sono tanto contento :D

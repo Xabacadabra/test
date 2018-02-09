@@ -15,7 +15,7 @@ published: true
 comments: true
 ---
 
-Per prima cosa, se non sapete cos'è il Movimento Arturo vi rimando a [questa puntata](http://www.raiplay.it/video/2017/02/Gazebo-Social-News-823e96cb-eec3-48e9-85c6-0ab4a90558a2.html) di Gazebo...altrimenti date un'occhiata a qualche quotidiano online, io non me la sento di fare troppi *spiegoni* nel merito.
+Per prima cosa, se non sapete cos'è il Movimento Arturo vi rimando a [questa puntata](https://www.raiplay.it/video/2017/02/Gazebo-Social-News-823e96cb-eec3-48e9-85c6-0ab4a90558a2.html) di Gazebo...altrimenti date un'occhiata a qualche quotidiano online, io non me la sento di fare troppi *spiegoni* nel merito.
 
 ## Constatazioni 
 
@@ -56,7 +56,7 @@ Sogno **pochi slogan e poche tifoserie**, niente parolacce e insulti, ma una rea
 
 Non m'interessano **soluzioni semplici a problemi complessi, preferisco scelte impopolari figlie di un programma e di un ragionamento coerente con la propria visione del mondo, un piano che non vada adattandosi all'aria che tira o al singolo caso che esplode.**
 
-Insomma, Un Partito con delle priorità chiare in testa **aldilà dei trend su twitter o nei telegiornali**, che si occupi della faccenda immigrazione in modo serio come a quanto pare sta facendo [Milena Gabanelli](http://www.ilfattoquotidiano.it/2017/01/03/migranti-gabanelli-leuropa-ci-paghi-per-una-degna-accoglienza-a-controllo-pubblico/3294395/), (giornalista lontana dalle varie forze politiche in campo), **un Partito radicato nel territorio ma con al tempo stesso una visione globale.**
+Insomma, Un Partito con delle priorità chiare in testa **aldilà dei trend su twitter o nei telegiornali**, che si occupi della faccenda immigrazione in modo serio come a quanto pare sta facendo [Milena Gabanelli](https://www.ilfattoquotidiano.it/2017/01/03/migranti-gabanelli-leuropa-ci-paghi-per-una-degna-accoglienza-a-controllo-pubblico/3294395/), (giornalista lontana dalle varie forze politiche in campo), **un Partito radicato nel territorio ma con al tempo stesso una visione globale.**
 
 ## Arturiani Nostalgici 
 
@@ -74,7 +74,7 @@ Ma ecco, **proprio per questo ritengo che il Movimento Arturo debba rimanere sol
 
 Anzitutto perché **Gazebo è MOLTO più di questo simpatico umorismo:**
 
-Certo è divertimento, caciara, ma anche [**inchieste giornalistiche serissime che sono spesso un pugno al cuore.**](http://www.rai.tv/dl/RaiTV/programmi/media/ContentItem-20a8283f-80c2-4069-87f1-d9fef7e35e76.html)
+Certo è divertimento, caciara, ma anche [**inchieste giornalistiche serissime che sono spesso un pugno al cuore.**](https://www.rai.tv/dl/RaiTV/programmi/media/ContentItem-20a8283f-80c2-4069-87f1-d9fef7e35e76.html)
 
 E, anche in questo senso, forse è bene che il *"bel gioco duri poco"*, perché così non fosse non lo seguirei con tanta costanza da così tanto tempo. 
 

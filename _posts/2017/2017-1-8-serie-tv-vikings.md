@@ -18,7 +18,7 @@ Nessuno Spoiler, tranquilli: solo qualche generica osservazione sparsa nel pieno
 ## Cosa c'insegna Vikings ?
 
 <figure>
-	<img src='http://thedockyards.com/wp-content/uploads/2015/08/Floki.jpg' alt='Vikings'>
+	<img src='https://thedockyards.com/wp-content/uploads/2015/08/Floki.jpg' alt='Vikings'>
 </figure>
 
 Anzitutto che **la Storia è sexy.**
@@ -61,7 +61,7 @@ Allo stesso modo, in genere **una persona è ciò che è ed avrà un determinato
 ## La "palude" di Westeros
 
 <figure>
-	<img src='http://screencrush.com/442/files/2014/05/dae.jpg' alt='Game of Thrones'>
+	<img src='https://screencrush.com/442/files/2014/05/dae.jpg' alt='Game of Thrones'>
 	<figcaption>Ok, Emilia Clarke è una bella figliola e tutto, ma personalmente Daenerys la trovo un po' l'emblema di tutto il discorso qui sotto</figcaption>
 </figure>
 

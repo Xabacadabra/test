@@ -23,13 +23,13 @@ Il fatto è che, come spiegavo [un paio di settimane fa](/2017/pausetta/), la mu
 
 > Non ho mai studiato musica. Non ho mai studiato composizione o imparato a suonare uno strumento. Volevo semplicemente realizzare musica per me stesso, così ho cominciato a suonare un po'.
 
-<small>Nobuo Uematsu [(fonte)](http://daily.redbullmusicacademy.com/2014/10/nobuo-uematsu-interview) </small>
+<small>Nobuo Uematsu [(fonte)](https://daily.redbullmusicacademy.com/2014/10/nobuo-uematsu-interview) </small>
 
 Anni fa citavo lo stesso Uematsu per trattare [**la questione dei limiti tecnici**](/2015/nobuo-uematsu-e-la-bellezza-dei-limiti/) e di quanto quest'ultimi (per paradosso) abbiano spinto oltre in termini di creatività parecchi autori e artisti legati al meraviglioso mondo dei videogames.
 
 ## Soundfont 
 
-Senza divagare, giovando dell'esperienza del grandissimo [**William Kage**](http://www.williamkage.com/snes_soundfonts/), possiamo "toccare" con mano alcune repliche dei banchi di suoni con cui Nobuo Uematsu ha lavorato nell'epoca del Super Nintendo:
+Senza divagare, giovando dell'esperienza del grandissimo [**William Kage**](https://www.williamkage.com/snes_soundfonts/), possiamo "toccare" con mano alcune repliche dei banchi di suoni con cui Nobuo Uematsu ha lavorato nell'epoca del Super Nintendo:
 
 _sample_ da una manciata di kilobyte, mirabili salti mortali con i sintetizzatori e le _Roland SC-55 e SC-88_  sommati ad un lavoro a stretto contatto con i programmatori, **Sakaguchi** in primis.
 

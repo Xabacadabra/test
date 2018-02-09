@@ -45,7 +45,7 @@ E questo nonostante Claudio _"Cesaroni"_ Amendola![^amendola] (si scherza eh!
   
 **Qualità internazionale, diciamo pure americana, cucita nel più pieno stile italiano.**  
   
-Mi verrebbe inevitabilmente da fare **un discorso simile a [quello che scrissi per _La Grande Bellezza_](http://xabacadabra.blogspot.it/2014/03/la-grande-bellezza-recensione.html)**, ma la verità è che per genere, stile e mentalità **io sono naturalmente più portato al cinema di Sollima che a quello di Sorrentino**, quindi credo sia meglio tralasciare scomodi paragoni dove non potrei minimamente risultare obbiettivo.  
+Mi verrebbe inevitabilmente da fare **un discorso simile a [quello che scrissi per _La Grande Bellezza_](https://xabacadabra.blogspot.it/2014/03/la-grande-bellezza-recensione.html)**, ma la verità è che per genere, stile e mentalità **io sono naturalmente più portato al cinema di Sollima che a quello di Sorrentino**, quindi credo sia meglio tralasciare scomodi paragoni dove non potrei minimamente risultare obbiettivo.  
 
 ## Romanità
 

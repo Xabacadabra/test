@@ -14,7 +14,7 @@ toc: true
 
 ## Can you _read_ me, Major Tom ? [^tom]
 
-[^tom]: questo titoletto l'avevo abozzato prima della <a href="http://xabacadabra.com/2016/David-Bowie/">triste notizia</a>, essendo questo post in cantiere da un mesetto buono...ero indeciso se modificarlo, ma alla fine ho preferito lasciarlo lì :')
+[^tom]: questo titoletto l'avevo abozzato prima della <a href="https://xabacadabra.com/2016/David-Bowie/">triste notizia</a>, essendo questo post in cantiere da un mesetto buono...ero indeciso se modificarlo, ma alla fine ho preferito lasciarlo lì :')
 
 Prova-prova...siete ben sintonizzati con i vostri schermi ? Mi leggete ?
 
@@ -30,7 +30,7 @@ Se il nome non vi giunge nuovo (in caso contrario magari fate un salto [qui](/bl
 
 ## Perché ?
 
-è un discorso un po' lungo da spiegare, ma volendo fare una sintesi, perché **blogger è sempre una struttura efficace ma davvero troppo vecchia**, con poche possibilità di personalizzazione e controllo...l'esatto opposto di [**Jekyll**](http://jekyllrb.com/), sistema di pubblicazione blog opensource, privo di database, cookies e chincaglierie varie che me lo hanno da subito più simpatico di Wordpress e affini.
+è un discorso un po' lungo da spiegare, ma volendo fare una sintesi, perché **blogger è sempre una struttura efficace ma davvero troppo vecchia**, con poche possibilità di personalizzazione e controllo...l'esatto opposto di [**Jekyll**](https://jekyllrb.com/), sistema di pubblicazione blog opensource, privo di database, cookies e chincaglierie varie che me lo hanno da subito più simpatico di Wordpress e affini.
 
 Un'altra ragione è perché, da navigatore, sono sempre più vicino ad una particolare filosofia:
 

@@ -35,7 +35,7 @@ forse **i tempi che corrono spingono, con un certa prepotenza, l'incazzatura e l
 ## L'epoca dei 50 Anni di Kurt Cobain
 
 <figure>
-	<img src="http://vignette1.wikia.nocookie.net/nirvana/images/1/12/KC.jpg/revision/latest?cb=20130412103300" alt="Kurt Cobain">
+	<img src="https://vignette1.wikia.nocookie.net/nirvana/images/1/12/KC.jpg/revision/latest?cb=20130412103300" alt="Kurt Cobain">
 </figure>
 
 Li avrebbe compiuti lo scorso 20 febbraio, e fa strano pensare quanto **la figura cardine di quell'ondata musicale se ne sia andata la bellezza di ventitrè anni fa.**
@@ -90,11 +90,11 @@ Ergo, _Daje Regà!_
 
 <script type="application/ld+json">
 {
-  "@context":"http://schema.org",
+  "@context":"https://schema.org",
   "@type":"MusicAlbum",
   "name":"Bloop",
-  "albumProductionType": "http://schema.org/StudioAlbum",
-  "albumReleaseType": "http://schema.org/AlbumRelease",
+  "albumProductionType": "https://schema.org/StudioAlbum",
+  "albumReleaseType": "https://schema.org/AlbumRelease",
   "genre": "grunge",
   "byArtist": {
         "@type": "MusicGroup",

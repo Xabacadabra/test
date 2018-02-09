@@ -13,7 +13,7 @@ published: true
 comments: true
 ---
 
-Il fantastico artwork qui sopra è del bravissimo [Ron Chan](http://www.ronchan.net/)
+Il fantastico artwork qui sopra è del bravissimo [Ron Chan](https://www.ronchan.net/)
 {: .notice-info}
 
 Questo post rende esplicito un profondissimo debito: quello nei confronti del Giappone, inteso soprattutto con la relativa pop culture animata e videogiocosa...
@@ -49,19 +49,19 @@ E che dire poi di jazz, poliziotteschi anni '70 all'italiana, heist movie (o cap
 Pure i samurai!
 
 <figure>
-	<img src='http://2.bp.blogspot.com/-sHaVrwWkH-g/VeVy2uuR3wI/AAAAAAAAMXQ/O670q2hRsaU/s1600/goemon.jpg' alt='Goemon'>
+	<img src='https://2.bp.blogspot.com/-sHaVrwWkH-g/VeVy2uuR3wI/AAAAAAAAMXQ/O670q2hRsaU/s1600/goemon.jpg' alt='Goemon'>
 </figure>
 
-Oppure pistoleri _bassisti carismatici_, per citare [il mitico Doc Manhattan](http://docmanhattan.blogspot.it/2014/01/i-10-piu-grandi-bassisti-carismatici-di-sempre.html)
+Oppure pistoleri _bassisti carismatici_, per citare [il mitico Doc Manhattan](https://docmanhattan.blogspot.it/2014/01/i-10-piu-grandi-bassisti-carismatici-di-sempre.html)
 
 <figure>
-	<img src='http://4.bp.blogspot.com/-bkOclJS-23k/VeVzNTRt5PI/AAAAAAAAMXY/9JLtv5GHyhg/s1600/Jigen_4969.jpg' alt='Jigen'>
+	<img src='https://4.bp.blogspot.com/-bkOclJS-23k/VeVzNTRt5PI/AAAAAAAAMXY/9JLtv5GHyhg/s1600/Jigen_4969.jpg' alt='Jigen'>
 </figure>
 
 O Miyazaki!
 
 <figure>
-	<img src='http://pad.mymovies.it/filmclub/2007/06/028/locandina.jpg' alt='Cagliostro'>
+	<img src='https://pad.mymovies.it/filmclub/2007/06/028/locandina.jpg' alt='Cagliostro'>
 </figure>
 
 **Se ci penso, in quasi ogni cosa che mi piace esiste un frammento che almeno in minima parte riconduce a Lupin.**

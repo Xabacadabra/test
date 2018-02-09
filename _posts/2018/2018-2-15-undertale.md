@@ -41,14 +41,14 @@ C'è un po' tutto quel discorso sull' **"Infantilismo Maturo"**, che [**ho già 
 ## 'Sto gioco pare partorito da 4chan
 
 <figure>
-<img src="http://i0.kym-cdn.com/photos/images/original/001/063/828/0c3.png" alt="4chan">
+<img src="https://i0.kym-cdn.com/photos/images/original/001/063/828/0c3.png" alt="4chan">
 </figure>
 
 Ecco: la mia repulsione istintiva partiva anzitutto da lì. 
 
 Sarà che sono vecchio dentro, sarà che **lo [slang di 4chan](https://en.wiktionary.org/wiki/Category:English_4chan_slang) mi disgusta quanto la musica neomelodica partenopea**, ma insomma.
 
-![toby fox](http://i0.kym-cdn.com/photos/images/facebook/001/026/176/28c.png)
+![toby fox](https://i0.kym-cdn.com/photos/images/facebook/001/026/176/28c.png)
 
 Siamo sempre nel regno del superficiale, lo so: 
 
@@ -120,12 +120,12 @@ Potrà sembrare un dettaglio da cultori della storia del videogioco ma, come ved
 ## Onesto con se stesso
 
 <figure>
-<img src="http://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_b9018c41cea2bdfb150609bedfca99b16a5af02a.1920x1080.jpg" alt="Undertale">
+<img src="https://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_b9018c41cea2bdfb150609bedfca99b16a5af02a.1920x1080.jpg" alt="Undertale">
 </figure>
 
 Undertale è un titolo peculiare che **vuole sentitamente essere ciò che è, senza strizzare goffamente l'occhio alla nicchia che ha inevitabilmente finito per innamorarsi di lui**.
 
-![undertale](http://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_6ded97a2c98473ac1e8a2b3c1419d93fb31b1186.1920x1080.jpg)
+![undertale](https://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_6ded97a2c98473ac1e8a2b3c1419d93fb31b1186.1920x1080.jpg)
 
 Retrò, grezzo, colmo di enigmi e visionario nei combattimenti, è **un videogame forte di una semplice (ma originale) filosofia di fondo**, interpretabile a diretta discrezione del giocatore in una ben cucinata miscela tra libero arbitrio da RPG occidentale e classici stilemi dei JRPG del Sol Levante.
 
@@ -137,7 +137,7 @@ Se da un lato **i personaggi e la trama di Undertale hanno forse raccolto fin tr
 
 [^discorso]: Certamente il mio è un discorso inficiato dai miei - ben lontani - gusti, intendiamoci.
 
-![undertale](http://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_9025a366676c26046b1d08e94ab1a73406aa11db.1920x1080.jpg)
+![undertale](https://cdn.edgecast.steamstatic.com/steam/apps/391540/ss_9025a366676c26046b1d08e94ab1a73406aa11db.1920x1080.jpg)
 
 La cosa si traduce in modo evidente anche **nell'originale gestione dei finali**, nei colpi di scena nascosti rivelabili solo dalle azioni del giocatore, e **dall'utilizzo spregiudicato e molto ispirato dei savegame** (detta così potrà suonare strano, ma chi ha finito il gioco capirà ciò che intendo). 
 
@@ -150,7 +150,7 @@ Come anticipavo tutto questo va unito al merito (e alla fortuna) dell'aver indiv
 Sono abbastanza certo che, fosse stato realizzato nel 2009, **Undertale sarebbe passato alla storia come una circoscritta leggenda nell'allora ridotta scena indie**.
 
 <figure>
-<img src="http://cdn.edgecast.steamstatic.com/steam/apps/650700/header.jpg" alt="yume nikki">
+<img src="https://cdn.edgecast.steamstatic.com/steam/apps/650700/header.jpg" alt="yume nikki">
 <figcaption>Sì, tipo Yume Nikki
 </figcaption>
 </figure>
@@ -159,7 +159,7 @@ E intendiamoci: sarebbe stato **un gran peccato.**
 
 ## Conclusioni
 
-![undertale](http://undertale.com/assets/images/screen10.png)
+![undertale](https://undertale.com/assets/images/screen10.png)
 
 Sarebbe stato un gran peccato perché, in fin della fiera, **Undertale è davvero un gran bel gioco.**
 

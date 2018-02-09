@@ -45,7 +45,7 @@ Volendola dare per buona, un po' per pigrizia e un po' per comodità, potremmo s
 	<img src="/gallery/ccc/cover.jpg" alt="Celeb Car Crash">
 </figure>
 
-Menzione di merito all'artwork di [**Maleonn**](http://www.maleonn.com/), visionario artista cinese noto per collaborazioni con il Guardian e la BBC: 
+Menzione di merito all'artwork di [**Maleonn**](https://www.maleonn.com/), visionario artista cinese noto per collaborazioni con il Guardian e la BBC: 
 
 Da profano forse lo interpreto nei modi sbagliati, ma m'ha strappato un ciccionissimo sorriso.
 

@@ -47,7 +47,7 @@ Anzitutto perché **è facile credere qualsiasi cosa di un paese di cui si sa po
 In secondo luogo, perché **indubbiamente in Corea del Nord esiste una specie di culto religioso propagandistico nei confronti della famiglia Kim.** 
 
 <figure>
-<img src='http://epicpew.com/wp-content/uploads/2016/11/e13b775289dbaafc9380605c1556dbd2.gif' alt='Signora Kim Gilmore Girls'>
+<img src='https://epicpew.com/wp-content/uploads/2016/11/e13b775289dbaafc9380605c1556dbd2.gif' alt='Signora Kim Gilmore Girls'>
 <figcaption>Lei in realtà la venero pure io</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ Ma _perché?_, dicevamo...
 ## Virale 
 
 <figure>
-<img src='http://sizlingpeople.com/wp-content/uploads/2016/05/Eva-Longoria-Hot-21.jpg' alt='Eva Longoria'>
+<img src='https://sizlingpeople.com/wp-content/uploads/2016/05/Eva-Longoria-Hot-21.jpg' alt='Eva Longoria'>
 <figcaption>Perdonate il collegamento pecoreccio, ma ho pensato subito a lei. Magari col regista son parenti, hai visto mai...metti che il buon Alvaro caccia una buona parola per me</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ E se iniziate a nutrire dei dubbi già nel nostro orticello, chissà cosa potrem
 ## Kim Jong-Un
 
 <figure>
-<img src='http://cdn2.vn24.it/wp-content/uploads/2016/09/MAIN-Kim-Jong-Un-missiles.jpg' alt='kim-jong-un'>
+<img src='https://cdn2.vn24.it/wp-content/uploads/2016/09/MAIN-Kim-Jong-Un-missiles.jpg' alt='kim-jong-un'>
 </figure> 
 
 E infatti, torniamo da lui:
@@ -117,7 +117,7 @@ Ergo, anche in questo caso **scelgo di fidarmi di un regista**, mi _devo_ fidare
 ###  Xab da ragione a Razzi, W LA NORD COREA! 
 
 <figure>
-<img src='http://www.unita.tv/wp-content/uploads/2016/01/CGxrS08XIAAepNk-U1050547458845eM-990x556@LaStampa.it_-739x515.jpg' alt='Razzi'>
+<img src='https://www.unita.tv/wp-content/uploads/2016/01/CGxrS08XIAAepNk-U1050547458845eM-990x556@LaStampa.it_-739x515.jpg' alt='Razzi'>
 </figure> 
 
 Ecco NO eh:

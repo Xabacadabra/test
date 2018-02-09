@@ -29,7 +29,7 @@ Prima di tutto, segnalo che già tre annetti fa scrissi qualcosina su Dragon Bal
 ### Dacci consigli per gli acquisti Xab!
 
 <figure>
-<img src='http://data.whicdn.com/images/139741678/original.gif' alt='bulma e muten'>
+<img src='https://data.whicdn.com/images/139741678/original.gif' alt='bulma e muten'>
 </figure>
 
 **I dieci euro di cui sopra sono un prezzo onestissimo per ogni _aficionado_ della saga di Toriyama che si rispetti,** ma anche interpellando quest'ultimo acquirente devo dire che non oserei mai consigliare **una spesa superiore ai 18 euro.**
@@ -72,12 +72,12 @@ E lo vai a fare quando **tu, gioco, sei giusto un Jirobai.**
 
 ## Sei solo un Jirobai!
 
-<figure><img src='http://vignette2.wikia.nocookie.net/dragonball/images/6/65/Yajirobei.jpg/revision/latest?cb=20150901183818&path-prefix=it' alt='jirobai'>
+<figure><img src='https://vignette2.wikia.nocookie.net/dragonball/images/6/65/Yajirobei.jpg/revision/latest?cb=20150901183818&path-prefix=it' alt='jirobai'>
 </figure>
 
 **Sei simpatico, buffo**, a suo modo anche parecchio importante se si fa bene attenzione...
 
-<figure><img src='http://vignette1.wikia.nocookie.net/dragonball/images/1/1d/Yajirobei_taglia_coda.PNG/revision/latest?cb=20150904173521&path-prefix=it' alt='jirobai'>
+<figure><img src='https://vignette1.wikia.nocookie.net/dragonball/images/1/1d/Yajirobei_taglia_coda.PNG/revision/latest?cb=20150904173521&path-prefix=it' alt='jirobai'>
 </figure>
 
 ma no.
@@ -89,7 +89,7 @@ _NO._
 Io non voglio picchiarmi con Radish **tra due cutscene che conosco già a memoria da una vita per poi tornare alla base**, **io voglio girare tutto sto cavolo di mondo**, voglio incontrare il Presidente Cane.
 
 <figure>
-<img src='http://vignette2.wikia.nocookie.net/dragonball/images/6/62/King_Furry02.png/revision/latest?cb=20100217203351' alt='Presidente Cane'>
+<img src='https://vignette2.wikia.nocookie.net/dragonball/images/6/62/King_Furry02.png/revision/latest?cb=20100217203351' alt='Presidente Cane'>
 <figcaption>No davvero, intendevo lui, non ce l'ho con Renzi</figcaption>
 </figure> 
 
@@ -105,7 +105,7 @@ DIVENTARE
 
 IL MEGASCIMMIONEEEEEEEEEEEEEEEEEEEE[^oozaru]
 
-<figure><img src='http://vignette1.wikia.nocookie.net/dragonball/images/f/f5/Great_ape_king_vegeta-1-.jpg/revision/latest?cb=20130703103042&path-prefix=it' alt='scimmione'>
+<figure><img src='https://vignette1.wikia.nocookie.net/dragonball/images/f/f5/Great_ape_king_vegeta-1-.jpg/revision/latest?cb=20130703103042&path-prefix=it' alt='scimmione'>
 </figure>
 
 [^oozaru]: Sì, si chiama Oozaru, lo so.

@@ -21,7 +21,7 @@ A voler tenere in conto certe nerdate, **Chrono Trigger potrebbe esserlo sul ser
 
 ## Il Dream Team
 
-![crono](http://starsmedia.ign.com/stars/image/object/142/14217688/crono_chrono-trigger_pictureboxart_160w.jpg){: .align-left}
+![crono](https://starsmedia.ign.com/stars/image/object/142/14217688/crono_chrono-trigger_pictureboxart_160w.jpg){: .align-left}
 
 Il gruppo di sviluppatori di Chrono Trigger rappresentò un po' l'equivalente videoludico della Nazionale americana di Basket del '92: 
 
@@ -38,13 +38,13 @@ Questi sono _alcuni_ dei nomi principali, ma moltissimi altri pesi massimi del s
 
 ## Trama
 
-![magus](http://starsmedia.ign.com/stars/image/object/142/14217695/magusboxart_160w.jpg){: .align-right}
+![magus](https://starsmedia.ign.com/stars/image/object/142/14217695/magusboxart_160w.jpg){: .align-right}
 
 Incentrata sul **viaggio nel tempo e sui paradossi tanto cari al relativo archetipo narrativo**, la trama di Chrono Trigger risulta caratterizzata da uno sviluppo fresco ed originale:
 
 Partendo da un ideale anno 1000, dal setting tra il medievale e l'ottocentesco <small>(Studio Ghibli che cola)</small>, avremo occasione di scoprire man mano **le varie epoche del mondo di Chrono Trigger, assaporandone la storia e scoprendo l'evoluzione delle genti che lo abitano.**
 
-![chrono trigger 1000](http://24.media.tumblr.com/tumblr_ma05hdInVg1r00g1wo1_500.gif)
+![chrono trigger 1000](https://24.media.tumblr.com/tumblr_ma05hdInVg1r00g1wo1_500.gif)
 
 ## Apparenze
 
@@ -64,7 +64,7 @@ Rispetto alla linearità tipica del genere infatti, Chrono Trigger vanta una sua
 
 ## Gameplay
 
-![marle](http://lh6.ggpht.com/_g-zAaRuBbyY/TBZajLhjQPI/AAAAAAAAAio/UlqItYZbz1s/marle.jpg){: .align-left}
+![marle](https://lh6.ggpht.com/_g-zAaRuBbyY/TBZajLhjQPI/AAAAAAAAAio/UlqItYZbz1s/marle.jpg){: .align-left}
 
 Come detto, Chrono Trigger rappresentò senza dubbio qualcosa di nuovo nell'ambito del JRPG e la cosa si traduce anche nel gameplay vero e proprio:
 

@@ -15,7 +15,7 @@ comments: true
 
 Oggi è un giorno molto importante, nei risvolti mediatici ancor più che storici:
 
-Non fosse per **Alan Moore** ed il suo celeberrimo **V for Vendetta** a quest'ora **Guy Fawkes** nell'immaginario collettivo conterebbe  poco più di una [_Giubiana_](http://it.wikipedia.org/wiki/Giubiana) (e relative varianti locali).
+Non fosse per **Alan Moore** ed il suo celeberrimo **V for Vendetta** a quest'ora **Guy Fawkes** nell'immaginario collettivo conterebbe  poco più di una [_Giubiana_](https://it.wikipedia.org/wiki/Giubiana) (e relative varianti locali).
 
 Dovrebbe sempre far riflettere.
 
@@ -33,7 +33,7 @@ Se ci vedete dietro qualche ideale, prendetelo semplicemente come un fantasma ch
 
 (Gaetano Bresci)
 
-Forse vorrei che ci fosse un V all'italiana con la maschera di [Gaetano Bresci](http://it.wikipedia.org/wiki/Gaetano_Bresci), che l'intellettuale avesse **il coraggio di "sporcarsi" con la china dei fumetti** senza il perenne saccente snobbismo che in genere si porta dietro...
+Forse vorrei che ci fosse un V all'italiana con la maschera di [Gaetano Bresci](https://it.wikipedia.org/wiki/Gaetano_Bresci), che l'intellettuale avesse **il coraggio di "sporcarsi" con la china dei fumetti** senza il perenne saccente snobbismo che in genere si porta dietro...
 
 **Il fumetto è un mezzo importantissimo per veicolare un messaggio**, anche se quest'ultimo spesso non viene recepito, nascosto dai suoi simboli e dalla sua platealità...**può essere uno strumento di memoria, di cultura oltre che di puro intrattenimento.**
 

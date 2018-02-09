@@ -30,7 +30,7 @@ Ebbene, riallacciandomi a questo discorso ho iniziato ad indagare un po' **sul p
 
 E se è vero che _la prima volta non si scorda mai_...
 
-<blockquote class="reddit-card" data-card-created="1497851573"><a href="https://www.reddit.com/r/italy/comments/6hxzo4/come_siete_capitati_su_internet/?ref=share&ref_source=embed">Come siete capitati su Internet ?</a> from <a href="http://www.reddit.com/r/italy">italy</a></blockquote>
+<blockquote class="reddit-card" data-card-created="1497851573"><a href="https://www.reddit.com/r/italy/comments/6hxzo4/come_siete_capitati_su_internet/?ref=share&ref_source=embed">Come siete capitati su Internet ?</a> from <a href="https://www.reddit.com/r/italy">italy</a></blockquote>
 <script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
 
 Tra le risposte mi ha fatto molto piacere trovare la conferma ad un mio vecchio, radicato sospetto: 
@@ -63,7 +63,7 @@ Per l'appunto nel 1995, **in un periodo in cui in televisione dire _modem_ era n
 	<img src='https://1.bp.blogspot.com/-pD9Dc9hZcq4/V7qeCGxjG6I/AAAAAAABqw8/PaI3G7oTh-YHwJuy9CL9lbmNfIXJHRVlgCLcB/s1600/1-Internet-nel-1995.jpg' alt='Topolino'>
 </figure>
 
-La fonte è il solito leggendario [**Doc Manhattan**](http://docmanhattan.blogspot.it/2016/08/come-era-internet-nel-1995.html) che sul tema è andato nel dettaglio.
+La fonte è il solito leggendario [**Doc Manhattan**](https://docmanhattan.blogspot.it/2016/08/come-era-internet-nel-1995.html) che sul tema è andato nel dettaglio.
 
 ## Dare Internet per scontato
 
@@ -72,5 +72,5 @@ Viziati come siamo dai mostri d'hardware <small>(spesso ingiustificato)</small> 
 Tra qualche decennio **saremo gli unici a ricordarsi di com'era il mondo prima d'Internet, e dell'esatto istante in cui il Web è entrato nelle nostre esistenze.**
 
 <figure>
-<img src='http://images4.fanpop.com/image/photos/22500000/Neo-in-The-Matrix-Reloaded-the-matrix-22575477-560-300.gif' alt='matrix'>
+<img src='https://images4.fanpop.com/image/photos/22500000/Neo-in-The-Matrix-Reloaded-the-matrix-22575477-560-300.gif' alt='matrix'>
 </figure>

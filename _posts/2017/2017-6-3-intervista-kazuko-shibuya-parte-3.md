@@ -19,7 +19,7 @@ sidebar:
 
 Terza parte dell'intervista alla storica Designer della Serie: Romancing Saga, i Job di Final Fantasy V, l'avvento della Playstation e Final Fantasy alle Hawaii (!)
 
-Quest'IMMENSA intervista è stata realizzata da [4gamer](http://www.4gamer.net/games/064/G006480/20130227073/) nel 2013, ed originariamente tradotta in inglese dall'ottimo [**Shmuplations**](http://shmuplations.com/kazukoshibuya/).
+Quest'IMMENSA intervista è stata realizzata da [4gamer](https://www.4gamer.net/games/064/G006480/20130227073/) nel 2013, ed originariamente tradotta in inglese dall'ottimo [**Shmuplations**](https://shmuplations.com/kazukoshibuya/).
 {:.notice-info}
 
 1. [**Prima Parte**](/2017/intervista-kazuko-shibuya-parte-1)
@@ -45,7 +45,7 @@ Con i mostri in _Final Fantasy_ spendevo un sacco di tempo ad osservare le opere
 Con _Romancing SaGa_ ho lavorato a stretto contatto con Tomomi, e mi sono potuta rivolgere a lei mentre disegnavo. Quindi _Romancing SaGa_ si mostra naturalmente in questo modo. [risate]
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/shibuyatomomi.jpg' alt='romancing-saga'>
+<img src='https://shmuplations.com/wp-content/uploads/2014/02/shibuyatomomi.jpg' alt='romancing-saga'>
 <figcaption>Il team di Romancing SaGa nel 2013. Da sinistra: Kazuko Shibuya (designer), Tomomi Kobayashi (artist), Kenji Ito (musica), Akitoshi Kawazu (director) e Masanori Ishikawa (producer di Emperor's Saga)</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Lavorai a _SaGa Frontier_ e _SaGa Frontier 2_ con lo stesso staff che realizzò 
 Per _SaGa Frontier_ usai alcuni editor di grafica 3D e realizzai alcuni modelli io stessa. Creavo l'animazione basica e i pre-render in questo modo, quindi li ritoccavo con un po' di lavoro sui pixel.
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/saga3.png' alt='saga-frontier-3'>
+<img src='https://shmuplations.com/wp-content/uploads/2014/02/saga3.png' alt='saga-frontier-3'>
 <figcaption>Splendido esempio di pixel art in SaGa Frontier 3</figcaption>
 </figure>
 

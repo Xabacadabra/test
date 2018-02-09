@@ -51,6 +51,6 @@ D'altro canto, dovrei compensare con...
 
 ## I Progetti
 
-...che ovviamente risultano una pura Utopia, ma di questi tempi mi sono innamorato di [**Phaser**](http://phaser.io/) e mi piacerebbe un sacco farci qualcosina anche solo per sperimentarci sopra.
+...che ovviamente risultano una pura Utopia, ma di questi tempi mi sono innamorato di [**Phaser**](https://phaser.io/) e mi piacerebbe un sacco farci qualcosina anche solo per sperimentarci sopra.
 
 Vedremo, vedremo...

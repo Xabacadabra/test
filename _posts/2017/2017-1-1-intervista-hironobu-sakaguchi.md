@@ -18,7 +18,7 @@ Il papà di Final Fantasy racconta un bel po' di cose riguardo il suo processo c
 
 ## Premesse & Disclaimer
 
-Ho liberamente tradotto questa bella intervista ad opera di [**James Mielke**](https://twitter.com/jamesmielke), apparsa su [**Glixel**](http://www.glixel.com/interviews/final-fantasy-creator-sakaguchi-on-remakes-xv-and-square-w452889
+Ho liberamente tradotto questa bella intervista ad opera di [**James Mielke**](https://twitter.com/jamesmielke), apparsa su [**Glixel**](https://www.glixel.com/interviews/final-fantasy-creator-sakaguchi-on-remakes-xv-and-square-w452889
 ) circa un mese fa.
 
 Semplicemente, come chi ha già frequentato questo affacendato, confuso e polveroso blog saprà, io sono perdutamente innamorato della serie Final Fantasy...almeno, fino al decimo capitolo (per cui nutro comunque qualche riserva), e l'ammirazione che provo per quest'allegro signore baffuto è difficilmente quantificabile...quindi niente, mi pareva il modo migliore per iniziare questo 2017 😌

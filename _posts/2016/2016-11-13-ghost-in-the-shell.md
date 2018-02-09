@@ -40,7 +40,7 @@ Con lui **Masmune Shirow** è diventato di diritto uno degli autori giapponesi p
 ## Il relativo film
 
 <figure>
-<img src='http://static.srcdn.com/wp-content/uploads/ghost-shell-live-action-movie-paramount.jpg' alt='ghost in the shell'>
+<img src='https://static.srcdn.com/wp-content/uploads/ghost-shell-live-action-movie-paramount.jpg' alt='ghost in the shell'>
 </figure>
 
 Ovvero quello del 1995, **che a me piace molto meno del manga** (sempre trovato troppo serioso) ma resta parimenti **uno dei massimi esponenti dell'animazione giappa**, nonché un capolavoro di regia firmato **Mamoru Oshii**.
@@ -62,7 +62,7 @@ Personalmente **l'ho sempre trovato una gigantesca e interessante pippa mentale 
 ## Il manga 1.5
 
 <figure>
-<img src='http://static4.comicvine.com/uploads/scale_small/0/8015/224619-19532-116738-1-ghost-in-the-shell-1.jpg' alt='ghost in the shell'>
+<img src='https://static4.comicvine.com/uploads/scale_small/0/8015/224619-19532-116738-1-ghost-in-the-shell-1.jpg' alt='ghost in the shell'>
 </figure>
 
 Che per contro invece rappresenta uno dei massimi esponenti di _"poliziesco cyberpunk seriale_":
@@ -98,7 +98,7 @@ No, non è noia, tenete a freno il vostro Califano interiore:
 ## Scarlett Johansson
 
 <figure>
-<img src='http://opus.fm/_assets/entries/scarlett-johanson-ghost-in-the-shell.jpg' alt='ghost in the shell'>
+<img src='https://opus.fm/_assets/entries/scarlett-johanson-ghost-in-the-shell.jpg' alt='ghost in the shell'>
 </figure>
 
 Eh, Scarlettona mia bella...

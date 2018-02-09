@@ -15,7 +15,7 @@ published: true
 
 P a R a P p A pa p A PAAAAAAA!
 
-![parappa](http://25.media.tumblr.com/b8755efc31de1bf11e37adb1421ffde4/tumblr_ml246vQ5fW1qjdbzao1_250.gif)
+![parappa](https://25.media.tumblr.com/b8755efc31de1bf11e37adb1421ffde4/tumblr_ml246vQ5fW1qjdbzao1_250.gif)
 
 perché Sanremo è Sanremo
 
@@ -43,7 +43,7 @@ E FINALMENTE!
 
 CAMPIONI DEL MONDO, CAMPIONI DEL MONDOOOOOOOOO
 
-![renè](http://serialmindsecn.nohup.it/wp-content/uploads/2016/03/dai-dai-dai.gif)
+![renè](https://serialmindsecn.nohup.it/wp-content/uploads/2016/03/dai-dai-dai.gif)
 
 Lasciatemelo dire, sembrerà poco ma per me è una vera rivoluzione levarmelo dai piedi, soprattutto visto che sono **riuscito ad importare tutti i vecchi commenti in [Staticman](https://staticman.net/)**, quindi anche loro se ne stanno comodi comodi al calduccio di Github.
 
@@ -63,7 +63,7 @@ Nei suoi primi cinque anni di vita Xaba Cadabra ha maturato **558 commenti e cir
 
 ## Mica cotica
 
-![cotica](http://www.festadellanocciola.it/wp-content/uploads/2014/12/DSC00419.jpg)
+![cotica](https://www.festadellanocciola.it/wp-content/uploads/2014/12/DSC00419.jpg)
 
 E insomma, considerando tutte le cose che ho iniziato e lasciato per strada, **è un risultato di cui sono molto contento**, sebbene abbia fin troppo spesso bistrattato questo piccolo angolo di web: 
 
