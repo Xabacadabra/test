@@ -15,7 +15,7 @@ comments: true
 
 La modalità **"My Career"** concepita dai 2k per me è sempre stata uno di quei sogni che diventano realtà:
 
-La dimostrazione di come certe prerogative, **nel settore fin troppo spesso stupidamente considerate esclusive degli RPG**, possano essere **potenzialmente applicate a qualsiasi tipo di gioco**, pure ai simulatori sportivi. ([In effetti, ho già accennato qualcosa a riguardo.](http://xabacadabra.com/2013/la-creazione-di-un-personaggio-nei-videogiochi/))
+La dimostrazione di come certe prerogative, **nel settore fin troppo spesso stupidamente considerate esclusive degli RPG**, possano essere **potenzialmente applicate a qualsiasi tipo di gioco**, pure ai simulatori sportivi. ([In effetti, ho già accennato qualcosa a riguardo.](/2013/la-creazione-di-un-personaggio-nei-videogiochi/))
 
 Peccato che **Spike Lee abbia buttato tutto nel cesso.**
 

@@ -61,7 +61,7 @@ Se io dico che non mi piace Sio, la reazione esterna di solito è _"ecco un altr
 
 **Il _mi piace_ o _non mi piace_ non è mai abbastanza, è necessario schierarsi**.
 
-Per quanto riguarda i videogiochi, quest'argomento [per certi versi l'ho già sfiorato di recente parlando dei fantomatici casual gamers](http://xabacadabra.com/2016/I-Casual-Gamers-non-esistono/), ma avrete intuito da voi che il "topic" importa poco ai fini del mio discorso.
+Per quanto riguarda i videogiochi, quest'argomento [per certi versi l'ho già sfiorato di recente parlando dei fantomatici casual gamers](/2016/I-Casual-Gamers-non-esistono/), ma avrete intuito da voi che il "topic" importa poco ai fini del mio discorso.
 
 ## Ma perché siamo così ?
 

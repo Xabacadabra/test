@@ -17,7 +17,7 @@ Essendo un "retrogamer", ci penso spesso.
 
 Avendo un rapporto conflittuale con il videogame moderno, ci rimugino molto.
 
-Giocare a **The Phantom Pain** (vedi [qui](http://xabacadabra.com/2015/Metal-Gear-Solid-V-phantom-pain-prime-impressioni/) e [qua](http://xabacadabra.com/2015/Metal-Gear-Solid-V-phantom-pain-seconde-impressioni/)) me lo sta riconfermando.
+Giocare a **The Phantom Pain** (vedi [qui](/2015/Metal-Gear-Solid-V-phantom-pain-prime-impressioni/) e [qua](/2015/Metal-Gear-Solid-V-phantom-pain-seconde-impressioni/)) me lo sta riconfermando.
 
 E leggere [questa bella intervista a **Nobuo Uematsu**](http://daily.redbullmusicacademy.com/2014/10/nobuo-uematsu-interview), lo ha un po' innalzato a credo religioso:
 
@@ -39,7 +39,7 @@ E quante cose meravigliose sono nate proprio nel tentativo di superare determina
 <img src='http://4.bp.blogspot.com/-FPwEPK98IdQ/Vf-9WiqvITI/AAAAAAAAMkk/fL6aEw9gLK8/s1600/stan.gif' alt='stan-monkey-island-gif'>
 </figure>
 
-[In un vecchio post](http://xabacadabra.com/2013/pixel-art/) spiegavo come molto dell'umorismo "visivo" della serie **Monkey Island** fosse frutto delle limitazioni tecniche del livello grafico del periodo, umorismo che difatti è stato difficilmente tradotto nelle varie Special Edition del caso.
+[In un vecchio post](/2013/pixel-art/) spiegavo come molto dell'umorismo "visivo" della serie **Monkey Island** fosse frutto delle limitazioni tecniche del livello grafico del periodo, umorismo che difatti è stato difficilmente tradotto nelle varie Special Edition del caso.
 
 <figure>
 <img src='http://1.bp.blogspot.com/-J0zYOq_d3w0/Vf--GyZkLhI/AAAAAAAAMks/iO7krhbMoJg/s1600/ffopening.png' alt='final-fantasy'>

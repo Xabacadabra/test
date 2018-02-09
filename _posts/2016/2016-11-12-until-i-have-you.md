@@ -40,7 +40,7 @@ Ergo, siccome il gioco non è così famoso, nel mio piccolo voglio contribuire
 
 1. Pixelart allo stato dell'arte;
 2. Splendida ambientazione cyberpunk;
-3. Colonna sonora a tinte [synthwave](http://xabacadabra.com/2015/Synthwave-Una-purissima-audio-droga/) ispirata;
+3. Colonna sonora a tinte [synthwave](/2015/Synthwave-Una-purissima-audio-droga/) ispirata;
 4. Gameplay ben costruito ed interessante;
 5. Trama/Ambientazione estremamente fascinose;
 6. Interessante ibrido di meccaniche d'**avventura grafica** e **platform**;

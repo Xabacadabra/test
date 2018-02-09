@@ -29,7 +29,7 @@ Anzitutto le cose scomode:
 
 Storicamente, **i robottoni mi fanno cagare.**
 
-Insomma, ci sono le solite eccezioni...**Evangelion** (che però diciamolo, è una faccenda piuttosto diversa), **Code Geass** (che tuttavia non riguarderei mai e poi mai), [**Xenogears**](http://xabacadabra.com/2016/xenogears-recensione/) (che ritengo un'opera d'arte) e forse qualche altro caso che ora non ricordo. 
+Insomma, ci sono le solite eccezioni...**Evangelion** (che però diciamolo, è una faccenda piuttosto diversa), **Code Geass** (che tuttavia non riguarderei mai e poi mai), [**Xenogears**](/2016/xenogears-recensione/) (che ritengo un'opera d'arte) e forse qualche altro caso che ora non ricordo. 
 
 Insomma, personalmente, il concetto di _mobile suit_ o comunque di "omino che pilota il megarobottone antropomorfo colorato" al 90% mi disgusta:
 
@@ -43,7 +43,7 @@ siccome parliamo di Gundam, penso che su questo punto occorra spenderci un inter
 
 Noi altri italiani classe '89 (e limitrofi) siamo cresciuti in un **guazzabuglio fatto da tante epoche animate diverse:** 
 
-Dall'avvento dei Classici Disney in VHS a _Lupin III_, passando per lo strapotere di [Dragon Ball](http://xabacadabra.com/2013/dragon-ball-in-italia/), i _Cavalieri dello Zodiaco_, la straordinaria linea editoriale dell'**MTV Anime Night** o le meravigliose TV locali che trasmettevano tranquillamente _Uomo Tigre_, _Lamù_ e _Kenshiro_ in barba al MOIGE...
+Dall'avvento dei Classici Disney in VHS a _Lupin III_, passando per lo strapotere di [Dragon Ball](/2013/dragon-ball-in-italia/), i _Cavalieri dello Zodiaco_, la straordinaria linea editoriale dell'**MTV Anime Night** o le meravigliose TV locali che trasmettevano tranquillamente _Uomo Tigre_, _Lamù_ e _Kenshiro_ in barba al MOIGE...
 
 Quel 1979 anagrafico di Gundam, quindi, in realtà non rappresenterebbe poi tutto 'sto problema.
 

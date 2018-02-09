@@ -18,7 +18,7 @@ Gli Acid Muffin sono un power trio romano musicalmente figlio degli Stati Uniti 
 
 ## Cugini di Forlì
 
-Questa premessa mi riporta inevitabilmente alla mente i Celeb Car Crash, band italiana trattata [in queste pagine digitali](http://xabacadabra.com/2016/celeb-car-crash/) giusto qualche mesetto fa: 
+Questa premessa mi riporta inevitabilmente alla mente i Celeb Car Crash, band italiana trattata [in queste pagine digitali](/2016/celeb-car-crash/) giusto qualche mesetto fa: 
 
 Sebbene **dalle sonorità diverse, molte delle radici stilistiche risultano indubbiamente le medesime.** <small>_(da Pearl Jam e Alice in Chains in su poi è tutta campagna, signora mia)_</small>
 

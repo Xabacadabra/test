@@ -15,7 +15,7 @@ ads: false
 toc: true
 ---
 
-Per scongiurare il rischio di scatenare le ire di qualche cinefilo e/o ritrovarmi **Hideo Kojima** sotto casa, **preciso che adoro il cinema!** <small>(anche perché [questa sezione](http://xabacadabra.com/blog/tag/cinema/) non è stata creata mica per niente)</small> 
+Per scongiurare il rischio di scatenare le ire di qualche cinefilo e/o ritrovarmi **Hideo Kojima** sotto casa, **preciso che adoro il cinema!** <small>(anche perché [questa sezione](/blog/tag/cinema/) non è stata creata mica per niente)</small> 
 
 A dirla tutta, **sono un cinefilo tanto vorace da potermi giocare qualche partita nel campionato Tarantino pronosticando di piazzarmi almeno nei playoff**: 
 
@@ -47,7 +47,7 @@ Morale ? Piaccia o meno, oggigiorno i videogiochi non è che dominano il settore
 
 Eppure, forse anche per via dei media d'informazione non proprio aggiornatissimi, **sembra persistere una certa sudditanza psicologica nei confronti del Cinema**, visto quasi sempre come un settore "Alto" rispetto a quello videoludico. 
 
-Questo discorso l'ho già affrontato per massima parte [parlando del coinvolgimento del regista **Spike Lee** nella realizzazione di NBA 2K16.](http://xabacadabra.com/2015/come-spike-lee-rovino-nba-2k16/)
+Questo discorso l'ho già affrontato per massima parte [parlando del coinvolgimento del regista **Spike Lee** nella realizzazione di NBA 2K16.](/2015/come-spike-lee-rovino-nba-2k16/)
 
 ## Videogioco & Arte
 
@@ -115,7 +115,7 @@ Ma, anche volendo fare gli ottimisti e aspettarsi opere curate in modo certosino
 
 Infondo, _a che serve?_
 
-Voglio dire: avete presente _Kingsglaive_, il film-prequel di Final Fantasy XV realizzato in computer grafica ? <small>(se non sapete di che sto parlando, cliccate pure [qui](http://xabacadabra.com/2016/Kingsglaive-Final-Fantasy-XV-Recensione/))</small>
+Voglio dire: avete presente _Kingsglaive_, il film-prequel di Final Fantasy XV realizzato in computer grafica ? <small>(se non sapete di che sto parlando, cliccate pure [qui](/2016/Kingsglaive-Final-Fantasy-XV-Recensione/))</small>
 
 <figure>
 <img src='http://xabacadabra.com/gallery/kingsglaive/2.jpg' alt='Kingsglaive-Final-Fantasy-XV'>

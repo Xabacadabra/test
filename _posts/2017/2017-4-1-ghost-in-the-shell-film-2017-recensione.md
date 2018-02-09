@@ -17,7 +17,7 @@ toc: true
 
 Allora.
 
-Prima di tutto, le premesse riguardo Ghost in the Shell le saltiamo in allegria: [**questo post**](http://xabacadabra.com/2016/ghost-in-the-shell/) è stato concepito anche con lo scopo di alleggerire situazioni simili.
+Prima di tutto, le premesse riguardo Ghost in the Shell le saltiamo in allegria: [**questo post**](/2016/ghost-in-the-shell/) è stato concepito anche con lo scopo di alleggerire situazioni simili.
 
 Poi: 
 

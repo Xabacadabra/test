@@ -101,7 +101,7 @@ Per quanto precari sul piano narrativo, **i titoli della serie di punta della Be
 </figcaption>
 </figure>
 
-Da prendere con le pinze, perché alcuni giochi hanno egregiamente dimostrato il contrario (uno su tutti, [_Vampire: Bloodlines_](http://xabacadabra.com/2013/vampire-masquerade-bloodlines-recensione/)) ma **è innegabile che con un protagonista "non pervenuto" costruire una storia avvincente è un compito estremamente gravoso**, specie se si parla di **una storia che va a toccare il profilo più personale dei personaggi** piuttosto che i suoi elementi più macroscopici (che non a caso sono il pane quotidiano degli _Elder Scrolls_)
+Da prendere con le pinze, perché alcuni giochi hanno egregiamente dimostrato il contrario (uno su tutti, [_Vampire: Bloodlines_](/2013/vampire-masquerade-bloodlines-recensione/)) ma **è innegabile che con un protagonista "non pervenuto" costruire una storia avvincente è un compito estremamente gravoso**, specie se si parla di **una storia che va a toccare il profilo più personale dei personaggi** piuttosto che i suoi elementi più macroscopici (che non a caso sono il pane quotidiano degli _Elder Scrolls_)
 
 <figure>
 	<img src='http://1.bp.blogspot.com/-GSL7XmqMVL8/UlxdSoP75jI/AAAAAAAAErI/WkETL0TLOyY/s1600/geneprojector.png' alt='Fallout-3'>
@@ -149,7 +149,7 @@ Insomma, **il Giappone abbandonò senza mezzi termini quello che è il "giocare 
 
 **La cosa nella pratica non è stata certo un male**, anzi: 
 
-tra le storie più memorabili e avvincenti del mondo dei videogiochi spiccano del resto molti JRPG (basti citare i vari Final Fantasy o [Xenogears](http://xabacadabra.com/2016/xenogears-recensione/))
+tra le storie più memorabili e avvincenti del mondo dei videogiochi spiccano del resto molti JRPG (basti citare i vari Final Fantasy o [Xenogears](/2016/xenogears-recensione/))
 
 Semplicemente **quel _Role Playing Game_ nella definizione "JRPG" non ha più un senso vero e proprio, se non quello dettato dalla consuetudine.**
 

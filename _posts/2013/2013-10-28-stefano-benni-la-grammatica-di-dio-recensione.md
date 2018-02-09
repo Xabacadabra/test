@@ -29,7 +29,7 @@ Taluni quasi sul fantasy, altri satirici, comici, e qualcuno pure con qualche sp
 
 [^pausini]: il primo che nomina la Pausini lo denuncio alla buoncostume
 
-L'argomento, [come già dissi in altra sede](http://xabacadabra.com/2013/solitudine/), è uno di quelli che da sempre più mi affascina/sconforta:
+L'argomento, [come già dissi in altra sede](/2013/solitudine/), è uno di quelli che da sempre più mi affascina/sconforta:
 
 Non credo quindi sia un caso che io mi sia ritrovato immediatamente rapito dalle pagine di questa serie di storie (l'ho praticamente finito nell'ora e mezza di treno che passa tra Milano e Genova)
 

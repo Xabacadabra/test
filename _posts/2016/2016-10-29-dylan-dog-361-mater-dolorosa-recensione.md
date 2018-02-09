@@ -29,7 +29,7 @@ Perciò, evitando di sconfinare in pipponi troppo personali, farò una sintesi d
 
 ## Mater Dolorosa
 
-Complice il clima di Halloween, il fatto che esattamentre tre anni fa scrivevo qualcosina su un certo [**Mater Morbi**](http://xabacadabra.com/2013/dylan-dog-280-mater-morbi-recensione/) ed il recente ritorno in scena di Tiziano Sclavi, questa volta però non ho resistito, e sono qui per dire quattro parole sul "sequel di compleanno" firmato sempre da **Recchioni** e disegnato da **Gigi Cavenago**.
+Complice il clima di Halloween, il fatto che esattamentre tre anni fa scrivevo qualcosina su un certo [**Mater Morbi**](/2013/dylan-dog-280-mater-morbi-recensione/) ed il recente ritorno in scena di Tiziano Sclavi, questa volta però non ho resistito, e sono qui per dire quattro parole sul "sequel di compleanno" firmato sempre da **Recchioni** e disegnato da **Gigi Cavenago**.
 
 ## Disegni 
 

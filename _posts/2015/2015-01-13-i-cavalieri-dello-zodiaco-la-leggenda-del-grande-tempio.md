@@ -29,7 +29,7 @@ Ma proprio perché a livello di design lo trovo semplicemente osceno per il mio 
 
 Tuttavia **anche il manga originale di Kurumada non è che brillasse per chissà quale senso artistico, armature a parte** (molto meglio l'anime del compianto Maestro **Araki**), quindi parlassimo di un'opera abbastanza meritevole, forse ci avrei pure potuto passare sopra.
 
-Diciamo giusto che, anche graficamente, come riedizione moderna preferisco mille volte il design del [**Lost Canvas**](http://xabacadabra.com/2015/saint-seiya-lost-canvas/) a questo milionario 3D Mecha farlocco (sarà che io odio mecha e robottoni da sempre, boh)
+Diciamo giusto che, anche graficamente, come riedizione moderna preferisco mille volte il design del [**Lost Canvas**](/2015/saint-seiya-lost-canvas/) a questo milionario 3D Mecha farlocco (sarà che io odio mecha e robottoni da sempre, boh)
 
 Premesso questo, **che non è certo un tratto negativo del film ma una mera faccenda di gusto**, via con l'analisi:
 

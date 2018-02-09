@@ -172,7 +172,7 @@ in parole povere ?
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/768px-Blogger.svg.png' alt='blogger'>
 </figure>
 
-Che il sottoscritto conosce molto bene, avendolo utilizzato per parecchi anni ([anche per le prime versioni di Xaba Cadabra](http://xabacadabra.com/blog/story/)), perciò leviamoci subito il dente:
+Che il sottoscritto conosce molto bene, avendolo utilizzato per parecchi anni ([anche per le prime versioni di Xaba Cadabra](/blog/story/)), perciò leviamoci subito il dente:
 
 **Blogger è inferiore a Wordpress in ogni singola caratteristica, salvo forse una: è di Google**
 

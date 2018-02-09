@@ -39,7 +39,7 @@ Risposta: **nì**
 
 Partiamo dal presupposto che io e la fantascienza salvo qualche occasione non andiamo molto d'accordo (fanno eccezione specifici i sottorami come il mio amatissimo cyberpunk, Asimov o la space opera), e **anche se Alien mi è sempre piaciuto molto trovo molto stancante la continua riproposizione del suo "modus hoperandi" nei più svariati contesti**...per intenderci, il concetto spaziale della casa stregata (astronave).
 
-Sarà forse che **Roberto Recchioni** mi ha abituato fin troppo bene (ricordo sempre che [Mater Morbi](http://xabacadabra.com/2013/dylan-dog-280-mater-morbi-recensione/) è una delle mie storie di Dylan terrificantemente preferite) ma chiarito questo punto, sottolineando come comunque Spazio Profondo attinga da diverse fonti senza "copiarne" nessuna (peraltro in perfetto stile DyD) **globalmente l'albo non mi ha appassionato ne davvero convinto**, ma **ho molto apprezzato la psicologia nella caratterizzazione di (dei) Dylan**, più che altro nelle interazioni tra Numero 5 e Numero 4.
+Sarà forse che **Roberto Recchioni** mi ha abituato fin troppo bene (ricordo sempre che [Mater Morbi](/2013/dylan-dog-280-mater-morbi-recensione/) è una delle mie storie di Dylan terrificantemente preferite) ma chiarito questo punto, sottolineando come comunque Spazio Profondo attinga da diverse fonti senza "copiarne" nessuna (peraltro in perfetto stile DyD) **globalmente l'albo non mi ha appassionato ne davvero convinto**, ma **ho molto apprezzato la psicologia nella caratterizzazione di (dei) Dylan**, più che altro nelle interazioni tra Numero 5 e Numero 4.
 
 ## Conclusione
 

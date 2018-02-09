@@ -20,7 +20,7 @@ Un manga classe '68 che possiede tutte quelle caratteristiche che tanto mi hanno
 
 **Quella crudezza al limite del sadismo**, il senso di sacrificio, rivalsa dalla povertà...e soprattutto quella sorta d'autoimposizione a non contemplare mai la resa, a **combattere sempre.**
 
-_Rocky Joe_ è l'emblema di questi valori, molto **sentiti e radicati nel Giappone post-bellico**, di cui ahimè sopravvivono oramai poche tracce, rimpastate assieme a prodotti più o meno _plastici_ ([ma questa è un'altra storia](http://xabacadabra.com/2014/perch%C3%A9-non-mi-piacciono-pi%C3%B9-anime-e-manga/))
+_Rocky Joe_ è l'emblema di questi valori, molto **sentiti e radicati nel Giappone post-bellico**, di cui ahimè sopravvivono oramai poche tracce, rimpastate assieme a prodotti più o meno _plastici_ ([ma questa è un'altra storia](/2014/perch%C3%A9-non-mi-piacciono-pi%C3%B9-anime-e-manga/))
 
 <figure>
 	<img src='http://2.bp.blogspot.com/-RO-B-JzI5YI/VIhS8jGD0KI/AAAAAAAALGI/VYfMobhI2zI/s1600/Rocky%2BJoe%2B1.png' alt= 'rocky-joe'>

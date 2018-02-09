@@ -22,11 +22,11 @@ Terza parte dell'intervista alla storica Designer della Serie: Romancing Saga, i
 Quest'IMMENSA intervista è stata realizzata da [4gamer](http://www.4gamer.net/games/064/G006480/20130227073/) nel 2013, ed originariamente tradotta in inglese dall'ottimo [**Shmuplations**](http://shmuplations.com/kazukoshibuya/).
 {:.notice-info}
 
-1. [**Prima Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
+1. [**Prima Parte**](/2017/intervista-kazuko-shibuya-parte-1)
 
-2. [**Seconda Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-2)
+2. [**Seconda Parte**](/2017/intervista-kazuko-shibuya-parte-2)
 
-3. [**Quarta Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-4)
+3. [**Quarta Parte**](/2017/intervista-kazuko-shibuya-parte-4)
 
 ## Romancing SaGa e Tomomi Kobayashi
 
@@ -138,6 +138,6 @@ Dal Giappone a New York, quindi alle Hawaii...l'ho fatto qualcosa come tre volte
 
 Nella prossima puntata... font & menù, il processo della pixel art e dragon quest!
 
-1. [**Prima Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
-2. [**Seconda Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-2)
-3. [**Quarta Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-4)
+1. [**Prima Parte**](/2017/intervista-kazuko-shibuya-parte-1)
+2. [**Seconda Parte**](/2017/intervista-kazuko-shibuya-parte-2)
+3. [**Quarta Parte**](/2017/intervista-kazuko-shibuya-parte-4)

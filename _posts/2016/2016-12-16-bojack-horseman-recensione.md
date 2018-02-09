@@ -80,9 +80,9 @@ Altro da dire? Beh, che Bojack è un cavallo, l'agente una gatta rosa e che in g
 <img src='http://bojackhorseman.com/art/friends/urkel.jpg' alt='bojack horseman'>
 </figure>
 
-**Ho ritrovato parecchio di [Birdman](http://xabacadabra.com/2015/birdman-recensione/) in Bojack Horseman**, ma anche di me stesso.
+**Ho ritrovato parecchio di [Birdman](/2015/birdman-recensione/) in Bojack Horseman**, ma anche di me stesso.
 
-Probabilmente, anche del [discorso che facevo qualche settimana fa](http://xabacadabra.com/2016/evasione/) a proposito de Labadessa e del bisogno di "evadere"...
+Probabilmente, anche del [discorso che facevo qualche settimana fa](/2016/evasione/) a proposito de Labadessa e del bisogno di "evadere"...
 
 Sarà un caso, ma **il fatto che Raphael Bob-Waksberg (l'autore della serie) sia un classe '84 per me la dice lunga su quella famosa sensazione di disagio e disperazione**, un Mostro noto molto bene a quelli che in questo periodo girano attorno ai 30 anni (ma non solo).
 

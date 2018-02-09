@@ -23,7 +23,7 @@ Un po' forse perché lungo è il film, un po' perché è uno di quei casi in cui
 
 ## Alejandro González Iñárritu
 
-Se avete letto la mia entusiastica [recensione di _Birdman_](http://xabacadabra.com/2015/birdman-recensione/) saprete già che con Iñárritu ho avuto una sorta di ping-pong:
+Se avete letto la mia entusiastica [recensione di _Birdman_](/2015/birdman-recensione/) saprete già che con Iñárritu ho avuto una sorta di ping-pong:
 
 1. _**Amores Perros**_ mi piacque tantissimo
 2. _**21 grammi**_ mi fece schifo
@@ -94,7 +94,7 @@ Traspare più sofferenza nel Di Caprio di quest'opera di finzione che in tanta r
 
 **in un film fondato e costruito sulla pura _fisicità_ interpretativa Di Caprio il rischio di venire eclissati esisteva**, anche a scapito delle note qualità di Hardy...eppure gli sguardi, il cinismo e l'arida crudezza del suo Fitzgerald risultano magnetici.
 
-**Domhnall Gleeson**, il vecchio Bill Weasley di Harrypotteriana memoria (e più recentemente in forza all'Impero ne [_Il risveglio della forza_](http://xabacadabra.com/2015/star-wars-7-recensione-il-risveglio-della-forza/)) ha rappresentato forse la sorpresa più grande: interpreta un ruolo da comprimario estremamente cruciale per gli equilibri tra protagonista e nemesi, e ha saputo tenere la scena alla grande  
+**Domhnall Gleeson**, il vecchio Bill Weasley di Harrypotteriana memoria (e più recentemente in forza all'Impero ne [_Il risveglio della forza_](/2015/star-wars-7-recensione-il-risveglio-della-forza/)) ha rappresentato forse la sorpresa più grande: interpreta un ruolo da comprimario estremamente cruciale per gli equilibri tra protagonista e nemesi, e ha saputo tenere la scena alla grande  
 
 Bene infine **Will Poulter**: il ragazzotto ci sa fare e, considerando le torture a cui pare Iñárritu abbia sottoposto la troupe, ha tirato fuori una prova più che convincente.
 
@@ -104,7 +104,7 @@ Bene infine **Will Poulter**: il ragazzotto ci sa fare e, considerando le tortur
 	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-13-gallery-image.jpg" alt="Revenant Redivivo Recensione">
 </figure>
 
-Come ho scritto di recente riguardo [_Macbeth_](http://xabacadabra.com/2016/macbeth-recensione/) non voglio sminuire il lavoro dei doppiatori e non sono certo quel che si dice un purista, **ma per svariati motivi credo che _Revenant_ sia un altro di quei film da rivedersi in lingua originale.**
+Come ho scritto di recente riguardo [_Macbeth_](/2016/macbeth-recensione/) non voglio sminuire il lavoro dei doppiatori e non sono certo quel che si dice un purista, **ma per svariati motivi credo che _Revenant_ sia un altro di quei film da rivedersi in lingua originale.**
 
 ## Onanismo Cinematografico
 
@@ -128,7 +128,7 @@ Anche in questo caso quindi lo "stalinismo" è perdonato: **l'estetica dittatori
 
 C'è qualcosa di spaventosamente affascinante, forse a tratti pure morboso, **nel concetto di un uomo distrutto, dato per finito che si vede _auto-costretto_ a risorgere per perseguire il proprio desiderio di vendetta:** 
 
-da _Il Conte di Montecristo_ a svariate religioni, passando per _Il Corvo_ (che come [dicevo](http://xabacadabra.com/2015/il-corvo-retrospettiva/) con questo discorso c'entra davvero parecchio), _Il Gladiatore_ e chi più ne ha più ne metta...a ben pensarci, personalmente **io faccio parte di quella grossa fetta di pubblico che quest'archetipo narrativo lo tiene in vita più che volentieri**, e _Revenant_ ne è senzadubbio uno splendido tanto quanto classico esponente
+da _Il Conte di Montecristo_ a svariate religioni, passando per _Il Corvo_ (che come [dicevo](/2015/il-corvo-retrospettiva/) con questo discorso c'entra davvero parecchio), _Il Gladiatore_ e chi più ne ha più ne metta...a ben pensarci, personalmente **io faccio parte di quella grossa fetta di pubblico che quest'archetipo narrativo lo tiene in vita più che volentieri**, e _Revenant_ ne è senzadubbio uno splendido tanto quanto classico esponente
  
 ## Considerazioni Personali
 

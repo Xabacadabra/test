@@ -26,7 +26,7 @@ Soprattutto, **Thimbleweed Park è un'Avventura Grafica di Ron Gilbert in combo 
 
 ## Però ?
 
-Però fosse tutto rosa e fiori non starei qui a scrivere qualcosa, [data la mia recente politica](http://xabacadabra.com/2017/pausetta/). 
+Però fosse tutto rosa e fiori non starei qui a scrivere qualcosa, [data la mia recente politica](/2017/pausetta/). 
 
 E, avendolo appena terminato, un paio di riflessioni sentivo il bisogno di sputarle fuori.
 
@@ -68,7 +68,7 @@ Ecco.
 
 Ora, io qui mi trovo inevitabilmente negli scomodi panni de _la gente_, ma il fatto è che la questione non è così semplice o netta da dirimere, **anche senza scomodare inevitabili paragoni e nostalgia.**
 
-Generi e contesti del tutto diversi, eppure molti degli aspetti trattati qualche tempo fa con [_Pillars of Eternity_](http://xabacadabra.com/2016/pillars-of-eternity-recensione/) rischiano di riaffiorare fuori anche in questo caso...eppure qui abbiamo di fronte un titolo **con una consapevolezza di fondo tutta diversa, quasi _esasperata_:**
+Generi e contesti del tutto diversi, eppure molti degli aspetti trattati qualche tempo fa con [_Pillars of Eternity_](/2016/pillars-of-eternity-recensione/) rischiano di riaffiorare fuori anche in questo caso...eppure qui abbiamo di fronte un titolo **con una consapevolezza di fondo tutta diversa, quasi _esasperata_:**
 
 **Thimbleweed Park è il gioco che meglio ha saputo sfruttare il contributo dei propri _backers_** <small>(i finaziatori di Kickstarter)</small>, cavalcando e spiattellando in faccia al giocatore il suo essere _"what fans paid for"_ ad ogni secondo, giocandoci sopra con tutta la verve e l'ironia propria dei suoi autori.
 

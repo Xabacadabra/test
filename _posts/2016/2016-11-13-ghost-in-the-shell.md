@@ -132,7 +132,7 @@ Ma oh, ci si accontenta eh. Anzi...
 
 Il problema grosso del live action semmai è un fatto d'origine:
 
-**Ghost in the Shell è una delle cose più giapponesi che ci siano**, soprattutto di quel famoso Giappone anni '90 che [metteva in mostra un futuro mai nato....](http://xabacadabra.com/2014/perch%C3%A9-non-mi-piacciono-pi%C3%B9-anime-e-manga/)
+**Ghost in the Shell è una delle cose più giapponesi che ci siano**, soprattutto di quel famoso Giappone anni '90 che [metteva in mostra un futuro mai nato....](/2014/perch%C3%A9-non-mi-piacciono-pi%C3%B9-anime-e-manga/)
 
 Ecco, gli americani al massimo _son quelli di Matrix_, per carità pure bello ma tutto n'altro paio di maniche.
 

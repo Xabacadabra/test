@@ -14,7 +14,7 @@ comments: true
 
 C'è del marcio in Giappolandia.
 
-Non vi è davvero altra spiegazione plausibile, [mi trovo a dover riconfermare quanto già detto qualche mese fa.](http://xabacadabra.com/2014/perch%C3%A9-non-mi-piacciono-pi%C3%B9-anime-e-manga/)
+Non vi è davvero altra spiegazione plausibile, [mi trovo a dover riconfermare quanto già detto qualche mese fa.](/2014/perch%C3%A9-non-mi-piacciono-pi%C3%B9-anime-e-manga/)
 
 Anche se, è bene specificarlo, qui per ragioni opposte:
 

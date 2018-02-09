@@ -43,7 +43,7 @@ a questo proposito vorrei sottolineare la generale buona educazione della folla,
 </figcaption>
 </figure>
 
-Certo, probabilmente **alcuni stand avrebbero dovuto investire di più nello spazio** (quello della **Shockdom**, causa i fenomeni facebookari [_Drizzit_](http://xabacadabra.com/2013/drizzit-recensione/) e _Sketch & Breakfast_, sembrava l'armata persiana di Serse) 
+Certo, probabilmente **alcuni stand avrebbero dovuto investire di più nello spazio** (quello della **Shockdom**, causa i fenomeni facebookari [_Drizzit_](/2013/drizzit-recensione/) e _Sketch & Breakfast_, sembrava l'armata persiana di Serse) 
 
 <figure>
 	<img src="http://1.bp.blogspot.com/-zRFuSa_VJZ0/UnTSMa2gEpI/AAAAAAAAFRo/x77RlUq-b0o/s1600/cavalieri+dello+zodiaco.jpg" alt="Cavalieri dello Zodiaco">
@@ -92,7 +92,7 @@ Tenendo conto che ho speso fin troppo nonostante abbia comunque rinunciato a qua
 
 <figure>
 	<img src="http://4.bp.blogspot.com/-aEmGqX_Vsek/UnUFfnydUCI/AAAAAAAAFTM/VZNIxFt9Dgo/s1600/mater+morbi.jpg" alt="Mater Morbi">
-	<figcaption>L'edizione ultrafigosa (variant cover) della Bao di [Mater Morbi](http://xabacadabra.com/2013/dylan-dog-280-mater-morbi-recensione/), lo spettacolare Dylan Dog 280, scritto da Roberto Recchioni e disegnato da Massimo Carnevale
+	<figcaption>L'edizione ultrafigosa (variant cover) della Bao di [Mater Morbi](/2013/dylan-dog-280-mater-morbi-recensione/), lo spettacolare Dylan Dog 280, scritto da Roberto Recchioni e disegnato da Massimo Carnevale
 </figcaption>
 
 <figure>

@@ -149,7 +149,7 @@ Questo probabilmente conta per i giochi che ho realizzato in passato e realizzer
 
 Ma quello che spero che la gente tragga dai miei videogame è un'energia positiva alla fine di ciascun gioco, la sensazione che si siano trovati di fronte ad una bella storia. Un altro aspetto chiave per me è la "densità", come i vari contenuti sono distribuiti durante l'esperienza di gioco. Non voglio che le persone percepiscano la sensazione di fare la stessa cosa a ripetizione. Voglio che vivano un esperienza interamente appassionante dall'inizio alla fine. [^densita]
 
-[^densita]: Questo discorso lo rapporto bene con un concetto che ho eposto di recente parlando di [Final Fantasy IX](http://xabacadabra.com/2016/final-fantasy-ix-remastered/)
+[^densita]: Questo discorso lo rapporto bene con un concetto che ho eposto di recente parlando di [Final Fantasy IX](/2016/final-fantasy-ix-remastered/)
 
 **Pensa che il lieto fine rappresenti una sorta di obbligo in un videogame ?**
 
@@ -157,8 +157,8 @@ Sì, non dubito che si possano realizzare giochi con finali aperti, artistici co
 
 ## Post correlati
 
-1. [Esplorando Final Fantasy IX](http://xabacadabra.com/2016/final-fantasy-ix-remastered/)
-2. [Remake di Final Fantasy VII[Trailer e Commento #1]](http://xabacadabra.com/2015/remake-di-final-fantasy-vii-1/)
-3. [Remake di Final Fantasy VII[Trailer e Commento #2]](http://xabacadabra.com/2015/remake-di-final-fantasy-vii-2/)
-4. [Nobuo Uematsu e la bellezza dei limiti](http://xabacadabra.com/2015/nobuo-uematsu-e-la-bellezza-dei-limiti/)
-5. [Due parole su Final Fantasy XIII](http://xabacadabra.com/2013/due-parole-su-final-fantasy-xiii/)
+1. [Esplorando Final Fantasy IX](/2016/final-fantasy-ix-remastered/)
+2. [Remake di Final Fantasy VII[Trailer e Commento #1]](/2015/remake-di-final-fantasy-vii-1/)
+3. [Remake di Final Fantasy VII[Trailer e Commento #2]](/2015/remake-di-final-fantasy-vii-2/)
+4. [Nobuo Uematsu e la bellezza dei limiti](/2015/nobuo-uematsu-e-la-bellezza-dei-limiti/)
+5. [Due parole su Final Fantasy XIII](/2013/due-parole-su-final-fantasy-xiii/)

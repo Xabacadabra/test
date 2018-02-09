@@ -79,7 +79,7 @@ Ma allora....
 <img src='http://2.bp.blogspot.com/-y-n8CDQT8L0/VI5gHXppUzI/AAAAAAAALIA/K3Kq_M7C-x8/s1600/1.jpg' alt='è-quasi-magia-Johnny'>
 </figure>
 
-**Perché le peripezie di Johnny/Kyusuke hanno coinvolto così tante generazioni d'italiani**, tanto da renderlo per un periodo **una sorta di cavallo di battaglia dell'ascolto per la vecchia Mediaset** ? <small>(un [dragonball](http://xabacadabra.com/2013/dragon-ball-in-italia/) anteliteram, se vogliamo)</small>
+**Perché le peripezie di Johnny/Kyusuke hanno coinvolto così tante generazioni d'italiani**, tanto da renderlo per un periodo **una sorta di cavallo di battaglia dell'ascolto per la vecchia Mediaset** ? <small>(un [dragonball](/2013/dragon-ball-in-italia/) anteliteram, se vogliamo)</small>
 
 Non è facile rispondere a questa domanda.
 

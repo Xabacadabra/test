@@ -46,7 +46,7 @@ Un po' come le "piccole" squadre che vendono a peso d'oro i talenti più in vist
 
 ## Tutto e Niente 
 
-Del resto, [come ho scritto io stesso](http://xabacadabra.com/2016/Scrivere-Blog-nel-nel-2017/), molto di ciò deriva dal peccato originale del blog non-tematico...tuttavia, conoscendomi, se mi fossi concentrato su un singolo tema non starei qui a scrivere: 
+Del resto, [come ho scritto io stesso](/2016/Scrivere-Blog-nel-nel-2017/), molto di ciò deriva dal peccato originale del blog non-tematico...tuttavia, conoscendomi, se mi fossi concentrato su un singolo tema non starei qui a scrivere: 
 
 **E quattro anni di post sono davvero un bel po' di roba, soprattutto fuori dal sempre più preponderante discorso paludoso dei social network.**
 

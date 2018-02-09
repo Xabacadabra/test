@@ -92,14 +92,14 @@ Eh, sì: avendo adorato 3 e 4, appena possibile mi accatterò **Persona 5**, di 
 
 Tornando a Xaba Cadabra, segnalo un megapostone in cantiere che personalmente m'interessa un sacco: 
 
-Dopo la traduzione dell'[Intervista ad Hironobu Sakaguchi](http://xabacadabra.com/2017/intervista-hironobu-sakaguchi/) sto lavorando ad un'altra dedicata a **Kazuko Shibuya**, designer della Square sin dal 1986 e somma maestra della pixel art: 
+Dopo la traduzione dell'[Intervista ad Hironobu Sakaguchi](/2017/intervista-hironobu-sakaguchi/) sto lavorando ad un'altra dedicata a **Kazuko Shibuya**, designer della Square sin dal 1986 e somma maestra della pixel art: 
 
 <figure>
 <img src='https://lparchive.org/Final-Fantasy-VI-(by-Blastinus)/Update%2047/1-25072011_134100.png' alt='Final-Fantasy-VI'>
 <figcaption>A lei si devono una marea di cose, dai classici menù al font del primissimo Final Fantasy passando per la "pixellizazione" di mostri e concept art del Maestro Yoshitaka Amano...dovessi dire, penso che il lavoro di design/animazione degli sprite di Final Fantasy VI possa essere considerato il suo miglior biglietto da visita.</figcaption>
 </figure>
 
-Tolto l'aspetto della traduzione (impegnativo ma anche abbastanza appagante), **faccende come questa rappresentano il tipo di contenuto con cui avrei voglia di riempire Xaba Cadabra in questa fase** (vedi anche  [il reportage al Cartoons on the Bay con Shin'ichiro Watanabe](http://xabacadabra.com/2017/il-shinichiro-watanabe-cartoons-on-the-bay-cowboy-bebop/) )
+Tolto l'aspetto della traduzione (impegnativo ma anche abbastanza appagante), **faccende come questa rappresentano il tipo di contenuto con cui avrei voglia di riempire Xaba Cadabra in questa fase** (vedi anche  [il reportage al Cartoons on the Bay con Shin'ichiro Watanabe](/2017/il-shinichiro-watanabe-cartoons-on-the-bay-cowboy-bebop/) )
 
 Per forza di cose però **parliamo di roba abbastanza tosta da scrivere/impaginare** e, con l'estate alle porte, temo risulterà ancor più dura mantenere un minimo di costanza.
 

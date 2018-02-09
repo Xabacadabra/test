@@ -25,17 +25,17 @@ Proverò ad essere sintetico quanto basta (cioè per niente), sperando di non es
 
 Imprescindibile.
 
-So benissimo che esistono fior di giochi che funzionano alla grande con personaggi precotti (_The Witcher_, [_Deus Ex_](http://xabacadabra.com/2016/deus-ex-saga/), _Planescape: Torment_), però è un elemento a mio avviso fondamentale per **immedesimazione, variabilità e rigiocabilità.**
+So benissimo che esistono fior di giochi che funzionano alla grande con personaggi precotti (_The Witcher_, [_Deus Ex_](/2016/deus-ex-saga/), _Planescape: Torment_), però è un elemento a mio avviso fondamentale per **immedesimazione, variabilità e rigiocabilità.**
 
-Per approfondire questo discorso, [cliccate pure qui](http://xabacadabra.com/2013/la-creazione-di-un-personaggio-nei-videogiochi/).
+Per approfondire questo discorso, [cliccate pure qui](/2013/la-creazione-di-un-personaggio-nei-videogiochi/).
 
 ## 2. Scelte che contano
 
 E no, _Mass Effect_, _Fallout_ e _Dragon Age_ per me non sono abbastanza.
 
-Diamine, hanno scelte e binari più ridotti del già citato _Planescape: Torment_, o [_Vampire the Masquerade: Bloodlines_](http://xabacadabra.com/2013/vampire-masquerade-bloodlines-recensione/), che a loro confronto sono degli arzilli vecchietti...capisco che i costi e le risorse da impiegare siano aumentati, **ma perché non può esserci un investimento narrativo, oltre che tecnico ?**
+Diamine, hanno scelte e binari più ridotti del già citato _Planescape: Torment_, o [_Vampire the Masquerade: Bloodlines_](/2013/vampire-masquerade-bloodlines-recensione/), che a loro confronto sono degli arzilli vecchietti...capisco che i costi e le risorse da impiegare siano aumentati, **ma perché non può esserci un investimento narrativo, oltre che tecnico ?**
 
-**Parliamo di un Gioco di RUOLO, signori: il libero arbitrio del giocatore è il fulcro di ogni cosa**, e dovrebbe essere in cima alle priorità di ogni sviluppatore che si rispetti (i giapponesi non fanno testo, l'ho già spiegato sempre [qui](http://xabacadabra.com/2013/la-creazione-di-un-personaggio-nei-videogiochi/#japan))
+**Parliamo di un Gioco di RUOLO, signori: il libero arbitrio del giocatore è il fulcro di ogni cosa**, e dovrebbe essere in cima alle priorità di ogni sviluppatore che si rispetti (i giapponesi non fanno testo, l'ho già spiegato sempre [qui](/2013/la-creazione-di-un-personaggio-nei-videogiochi/#japan))
 
 ## 3. Freeroaming
 

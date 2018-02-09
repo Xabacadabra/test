@@ -64,7 +64,7 @@ Discorsi simili si possono fare in altri contesti: vedi **Santoro, Augias,** il 
 
 Perché sì, oggi ci sono i Renzi, i Salvini, pure i Grillo ed insomma, i motivi per lamentarsi non mancherebbero, anzi.
 
-Però **è una lotta spenta**, vaga, [nauseata](http://xabacadabra.com/2013/la-politica-della-nausea-e-il-vomito/) e parecchio disinteressata.
+Però **è una lotta spenta**, vaga, [nauseata](/2013/la-politica-della-nausea-e-il-vomito/) e parecchio disinteressata.
 
 Per me, nel personale, c'è un po' tutto il passaggio che va da un quattordicenne ad un trentenne in divenire, sommato allo **spirito inglobante da balena bianca** che Renzi sa certamente incarnare meglio, più _moderatamente_, del Banana.
 

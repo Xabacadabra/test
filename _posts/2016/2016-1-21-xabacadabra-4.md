@@ -24,7 +24,7 @@ Bene, spero di sì:
 
 **benvenuti su Xaba Cadabra!**
 
-Se il nome non vi giunge nuovo (in caso contrario magari fate un salto [qui](http://xabacadabra.com/blog/story/)) dovreste aver notato un bel po' di cambiamenti, primo fra tutti l'indirizzo:
+Se il nome non vi giunge nuovo (in caso contrario magari fate un salto [qui](/blog/story/)) dovreste aver notato un bel po' di cambiamenti, primo fra tutti l'indirizzo:
 
 **xabacadabra.blogspot.it** d'ora in poi sarà relegato a mero redirect per questi lidi (xabacadabra.com), e **la piattaforma di blogger ufficialmente abbandonata.**
 
@@ -42,7 +42,7 @@ Credo che le belle interfacce frichettone abbiano fatto il loro tempo, come il b
 
 Al momento in cui scrivo siamo ancora ben lungi dall'importazione di **quasi tre anni d'archivio xabacadabrico**, e non è da escludere che **alcuni post non veranno ripescati affatto**, magari in attesa di una futura stesura riveduta e corretta: 
 
-Per fare un esempio che li vale tutti, il succo della recente recensione di [Xenogears](http://xabacadabra.com/2016/xenogears-recensione/) è stato scritto più o meno ai tempi di quella di [Grandia 2](http://xabacadabra.com/2013/grandia-2-recensione/) ma ripubblicato questo gennaio:
+Per fare un esempio che li vale tutti, il succo della recente recensione di [Xenogears](/2016/xenogears-recensione/) è stato scritto più o meno ai tempi di quella di [Grandia 2](/2013/grandia-2-recensione/) ma ripubblicato questo gennaio:
 
 Semplicemente, **il mio vecchio post era vago e approssimativo**, non una recensione vera e propria, quindi ho pensato valesse la pena risistemarlo come si deve e farne un pezzo rinnovato, senza rinnegare nulla di quanto già scritto nel 2013.
 

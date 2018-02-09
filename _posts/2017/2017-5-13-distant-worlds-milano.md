@@ -15,7 +15,7 @@ header:
 
 Anticipo da subito che questo resoconto **è una faccenda parecchio personale**, quindi se state cercando un riepilogo dell'evento scritto in maniera più formale e un minimo più "giornalistica" mi spiace ma questa volta cascate male...
 
-Il fatto è che, come spiegavo [un paio di settimane fa](http://xabacadabra.com/2017/pausetta/), la musica di Nobuo Uematsu e la serie _Final Fantasy_ in generale per me significano davvero un bel po'...
+Il fatto è che, come spiegavo [un paio di settimane fa](/2017/pausetta/), la musica di Nobuo Uematsu e la serie _Final Fantasy_ in generale per me significano davvero un bel po'...
 
 ## Dai Midi all'Orchestra
 
@@ -25,7 +25,7 @@ Il fatto è che, come spiegavo [un paio di settimane fa](http://xabacadabra.com/
 
 <small>Nobuo Uematsu [(fonte)](http://daily.redbullmusicacademy.com/2014/10/nobuo-uematsu-interview) </small>
 
-Anni fa citavo lo stesso Uematsu per trattare [**la questione dei limiti tecnici**](http://xabacadabra.com/2015/nobuo-uematsu-e-la-bellezza-dei-limiti/) e di quanto quest'ultimi (per paradosso) abbiano spinto oltre in termini di creatività parecchi autori e artisti legati al meraviglioso mondo dei videogames.
+Anni fa citavo lo stesso Uematsu per trattare [**la questione dei limiti tecnici**](/2015/nobuo-uematsu-e-la-bellezza-dei-limiti/) e di quanto quest'ultimi (per paradosso) abbiano spinto oltre in termini di creatività parecchi autori e artisti legati al meraviglioso mondo dei videogames.
 
 ## Soundfont 
 

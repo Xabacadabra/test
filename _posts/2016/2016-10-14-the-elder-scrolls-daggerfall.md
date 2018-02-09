@@ -53,7 +53,7 @@ Ed ecco qui il personaggio che mi sono creato per l'occasione:
 
 Potrei scriverci sopra qualche storia volendo...forse da queste parti non l'ho specificato, ma il mio massimo divertimento in questo tipo di giochi è **inventarmi biografie, alberi genalogici e cronologie** che creino contesto e background ai miei personaggi.
 
-Non ci credete? [Date un'occhiata a cosa ho combinato per il mio ultimo personaggio di Skyrim.](http://xabacadabra.com/velnias/)
+Non ci credete? [Date un'occhiata a cosa ho combinato per il mio ultimo personaggio di Skyrim.](/velnias/)
 
 ## Postilla: A proposito di Tamriel
 

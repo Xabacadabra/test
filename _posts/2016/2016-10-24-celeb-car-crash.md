@@ -93,7 +93,7 @@ se anche _un_ solo ascoltatore dovesse pensare questo, per me potremmo parlare d
 
 Ecco: in questo caso, onestamente, **quell'ascoltatore non sono io.**
 
-**People Are The Best Show** l'ho percepito come un disco "di mestiere" di una band americana di vent'anni fa che si diverte ancora a suonare...qualcosa di simile a quanto dissi per [Lightning Bolt dei Pearl Jam](http://xabacadabra.com/2013/pearl-jam-lightning-bolt-recensione/), o che potrei dire di molte cose nuove dei già citati **Alter Bridge**...
+**People Are The Best Show** l'ho percepito come un disco "di mestiere" di una band americana di vent'anni fa che si diverte ancora a suonare...qualcosa di simile a quanto dissi per [Lightning Bolt dei Pearl Jam](/2013/pearl-jam-lightning-bolt-recensione/), o che potrei dire di molte cose nuove dei già citati **Alter Bridge**...
 
 Sensazioni eh, certo:
 

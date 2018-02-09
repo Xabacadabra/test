@@ -86,7 +86,7 @@ Un futuro che non assomiglia a quello che **esisteva già** nella Tokyo anni '80
 
 **Un futuro globalmente mai nato** che credo abbia gambizzato una grossa fetta della vena creativa nipponica.
 
-Poi chi lo sa, magari domani usciranno gli eredi moderni di _Berserk, Slam Dunk_ e [_Parasite Eve_](http://xabacadabra.com/2015/parasite-eve-recensione/) tutti in una botta.
+Poi chi lo sa, magari domani usciranno gli eredi moderni di _Berserk, Slam Dunk_ e [_Parasite Eve_](/2015/parasite-eve-recensione/) tutti in una botta.
 
 Magari 'sto Attacco dei Giganti potrebbe pure pure piacermi.
 

@@ -53,7 +53,7 @@ Dirò una cosa che potrebbe suonare abbastanza fraintendibile e mi renderà sicu
   
 **La criminalità romana, cinematograficamente parlando, non mi convince per niente.**  
   
-Amo un sacco il dialetto e l'accento capitolino, l'ho semplicemente adorato in _[Arance e Martello](http://xabacadabra.com/2015/arance-e-martello-recensione/)_, piuttosto che nei vecchi classici di Alberto Sordi (a tratti anche di Tomas Milian), o altri contesti ancora (da [Gazebo](http://xabacadabra.com/2013/gazebo) a Zerocalcare), ma ecco...in opere simili, secondo me, mostra troppo il fianco.  
+Amo un sacco il dialetto e l'accento capitolino, l'ho semplicemente adorato in _[Arance e Martello](/2015/arance-e-martello-recensione/)_, piuttosto che nei vecchi classici di Alberto Sordi (a tratti anche di Tomas Milian), o altri contesti ancora (da [Gazebo](/2013/gazebo) a Zerocalcare), ma ecco...in opere simili, secondo me, mostra troppo il fianco.  
   
 **Il romano non si traduce bene con l'epicità criminale degli eventi e delle scene che mostra.**  
   

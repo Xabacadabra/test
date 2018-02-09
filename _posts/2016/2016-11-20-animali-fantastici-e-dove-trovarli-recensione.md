@@ -19,7 +19,7 @@ Senza girarci troppo attorno, **Animali Fantastici è un film splendido.**
 
 Per come è stato scritto, diretto, girato ed interpretato...ma soprattutto **è un prequel totalmente scollegato dalle opere che hanno definito le ossa  della sua ambientazione.**
 
-Non cerca facili ammiccamenti [come qualcuno...](http://xabacadabra.com/2015/star-wars-7-recensione-il-risveglio-della-forza/) e non rimanda di continuo ai personaggi o eventi collegati alla saga di Harry Potter: 
+Non cerca facili ammiccamenti [come qualcuno...](/2015/star-wars-7-recensione-il-risveglio-della-forza/) e non rimanda di continuo ai personaggi o eventi collegati alla saga di Harry Potter: 
 
 **Il film è un pezzo di quello stesso universo che vive di vita propria**, e lo fa avendo come palcoscenico **un luogo ed un periodo storico estremamente affascinanti**: l'America successiva alla Prima e prossima alla Seconda Guerra mondiale. [^guerra]
 

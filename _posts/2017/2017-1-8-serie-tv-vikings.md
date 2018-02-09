@@ -23,7 +23,7 @@ Nessuno Spoiler, tranquilli: solo qualche generica osservazione sparsa nel pieno
 
 Anzitutto che **la Storia è sexy.**
 
-Anche se non parliamo di un documentario <small>(o di Alberto Angela, per tutte le signorine all'ascolto)</small>, **le ambientazioni storiche** rese bene e con un buon livello di fedeltà offrono molto spesso **gli scenari più suggestivi e affascinanti della narrativa a tutti i livelli**, e le Serie TV non fanno eccezione (in questo discorso inserirei bene anche [Black Sails](http://xabacadabra.com/2014/black-sails-recensione/))
+Anche se non parliamo di un documentario <small>(o di Alberto Angela, per tutte le signorine all'ascolto)</small>, **le ambientazioni storiche** rese bene e con un buon livello di fedeltà offrono molto spesso **gli scenari più suggestivi e affascinanti della narrativa a tutti i livelli**, e le Serie TV non fanno eccezione (in questo discorso inserirei bene anche [Black Sails](/2014/black-sails-recensione/))
 
 ## La vera lezione
 

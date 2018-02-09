@@ -36,7 +36,7 @@ E a me, **sta cosa spaventa.**
 
 Intendiamoci: la capisco, perché anche io le (rare) volte in cui si torna alle urne mi sento in un vicolo cieco, e l'idea di *"spazzare via tutto"* puntando su qualcosa di nuovo, che coinvolga pure noi altri "gente dal basso", si fa sentire:
 
-**Il Movimento 5 Stelle delle origini mi affascinò proprio per questi motivi**, anche se mi ha sempre lasciato perplesso (e vagamente nauseato) per tutti gli altri (per chi si ricorda, un paio di anni fa ne discutemmo un pochetto nei commenti [qui](http://xabacadabra.com/2015/hashtag-iononleggorepubblica-e-una-stronzata/)).
+**Il Movimento 5 Stelle delle origini mi affascinò proprio per questi motivi**, anche se mi ha sempre lasciato perplesso (e vagamente nauseato) per tutti gli altri (per chi si ricorda, un paio di anni fa ne discutemmo un pochetto nei commenti [qui](/2015/hashtag-iononleggorepubblica-e-una-stronzata/)).
 
 ## Delegare
 

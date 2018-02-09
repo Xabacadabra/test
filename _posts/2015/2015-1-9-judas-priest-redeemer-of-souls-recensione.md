@@ -16,7 +16,7 @@ Almeno un po'.
 
 Solo che l'album non era questo. E manco il gruppo!
 
-Scherzi a parte, visto che vanno a concertare assieme in lungo e in largo e condividono lo status di leggende assolute del relativo genere musicale, mi riuscirebbe davvero difficile non ripetere **certi discorsi che feci coi [Motörhead di Aftershock](http://xabacadabra.com/2013/Mot%C3%B6rhead-Aftershock-Recensione/), con questi Judas Priest di _Redeemer of Souls_.**
+Scherzi a parte, visto che vanno a concertare assieme in lungo e in largo e condividono lo status di leggende assolute del relativo genere musicale, mi riuscirebbe davvero difficile non ripetere **certi discorsi che feci coi [Motörhead di Aftershock](/2013/Mot%C3%B6rhead-Aftershock-Recensione/), con questi Judas Priest di _Redeemer of Souls_.**
 
 ## Un disco di mestiere
 

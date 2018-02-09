@@ -132,4 +132,4 @@ Consigliarla è quasi superfluo, visto che a quanto pare un utente Netflix su du
 
 ## Altro dalla rubrica "Il Netfilx che non ti aspetti"
 
-1. [Il Netflix che non ti aspetti #1](http://xabacadabra.com/2017/il-netfilx-che-non-ti-aspetti/)
+1. [Il Netflix che non ti aspetti #1](/2017/il-netfilx-che-non-ti-aspetti/)

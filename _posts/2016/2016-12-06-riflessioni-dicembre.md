@@ -24,7 +24,7 @@ Senza dilungarsi troppo: da qualche giorno avevo semplicemente voglia di scriver
 <blockquote class="twitter-tweet" data-lang="it"><p lang="it" dir="ltr"><a href="https://twitter.com/hashtag/maratonamentana?src=hash">#maratonamentana</a> Mentana ha appena &quot;doppiato&quot; in diretta un Makkox imitando l&#39;accento toscano di Renzi. Per me capodanno è oggi</p>&mdash; Xab (@Xabaras89) <a href="https://twitter.com/Xabaras89/status/805542172439310336">4 dicembre 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Varrebbe sempre un vecchio [post nauseato](http://xabacadabra.com/2013/la-politica-della-nausea-e-il-vomito/), ma beh, come forse si sarà notato rispetto alle origini non **scrivo praticamente più di politica italiana**, anche se continuo a seguirne le vicende in modo _vorace_ (complice la mia passione per le Maratone di Mentana).
+Varrebbe sempre un vecchio [post nauseato](/2013/la-politica-della-nausea-e-il-vomito/), ma beh, come forse si sarà notato rispetto alle origini non **scrivo praticamente più di politica italiana**, anche se continuo a seguirne le vicende in modo _vorace_ (complice la mia passione per le Maratone di Mentana).
 
 Beh, **ho votato No dopo essermi letto la riforma articolo per articolo** e, parlando di elezioni venture (chissà) ora come ora non saprei assolutamente per chi votare. 
 
@@ -46,7 +46,7 @@ Forse, in un certo senso, aveva ragione lui.
 
 ## Rileggendomi
 
-Dovendo lavorare a molti aspetti tecnici del blog e importare un sacco di roba negli archivi, mi sono ritrovato anche a rileggere molto spesso vecchi post [**come questo**](http://xabacadabra.com/2013/solitudine/), e beh...
+Dovendo lavorare a molti aspetti tecnici del blog e importare un sacco di roba negli archivi, mi sono ritrovato anche a rileggere molto spesso vecchi post [**come questo**](/2013/solitudine/), e beh...
 
 come dire, so che può sembrare la quintessenza dell'onanismo digitale, ma **credo che rileggersi sia una delle cose più belle per un blogger.**
 
@@ -56,9 +56,9 @@ Non per motivo di vanto o altro, intendiamoci, ma per rendersi conto che certi d
 
 Come forse avrete notato ora Xaba Cadabra possiede bellissime faccine! 👊
 
-Si tratta dell'ottimo plugin [Jemoji](https://github.com/jekyll/jemoji), se usate Jekyll probabilmente lo conoscete già (o dovreste! Ho scritto pure [un post](http://xabacadabra.com/2015/la-discriminazione-delle-faccine/) sull'importanza delle faccine, che diamine!)
+Si tratta dell'ottimo plugin [Jemoji](https://github.com/jekyll/jemoji), se usate Jekyll probabilmente lo conoscete già (o dovreste! Ho scritto pure [un post](/2015/la-discriminazione-delle-faccine/) sull'importanza delle faccine, che diamine!)
 
-Poi...**ho cambiato completamente la pagina dell'[About](http://xabacadabra.com/andrea-corinti/)**, sfruttando un altro theme del fantastico [Michael Rose](https://mademistakes.com/)...devo sistemarlo bene, metterci una foto decente e fare qualche altra cosetta ma per adesso sono abbastanza contento.
+Poi...**ho cambiato completamente la pagina dell'[About](/andrea-corinti/)**, sfruttando un altro theme del fantastico [Michael Rose](https://mademistakes.com/)...devo sistemarlo bene, metterci una foto decente e fare qualche altra cosetta ma per adesso sono abbastanza contento.
 
 ## Che cosa sto guardando ?
 

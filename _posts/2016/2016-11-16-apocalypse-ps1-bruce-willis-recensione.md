@@ -150,7 +150,7 @@ E in questo fu semplicemente meraviglioso.
 
 Il boss finale, **la Bestia, l'anticristo, è il Presidente degli Stati Uniti**.
 
-...e sì, direi che stiamo pensando tutti [alla stessa cosa.](http://xabacadabra.com/2016/trump/)
+...e sì, direi che stiamo pensando tutti [alla stessa cosa.](/2016/trump/)
 
 ## Grafica
 

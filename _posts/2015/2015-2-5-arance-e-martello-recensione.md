@@ -13,7 +13,7 @@ published: true
 comments: true
 ---
 
-Della mia stima per **Zoro** (**Diego Bianchi**) e del suo **_[Gazebo](http://xabacadabra.com/2013/gazebo)_ **televisivo ho già fatto sapere a più riprese, ed è cosa nota per chiunque mi veda bazzicare su **[twitter](https://twitter.com/Xabaras89) **nelle tarde ore della domenica e del lunedì  
+Della mia stima per **Zoro** (**Diego Bianchi**) e del suo **_[Gazebo](/2013/gazebo)_ **televisivo ho già fatto sapere a più riprese, ed è cosa nota per chiunque mi veda bazzicare su **[twitter](https://twitter.com/Xabaras89) **nelle tarde ore della domenica e del lunedì  
 
 Va da se che TV e Cinema sono cose ben diverse, pur senza dimenticare che il buon Diego proviene anzitutto dal Web...ergo, l'amletico dubbio:  
   

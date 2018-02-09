@@ -69,7 +69,7 @@ ecco, **il Batman di questo film è praticamente ricalcato su quello di Miller**
 <img src="http://vignette1.wikia.nocookie.net/newdcmovieuniverse/images/9/9b/Henrycavill.jpg" alt="batman v superman recensione">
 </figure>
 
-**Batman V Superman in origine doveva essere Man of Steel II**, quindi partiamo col dire che la previa visione dell'Uomo d'Acciaio è molto importante (purtroppo) e **per non allungare troppo il brodo vi rimando alla mia [relativa recensione](http://xabacadabra.com/2016/l-uomo-d-acciaio-recensione/)**, visto che il Superman che abbiamo in questo film è sostanzialmente lo stesso che avevamo lasciato nel film precedente (forse **un pelo spogliato della sua divinità dal Batman-Prometeo della situazione**).
+**Batman V Superman in origine doveva essere Man of Steel II**, quindi partiamo col dire che la previa visione dell'Uomo d'Acciaio è molto importante (purtroppo) e **per non allungare troppo il brodo vi rimando alla mia [relativa recensione](/2016/l-uomo-d-acciaio-recensione/)**, visto che il Superman che abbiamo in questo film è sostanzialmente lo stesso che avevamo lasciato nel film precedente (forse **un pelo spogliato della sua divinità dal Batman-Prometeo della situazione**).
 
 ## Il Batman di Affleck
 
@@ -131,7 +131,7 @@ Quanto a Doomsday, **lui pare effettivamente una versione pataccosa del Re Gobli
 <img src="https://leortola.files.wordpress.com/2013/06/05.jpg" alt="batman v superman recensione">
 </figure>
 
-Alla fine delle due ore abbondanti mi sono ritrovato istintivamente a pensare come **le sensazioni che mi ha lasciato Batman V Superman siano diametralmente opposte a quelle che ho avuto con [Star Wars VII - Il Risveglio della Forza](http://xabacadabra.com/2015/star-wars-7-recensione-il-risveglio-della-forza/)...**
+Alla fine delle due ore abbondanti mi sono ritrovato istintivamente a pensare come **le sensazioni che mi ha lasciato Batman V Superman siano diametralmente opposte a quelle che ho avuto con [Star Wars VII - Il Risveglio della Forza](/2015/star-wars-7-recensione-il-risveglio-della-forza/)...**
 
 Film lontanissimi certo, ma entrambi nerd-franchise-movie creati con una spiccatissima idea commerciale dietro:
 
