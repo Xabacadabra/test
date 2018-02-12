@@ -43,7 +43,7 @@ E FINALMENTE!
 
 CAMPIONI DEL MONDO, CAMPIONI DEL MONDOOOOOOOOO
 
-![renè](https://serialmindsecn.nohup.it/wp-content/uploads/2016/03/dai-dai-dai.gif)
+![martellone](https://media.giphy.com/media/xTiTngOFSzuwpnUbGo/giphy.gif)
 
 Lasciatemelo dire, sembrerà poco ma per me è una vera rivoluzione levarmelo dai piedi, soprattutto visto che sono **riuscito ad importare tutti i vecchi commenti in [Staticman](https://staticman.net/)**, quindi anche loro se ne stanno comodi comodi al calduccio di Github.
 
