@@ -31,7 +31,7 @@ E, come forse avrete notato, **da queste parti abbiamo riverniciato casa!**
 
 ## Nuovo Look
 
-> Per certi versi ha rappresentato un ritorno al passato con una scelta in netta controtendenza con l’internet moderno: sfondo scuro e scritte chiare. Del resto, anche i blog vanno in controtendenza in questi anni e personalmente è una scelta stilistica che ho sempre amato sin dai miei primi anni su internet.
+> Per certi versi ha rappresentato un ritorno al passato con una scelta in netta controtendenza con l’internet moderno: sfondo scuro e scritte chiare. Del resto, anche i blog vanno in controtendenza in questi anni e personalmente è una scelta stilistica che ho sempre amato.
 
 Per altre menate sulla storia di Xaba Cadabra andate pure [qua](/storia/) che non vi voglio ammorbare più del dovuto in questa sede.
 
