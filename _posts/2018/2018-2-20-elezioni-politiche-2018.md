@@ -23,11 +23,15 @@ E, oggi più di allora, **non saprei proprio chi votare.**
 
 ## Chi hai votato nel 2013 ?
 
+![2013](https://triskel182.files.wordpress.com/2013/02/risultati-elezioni-20131.jpg)
+
 Il **Movimento 5 Stelle**, anche se senza alcun entusiasmo.
 
-Lo votai perché **Rivoluzione Civile** mi pareva un'accozzaglia giustizialista morta sul nascere <small>(e poi in effetti...)</small>, perché il **PD** dell'epoca veniva da una storia recente centrista che corteggiava **Scelta Civica** di **Mario Monti** senza pietà _(che culo)_, tanto da far inacidire l'alleato **SEL**...la stessa SEL guidata da Vendola, quello che poi si è scoperto ridere sul disastro dell'Ilva di Taranto eccetera eccetera.
+Lo votai perché **Rivoluzione Civile** mi pareva un'accozzaglia giustizialista morta sul nascere <small>(e poi in effetti...)</small>, perché il **PD** dell'epoca veniva da una storia recente centrista che corteggiava **Scelta Civica** di **Mario Monti** senza pietà _(che culo)_, tanto da far inacidire l'alleato **SEL**...la stessa SEL guidata da Vendola, quello che poi si è scoperto ridere sul disastro dell'Ilva di Taranto eccetera eccetera. [^destra]
 
-Ci sarebbero anche **altri trascorsi pesanti tra PD e Berlusconi**, ben antecedenti al solito _renzismo_ che oggigiorno va per la maggiore. 
+[^destra]: non votai ovviamente il centrodestra, prima ancora che per ideologia, per il semplice fatto che è da sempre la coalizione preferita dalle varie simpatiche mafie. 
+
+Ci sarebbero anche **altri trascorsi pesanti tra PD e Berlusconi**, ben antecedenti al solito _renzismo_ che oggigiorno va tanto per la maggiore. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/swntE1iWB5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -39,17 +43,21 @@ Ma soprattutto, abitando a Genova <small>(che non a caso da qualche tempo è _in
 
 [^vincenzi]: [Condannata in primo grado per omicidio colposo plurimo, disastro colposo e falso, sempre bene citarlo](http://genova.repubblica.it/cronaca/2016/11/28/news/processo_alluvione_fereggiano_sentenza_attesa_per_le_16-152999420/)
 
-Quindi, avversione per la linea Renziana e macelli con le banche a parte, fondamentalmente **in quanto ligure d'adozione il PD non lo potrò mai votare per forza di cose.**
+Quindi, avversione per la linea Renziana e macelli con le banche a parte, fondamentalmente **in quanto ligure d'adozione il PD non lo potrò mai votare a prescindere.**
 
 ## Il Movimento 5 Stelle nel 2013
+
+![movimento-5-stelle](https://meetuptaviano.files.wordpress.com/2013/01/ricerca-rappresentanti-di-lista21.jpg)
 
 Il Movimento, dal canto suo, **poneva temi eticamente interessanti sia sul piano morale che su quello etico-ecologico**, sebbene l'effetto _"dilettanti allo sbaraglio"_ unito alle ingerenze della **Casaleggio Associati** non mi piacessero per nulla, esattamente come **parecchie sparate di Grillo** (da queste parti trattai l'argomento un paio di volte, tipo [qua](https://www.xabacadabra.com/2015/hashtag-iononleggorepubblica-e-una-stronzata/)). 
 
 Soprattutto, **non mi è mai piaciuto il concetto _"destra e sinistra sono categorie superate"_**, sebbene il sottoscritto sostenga da sempre quanto queste definizioni abbiano avuto **relativamente poco senso nell'Italia della Seconda Repubblica**.
 
-Poco tempo dopo, [sempre nel 2013](https://www.xabacadabra.com/2013/la-politica-della-nausea-e-il-vomito/), raggiunsi una sorta di _climax_ del disgusto per la politica che da allora non ha fatto altro che andare aumentando.
+Degno di nota ricordare come, poco tempo dopo il voto, raggiunsi una sorta di _climax_ del disgusto per la politica [sempre nel 2013](https://www.xabacadabra.com/2013/la-politica-della-nausea-e-il-vomito/), disgusto che da allora non ha fatto altro che andare aumentando.
 
 ## 4 Marzo 2018
+
+![sondaggi-tecnè-itenzioni-di-voto-febbraio](https://www.termometropolitico.it/media/2018/02/Sondaggi-Tecn%C3%A8-2.jpg)
 
 > Chi votare oggi ?
 
@@ -59,7 +67,7 @@ Bella domanda.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gqk5sE_tI9o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Zoro, in questa bellissima intervista, pone al Movimento 5 Stelle più o meno tutte le lamentele che avrei elencato pure io.
+Zoro, in questa bellissima intervista, pone al Movimento 5 Stelle più o meno tutte le critiche che avrei elencato pure io.
 
 Mi limito ad aggiungere due elementi:
 
@@ -78,6 +86,8 @@ Il guaio è che **non è mica l'unica**, e Sibilia non è l'unico "uno" che le h
 
 ## Episodio III: Il Ritorno della Nausea
 
+![antipolitica](https://upload.wikimedia.org/wikipedia/commons/e/e0/2006_Italian_pollbox.jpg)
+
 Per massima parte **I 5 Stelle hanno ragione quando protestano contro chi insiste a votare le vecchie forze che hanno avuto modo di (mal)governare l'Italia.**
 
 Non lo diranno nel modo più _furbo_ e simpatico del mondo, ma ehi:
@@ -88,17 +98,19 @@ Non lo diranno nel modo più _furbo_ e simpatico del mondo, ma ehi:
 
 Però, allo stesso modo, **come diavolo potrei avere lo stomaco di votare qualcuno che porta in seno complottisti, no-vax, eccetera ?** 
 
-A me non frega niente di **rimborsopoli**, mi preoccupa molto di più **gente come [Roberta Lombardi**](http://www.globalist.it/politics/articolo/2018/02/12/la-almirantiana-roberta-lombardi-torna-a-parlare-di-fascismo-buono-2019317.html) una che (detta garbatamente) mi pare 'na Giorgia Meloni dei poverissimi.
+A me non frega niente di **rimborsopoli**, preoccupa molto di più gente come [**Roberta Lombardi**](http://www.globalist.it/politics/articolo/2018/02/12/la-almirantiana-roberta-lombardi-torna-a-parlare-di-fascismo-buono-2019317.html) una che (detta garbatamente) mi pare 'na Giorgia Meloni dei poverissimi.
 
 ## Liberi e Uguali
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flogocomuneofficial%2Fposts%2F393126814462566&width=500" width="500" height="502" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-**Liberi e Uguali** come detto si porta dietro **parecchia di quella zavorra che non mi fece votare il PD nel 2013**, e il fatto di puntare su **Grasso** a me non convince affatto. [^grasso]
+**Liberi e Uguali** come detto si porta dietro **parecchia di quella zavorra che non mi fece votare il PD nel 2013**.
 
-[^grasso]: Figura rispettabilissima, ma è un ex-magistrato che sembra voler fare da foglia di fico ad un insieme variopinto di gente politicamente non proprio di primo pelo. Pare un po' un Rivoluzione Civile 2.0 con na spruzzata di SEL, ecco.
+Oltre a ciò, detto francamente puntare su **Grasso** a me non convince affatto. [^grasso]
 
-Soprattutto, **un partito di sinistra che non ha i numeri per aspirare ad essere forza di governo per me di base non ha senso.**.
+[^grasso]: Figura rispettabilissima intendiamoci, ma è un ex-magistrato che sembra fare da foglia di fico ad un insieme variopinto di gente politicamente non proprio di primo pelo. Sensazioni da Rivoluzione Civile 2.0 con na spruzzata di SEL, ecco.
+
+Soprattutto, **un partito di sinistra che non ha i numeri per aspirare ad essere forza di governo per me di base non ha molto senso.**
 
 Perché **sì, siamo tornati al proporzionale, ma mica nella Prima Repubblica:**
 
@@ -118,7 +130,7 @@ Vale pressapoco il medesimo discorso appena scritto, a cui aggiungerei **la puzz
 
 [^sindacati]: gruppi sindacali che, anche per trascorsi personali, personalmente non posso tanto vedere.
 
-**L'origine da "centro sociale" per me sarebbe quindi l'ultimo dei problemi, anzi**, e mi piace pure il fatto che guardino a **Corbyn, Mélenchon e Podemos**.
+**L'origine da "centro sociale" per me sarebbe quindi l'ultimo dei problemi**, anzi, e mi piace pure il fatto che guardino a **Corbyn, Mélenchon e Podemos**.
 
 Che però, vorrei far notare, **hanno tutti perso**.
 
@@ -138,34 +150,36 @@ Avessi 18 anni sarei stato in parte sedotto pure io da discorsi come quello di [
 
 ## "A mé fascio?"
 
-Forse incide anche l'affrontare una serie di guai personali di un certo peso portandosi una famiglia sulle spalle, ma **trovo arduo non vedere in certe iniziative una scusa da liceali fuori tempo massimo per rollarsi due canne e urlare contro i fantomatici _"fasci"_.** [^fasci]
+Forse incide anche l'affrontare una serie di guai personali di un certo peso portandosi una famiglia sulle spalle, ma **trovo arduo non vedere in certe iniziative una scusa da liceali fuori tempo massimo per rollarsi due canne tuonando contro i fantomatici _"fasci"_.** [^fasci]
 
-[^fasci]: non che io neghi una pericolosa deriva fascista in tanti partitelli eh, ma per l'appunto parliamo di roba da prefisso telefonico: a chiamarli fasci gli si fa giusto un piacere.
+[^fasci]: non che io neghi una pericolosa deriva fascista in tanti partitelli eh, ma per l'appunto parliamo di roba da prefisso telefonico: a chiamarli fasci li si fa giusto un piacere.
 
-Insomma, son diventato Mario Brega con la _zoccolé_.
+Insomma: son diventato Mario Brega con la _zoccolé_.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bH5HUexDmwM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Guardare in basso prima di guardare in alto
 
-Sfugge il fatto che **prima di portare un partito di sinistra alle elezioni lo si deve riportare per le strade**, andare dove c'è la gente che sta peggio, che non ce la fa più:
+![pasolini](https://pilastro2016.files.wordpress.com/2015/11/pasolini.jpg)
+
+Alla base sfugge il fatto che **prima di portare un partito di sinistra alle elezioni lo si deve riportare per le strade**, quelle dove c'è chi sta peggio:
 
 **Non è un caso se le periferie oggi votano destra, 5 stelle o stanno direttamente a casa.**
 
 Poi magari uno di questi partitini di sinistra 'sto percorso lo farà eh, diciamo che **averlo iniziato qualche tempo _prima_ del ridosso delle elezioni forse avrebbe portato uno straccio di credibilità.**
 
-## Conclusione
+## Conclusioni
 
 Ammazza quanto ho scritto!
 
 Scusate il megasfogo, non era preventivato, lo giuro!
 
-In fin della fiera, personalmente credo che voterò **o Liberi e Uguali o Movimento 5 Stelle**:
+In fin della fiera, personalmente forse voterò **o Liberi e Uguali o Movimento 5 Stelle**:
 
-LeU intanto ha proposto una buona lista dalle mie parti (leggo i nomi di Sergio Cofferati, Silvio Del Buono), mentre **dal Movimento aspetto anzitutto la lista dei ministri** per fare una valutazione a livello nazionale.
+LeU perché più che altro **ha proposto una buona lista** dalle mie parti (leggo i nomi di Sergio Cofferati, Silvio Del Buono e Roberto Amen), mentre **dal Movimento aspetto anzitutto la lista dei ministri** per fare una valutazione più a livello nazionale.
 
-Tocca ammetterlo però: mai come oggi sono tentato dalla scheda bianca.
+Tocca ammetterlo però: **mai come oggi sono tentato dalla scheda bianca.**
 
-Tanto, in fin della fiera, ha già vinto lui.
+Anche perché, in fin della fiera, ha già vinto lui.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flogocomuneofficial%2Fvideos%2F393312291110685%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
