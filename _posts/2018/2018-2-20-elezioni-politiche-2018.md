@@ -29,7 +29,7 @@ Il **Movimento 5 Stelle**, anche se senza alcun entusiasmo.
 
 Lo votai perché **Rivoluzione Civile** mi pareva un'accozzaglia giustizialista morta sul nascere <small>(e poi in effetti...)</small>, perché il **PD** dell'epoca veniva da una storia recente centrista che corteggiava **Scelta Civica** di **Mario Monti** senza pietà _(che culo)_, tanto da far inacidire l'alleato **SEL**...la stessa SEL guidata da Vendola, quello che poi si è scoperto ridere sul disastro dell'Ilva di Taranto eccetera eccetera. [^destra]
 
-[^destra]: non votai ovviamente il centrodestra, prima ancora che per ideologia, per il semplice fatto che è da sempre la coalizione preferita dalle varie simpatiche mafie. 
+[^destra]: non votai ovviamente il centrodestra, prima ancora che per ideologia e questioni giudiziarie, per mero senso del buon gusto: ricordatevi sempre che grazie a quel 30% sono 5 anni che abbiamo GASPARRI Presidente del Senato. Cioè, GASPARRI. 
 
 Ci sarebbero anche **altri trascorsi pesanti tra PD e Berlusconi**, ben antecedenti al solito _renzismo_ che oggigiorno va tanto per la maggiore. 
 
@@ -71,7 +71,7 @@ Zoro, in questa bellissima intervista, pone al Movimento 5 Stelle più o meno tu
 
 Mi limito ad aggiungere due elementi:
 
-1. La pericolosa **deriva no-vax** che interessa _una parte_ del M5S e da cui sembra non volersi smarcare in modo definitivo (emblematico [il caso Raggi](http://www.lastampa.it/2017/09/11/italia/politica/raggi-apre-ai-genitori-no-vax-il-ministero-nessuna-deroga-EMGLgZve6hy1JKd5HMKfAL/pagina.html) dello scorso Novembre)
+1. La pericolosa **deriva no-vax** che interessa una parte consistente della base M5S e da cui lo stesso sembra non volersi smarcare del tutto (emblematico [il caso Raggi](http://www.lastampa.it/2017/09/11/italia/politica/raggi-apre-ai-genitori-no-vax-il-ministero-nessuna-deroga-EMGLgZve6hy1JKd5HMKfAL/pagina.html) dello scorso Novembre)
 
 2. Il più cruciale: **un conto è _Dibba_, un conto il resto del Movimento**.
 
@@ -98,7 +98,7 @@ Non lo diranno nel modo più _furbo_ e simpatico del mondo, ma ehi:
 
 Però, allo stesso modo, **come diavolo potrei avere lo stomaco di votare qualcuno che porta in seno complottisti, no-vax, eccetera ?** 
 
-A me non frega niente di **rimborsopoli**, preoccupa molto di più gente come [**Roberta Lombardi**](http://www.globalist.it/politics/articolo/2018/02/12/la-almirantiana-roberta-lombardi-torna-a-parlare-di-fascismo-buono-2019317.html)j una che (detta garbatamente) mi pare 'na Giorgia Meloni dei poverissimi.
+A me non frega niente di **rimborsopoli**, preoccupa molto di più gente come [**Roberta Lombardi**](http://www.globalist.it/politics/articolo/2018/02/12/la-almirantiana-roberta-lombardi-torna-a-parlare-di-fascismo-buono-2019317.html), una che (detta garbatamente) mi pare 'na Giorgia Meloni dei poverissimi.
 
 ## Liberi e Uguali
 
@@ -134,7 +134,7 @@ Vale pressapoco il medesimo discorso appena scritto, a cui aggiungerei **la puzz
 
 Che però, vorrei far notare, **hanno tutti perso**.
 
-E venivano da partiti con un _minimo_ di storia (anche se recente [^recente]), tolto ovviamente Corbyn che si porta dietro **il solido colosso rappresentato dai laburisti inglesi**.
+E venivano da partiti con un _minimo_ di storia (anche se recente [^recente] ), tolto ovviamente Corbyn che si porta dietro **il solido colosso rappresentato dai laburisti inglesi**.
 
 [^recente]: Podemos è stato fondato nel 2014, il Parti de Gauche di Mélenchon nel 2008 mentre i laburisti britannici hanno una storia risalente al 1900 
 
