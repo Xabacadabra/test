@@ -49,7 +49,7 @@ Quindi, avversione per la linea Renziana e macelli con le banche a parte, fondam
 
 ![movimento-5-stelle](https://meetuptaviano.files.wordpress.com/2013/01/ricerca-rappresentanti-di-lista21.jpg)
 
-Il Movimento, dal canto suo, **poneva temi eticamente interessanti sia sul piano morale che su quello etico-ecologico**, sebbene l'effetto _"dilettanti allo sbaraglio"_ unito alle ingerenze della **Casaleggio Associati** non mi piacessero per nulla, esattamente come **parecchie sparate di Grillo** (da queste parti trattai l'argomento un paio di volte, tipo [qua](https://www.xabacadabra.com/2015/hashtag-iononleggorepubblica-e-una-stronzata/)). 
+Il Movimento, dal canto suo, **poneva temi eticamente interessanti sia sul piano morale che su quello etico-ecologico**, sebbene l'effetto _"dilettanti allo sbaraglio"_ unito a referendum no-Euro e alle ingerenze della **Casaleggio Associati** non mi piacessero per nulla, esattamente come **parecchie sparate di Grillo** (da queste parti trattai l'argomento un paio di volte, tipo [qua](https://www.xabacadabra.com/2015/hashtag-iononleggorepubblica-e-una-stronzata/)). 
 
 Soprattutto, **non mi è mai piaciuto il concetto _"destra e sinistra sono categorie superate"_**, sebbene il sottoscritto sostenga da sempre quanto queste definizioni abbiano avuto **relativamente poco senso nell'Italia della Seconda Repubblica**.
 
@@ -98,7 +98,7 @@ Non lo diranno nel modo più _furbo_ e simpatico del mondo, ma ehi:
 
 Però, allo stesso modo, **come diavolo potrei avere lo stomaco di votare qualcuno che porta in seno complottisti, no-vax, eccetera ?** 
 
-A me non frega niente di **rimborsopoli**, preoccupa molto di più gente come [**Roberta Lombardi**](http://www.globalist.it/politics/articolo/2018/02/12/la-almirantiana-roberta-lombardi-torna-a-parlare-di-fascismo-buono-2019317.html) una che (detta garbatamente) mi pare 'na Giorgia Meloni dei poverissimi.
+A me non frega niente di **rimborsopoli**, preoccupa molto di più gente come [**Roberta Lombardi**](http://www.globalist.it/politics/articolo/2018/02/12/la-almirantiana-roberta-lombardi-torna-a-parlare-di-fascismo-buono-2019317.html)j una che (detta garbatamente) mi pare 'na Giorgia Meloni dei poverissimi.
 
 ## Liberi e Uguali
 
