@@ -18,8 +18,7 @@ sidebar:
 
 Quarta parte dell'intervista alla storica Designer della Serie: 
 
-Quest'IMMENSA intervista è stata realizzata da [4gamer](http://www.4gamer.net/games/064/G006480/20130227073/) nel 2013, ed originariamente tradotta in inglese dall'ottimo [**Shmuplations**](http://shmuplations.com/kazukoshibuya/).
-{:.notice-info}
+Quest'IMMENSA intervista è stata realizzata da [4gamer](http://www.4gamer.net/games/064/G006480/20130227073/) nel 2013, ed originariamente tradotta in inglese dall'ottimo [**Shmuplations**](http://shmuplations.com/kazukoshibuya/){:.notice-info}
 
 1. [**Prima Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
 
