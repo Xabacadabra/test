@@ -9,7 +9,7 @@ tags:
 header: 
   image:  images/intervista-kazuko-shibuya.jpg
   teaser: images/teaser-intervista-kazuko-shibuya.jpg 
-published: false
+published: true
 comments: true
 author_profile: false
 sidebar:
